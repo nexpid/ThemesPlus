@@ -24,6 +24,7 @@
 - [Vendetta Themes+](#-vendetta-themes)
   - [Table of Contents](#table-of-contents)
   - [Info](#info)
+  - [Links](#links)
   - [Using Vendetta Themes+](#using-vendetta-themes)
   - [Custom Icon Colors](#custom-icon-colors)
 
@@ -37,6 +38,13 @@ Users must install this [**plugin**](https://github.com/Gabe616/VendettaPlugins/
 It's recommended to include this message (or something similiar to it) wherever you're promoting your themes:
 
 > This theme uses Themes+, install it here: [**Themes+**](https://discord.com/channels/1015931589865246730/1033532783659847710/1093646560128151643)
+
+## Links
+
+- [This repository](https://github.com/Gabe616/VendettaThemesPlus)
+- [Plugins channel link](https://canary.discord.com/channels/1015931589865246730/1015931590741872712) (doesn't exist yet)
+- [Plugin link](https://gabe616.github.io/VendettaPlugins/themes-plus)
+- [Plugin source code](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/themes-plus)
 
 ## Using Vendetta Themes+
 
@@ -66,16 +74,19 @@ Structure:
 Example:
 
 ```json
-"icons": {
-	"ic_new_pins": [
-		"#FAA",
-		"#AFA",
-		"#AAF",
-		"#FAF"
-	],
-	"emoji": [
-		"#AFF"
-	]
+"plus": {
+	"version": "N/A",
+	"icons": {
+		"ic_new_pins": [
+			"#FAA",
+			"#AFA",
+			"#AAF",
+			"#FAF"
+		],
+		"emoji": [
+			"#AFF"
+		]
+	}
 }
 ```
 
