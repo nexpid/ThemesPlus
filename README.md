@@ -26,7 +26,8 @@
   - [Info](#info)
   - [Links](#links)
   - [Using Vendetta Themes+](#using-vendetta-themes)
-  - [Custom Icon Colors](#custom-icon-colors)
+    - [Custom Icon Colors](#custom-icon-colors)
+    - [Unread Badge Color](#unread-badge-color)
 
 ## Info
 
@@ -64,12 +65,14 @@ Example:
 
 ### Custom Icon Colors
 
-Currently the one and only feature of Vendetta Themes+ is the ability to recolor icons.  
+Recolors icons. (this changes the color of the icon _completely_!)  
 Structure:
 
 - `icons` — object, contains all the icons
   - key — string, codename of an asset
-  - value — string array, hex colors of this icon for each theme in this order: dark, light, amoled, darker (only one color is required)
+  - value
+    - string array, hex colors of this icon for each theme[^1] (only one color is required)
+    - string, applies to all themes
 
 Example:
 
@@ -96,3 +99,29 @@ Would look like:
 | -------------------------------------------- | ---------------------------------------- | ----------------------------------------- | ------------------------------------------ | ------------------------------------------ |
 | ![](./assets/icons/ic_new_pins/original.png) | ![](./assets/icons/ic_new_pins/dark.png) | ![](./assets/icons/ic_new_pins/light.png) | ![](./assets/icons/ic_new_pins/amoled.png) | ![](./assets/icons/ic_new_pins/darker.png) |
 | ![](./assets/icons/emoji/original.png)       | ![](./assets/icons/emoji/dark.png)       | ![](./assets/icons/emoji/original.png)    | ![](./assets/icons/emoji/dark.png)         | ![](./assets/icons/emoji/dark.png)         |
+
+### Unread Badge Color
+
+Changes the color of the unread badge indicator.
+Structure:
+
+- `unreadBadgeColor`
+  - string array, hex colors of this icon for each theme[^1] (only one color is required)
+  - string, applies to all themes
+
+Example:
+
+```json
+"plus": {
+	"version": 0,
+	"unreadBadgeColor": "#FFA"
+}
+```
+
+Would look like:
+
+| Original                                             | Recolored                                             |
+| ---------------------------------------------------- | ----------------------------------------------------- |
+| ![](./assets/examples/unreadbadgecolor_original.png) | ![](./assets/examples/unreadbadgecolor_recolored.png) |
+
+[^1]: Themes go in this order: _dark, light, amoled, darker_
