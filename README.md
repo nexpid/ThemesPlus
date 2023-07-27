@@ -30,7 +30,7 @@
 
 ## Info
 
-The latest structure version of Vendetta Themes+ is `N/A`
+The latest structure version of Vendetta Themes+ is `0`
 
 Vendetta Themes+ is a plugin that adds more customizability to themes.
 
@@ -52,13 +52,13 @@ Using Vendetta Themes+ is as easy as adding this property to your theme.
 Structure:
 
 - `plus` — object, contains everything
-  - version — string, used for backwards compability
+  - version — number, used for backwards compability
 
 Example:
 
 ```json
 "plus": {
-	"version": "N/A"
+	"version": 0
 }
 ```
 
@@ -75,7 +75,7 @@ Example:
 
 ```json
 "plus": {
-	"version": "N/A",
+	"version": 0,
 	"icons": {
 		"ic_new_pins": [
 			"#FAA",
