@@ -41,7 +41,7 @@ It's recommended to include this message (or something similiar to it) wherever 
 ## Links
 
 - [This repository](https://github.com/Gabe616/VendettaThemesPlus)
-- [Plugins channel link](https://canary.discord.com/channels/1015931589865246730/1015931590741872712) (doesn't exist yet)
+- [Plugins channel link](https://discord.com/channels/1015931589865246730/1033532783659847710/1093646560128151643) (doesn't exist yet)
 - [Plugin link](https://gabe616.github.io/VendettaPlugins/themes-plus)
 - [Plugin source code](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/themes-plus)
 
