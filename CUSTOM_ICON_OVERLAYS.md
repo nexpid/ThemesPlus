@@ -14,9 +14,9 @@ Structure:
 | ic_new_pins       | ![](./assets/custom-overlay/ic_new_pins/original.png)       | ![](./assets/custom-overlay/ic_new_pins/base.png)       |
 | ic_new_pins_light | ![](./assets/custom-overlay/ic_new_pins_light/original.png) | ![](./assets/custom-overlay/ic_new_pins_light/base.png) |
 
-# ic_radio_square_checked
+# ic_radio_square_checked_24px
 
-# ic_selection_checked
+# ic_selection_checked_24px
 
 # ic_check
 
@@ -29,12 +29,12 @@ Color system:
 
 Structure:
 
-| Name                    | Original                                                          | New Base                                                      | Overlay                                                          |
-| ----------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ic_radio_square_checked | ![](./assets/custom-overlay/ic_radio_square_checked/original.png) | ![](./assets/custom-overlay/ic_radio_square_checked/base.png) | ![](./assets/custom-overlay/ic_radio_square_checked/overlay.png) |
-| ic_selection_checked    | ![](./assets/custom-overlay/ic_check/original.png)                | ![](./assets/custom-overlay/ic_check/base.png)                | ![](./assets/custom-overlay/ic_check/overlay.png)                |
-| ic_check                | ![](./assets/custom-overlay/ic_check/original.png)                | ![](./assets/custom-overlay/ic_check/base.png)                | ![](./assets/custom-overlay/ic_check/overlay.png)                |
-| ic_radio_circle_checked | ![](./assets/custom-overlay/ic_check/original.png)                | ![](./assets/custom-overlay/ic_check/base.png)                | ![](./assets/custom-overlay/ic_check/overlay.png)                |
+| Name                         | Original                                                          | New Base                                                      | Overlay                                                          |
+| ---------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ic_radio_square_checked_24px | ![](./assets/custom-overlay/ic_radio_square_checked/original.png) | ![](./assets/custom-overlay/ic_radio_square_checked/base.png) | ![](./assets/custom-overlay/ic_radio_square_checked/overlay.png) |
+| ic_selection_checked_24px    | ![](./assets/custom-overlay/ic_check/original.png)                | ![](./assets/custom-overlay/ic_check/base.png)                | ![](./assets/custom-overlay/ic_check/overlay.png)                |
+| ic_check                     | ![](./assets/custom-overlay/ic_check/original.png)                | ![](./assets/custom-overlay/ic_check/base.png)                | ![](./assets/custom-overlay/ic_check/overlay.png)                |
+| ic_radio_circle_checked      | ![](./assets/custom-overlay/ic_check/original.png)                | ![](./assets/custom-overlay/ic_check/base.png)                | ![](./assets/custom-overlay/ic_check/overlay.png)                |
 
 # app_installed_check
 
