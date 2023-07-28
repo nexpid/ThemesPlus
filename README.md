@@ -32,7 +32,9 @@
 
 The latest structure version of Vendetta Themes+ is `0`
 
-Vendetta Themes+ is a plugin that adds more customizability to themes.
+Vendetta Themes+ is a plugin that adds more customizability to themes, such as:
+
+- recoloring icons ([completely](#custom-icon-colors), [unread badges](#unread-badge-color), and [seperate layers](#custom-icon-overlays))
 
 Users must install this [**plugin**](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/themes-plus) in order to see Vendetta Themes+ in action.  
 It's recommended to include this message (or something similiar to it) wherever you're promoting your themes:
