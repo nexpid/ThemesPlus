@@ -22,10 +22,11 @@
   - [Table of Contents](#table-of-contents)
   - [Info](#info)
   - [Links](#links)
+  - [Examples](#Examples)
   - [Using Vendetta Themes+](#using-vendetta-themes)
     - [Custom Icon Colors](#custom-icon-colors)
     - [Unread Badge Color](#unread-badge-color)
-  - [Custom Icon Overlays](#custom-icon-overlays)
+    - [Custom Icon Overlays](#custom-icon-overlays)
 
 ## Info
 
@@ -44,6 +45,10 @@ It's recommended to include this message (or something similiar to it) wherever 
 - [Plugins channel link](https://discord.com/channels/1015931589865246730/1033532783659847710/1093646560128151643) (doesn't exist yet)
 - [Plugin link](https://gabe616.github.io/VendettaPlugins/themes-plus)
 - [Plugin source code](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/themes-plus)
+
+## Examples
+
+There's currently no themes using Themes+!
 
 ## Using Vendetta Themes+
 
