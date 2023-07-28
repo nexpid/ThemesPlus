@@ -48,7 +48,7 @@ It's recommended to include this message (or something similiar to it) wherever 
 
 ## Examples
 
-There's currently no themes using Themes+!
+- [MonetTheme](https://github.com/Gabe616/VendettaMonetTheme/)
 
 ## Using Vendetta Themes+
 
