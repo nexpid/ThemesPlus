@@ -16,9 +16,6 @@
     <h1>🎨 Vendetta Themes+</h1>
 </div>
 
-> **Warning**
-> You've stumbled upon an unfinished repo, nothing in this README works yet!
-
 ## Table of Contents
 
 - [Vendetta Themes+](#-vendetta-themes)
@@ -28,6 +25,7 @@
   - [Using Vendetta Themes+](#using-vendetta-themes)
     - [Custom Icon Colors](#custom-icon-colors)
     - [Unread Badge Color](#unread-badge-color)
+  - [Custom Icon Overlays](#custom-icon-overlays)
 
 ## Info
 
@@ -69,7 +67,7 @@ Recolors icons. (this changes the color of the icon _completely_!)
 Structure:
 
 - `icons` — object, contains all the icons
-  - key — string, codename of an asset
+  - key — string, codename of an asset (or a [custom icon overlay](#custom-icon-overlays))
   - value
     - string array, hex colors of this icon for each theme[^1] (only one color is required)
     - string, applies to all themes
@@ -120,8 +118,36 @@ Example:
 
 Would look like:
 
-| Original                                             | Recolored                                             |
-| ---------------------------------------------------- | ----------------------------------------------------- |
-| ![](./assets/examples/unreadbadgecolor_original.png) | ![](./assets/examples/unreadbadgecolor_recolored.png) |
+| Original                                      | Recolored                                      |
+| --------------------------------------------- | ---------------------------------------------- |
+| ![](./assets/unread-badge-color/original.png) | ![](./assets/unread-badge-color/recolored.png) |
+
+### Custom Icon Overlays
+
+Adds extra customizable layers to icons. [**Here's the full list**](./CUSTOM_ICON_OVERLAYS.md)
+
+Structure:
+
+- `customOverlays` — boolean, whether custom icon overlays are enabled
+
+Example:
+
+```json
+"plus": {
+	"version": 0,
+	"unreadBadgeColor": "#FAF",
+	"icons": {
+		"ic_radio_square_checked__overlay": "#FFA"
+	},
+	"customOverlays": true
+}
+```
+
+Would look like:
+
+| Original                                                          | Recolored                                                          |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ![](./assets/custom-overlay/ic_new_pins/original.png)             | ![](./assets/custom-overlay/ic_new_pins/recolored.png)             |
+| ![](./assets/custom-overlay/ic_radio_square_checked/original.png) | ![](./assets/custom-overlay/ic_radio_square_checked/recolored.png) |
 
 [^1]: Themes go in this order: _dark, light, amoled, darker_
