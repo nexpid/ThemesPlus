@@ -27,6 +27,8 @@
     - [Custom Icon Colors](#custom-icon-colors)
     - [Unread Badge Color](#unread-badge-color)
     - [Custom Icon Overlays](#custom-icon-overlays)
+  - [Mention Line Color](#mention-line-color)
+  - [The Color System](#the-color-system)
 
 ## Info
 
@@ -75,9 +77,7 @@ Structure:
 
 - `icons` — object, contains all the icons
   - key — string, codename of an asset (or a [custom icon overlay](#custom-icon-overlays))
-  - value
-    - string array, hex colors of this icon for each theme[^1] (only one color is required)
-    - string, applies to all themes
+  - value — [color](#the-color-system)
 
 Example:
 
@@ -110,9 +110,7 @@ Would look like:
 Changes the color of the unread badge indicator.
 Structure:
 
-- `unreadBadgeColor`
-  - string array, hex colors of this icon for each theme[^1] (only one color is required)
-  - string, applies to all themes
+- `unreadBadgeColor` — [color](#the-color-system)
 
 Example:
 
@@ -157,4 +155,43 @@ Would look like:
 | ![](./assets/custom-overlay/ic_new_pins/original.png)             | ![](./assets/custom-overlay/ic_new_pins/recolored.png)             |
 | ![](./assets/custom-overlay/ic_radio_square_checked/original.png) | ![](./assets/custom-overlay/ic_radio_square_checked/recolored.png) |
 
-[^1]: Themes go in this order: _dark, light, amoled, darker_
+### Mention Line Color
+
+Recolors the line next to a message where you were mentioned
+
+Structure:
+
+- `mentionLineColor` — [color](#the-color-system)
+
+Example:
+
+```json
+"plus": {
+	"version": 0,
+	"mentionLineColor": "#F00"
+}
+```
+
+Would look like:
+
+| Original                                      | Recolored                                      |
+| --------------------------------------------- | ---------------------------------------------- |
+| ![](./assets/mention-line-color/original.png) | ![](./assets/mention-line-color/recolored.png) |
+
+## The Color System
+
+A color can be:
+
+- An array of strings, representing a hex code for each theme in this order: **dark, light, amoled, darker** (only the first color is required)
+- A string, representing a RawColor that applies to all themes (must begin with `RC_`) ([list of all RawColors](https://github.com/Gabe616/VendettaThemeUtil/blob/main/colors/latest/RawColors.json))
+- A string, representing a SemanticColor that applies to the current theme (must begin with `SC_`) ([list of all SemanticColors](https://github.com/Gabe616/VendettaThemeUtil/blob/main/colors/latest/SemanticColors.json))
+- A string, a hex code for each theme
+
+Example: (assuming an unthemed client with dark mode)
+
+| Color                      | Preview                         |
+| -------------------------- | ------------------------------- |
+| `["#FAA", "#AFA", "#AAF"]` | ![](./assets/colors/first.svg)  |
+| `RC_SPOTIFY`               | ![](./assets/colors/second.svg) |
+| `SC_TEXT_LINK`             | ![](./assets/colors/third.svg)  |
+| `#FAF`                     | ![](./assets/colors/fourth.svg) |
