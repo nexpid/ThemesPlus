@@ -22,7 +22,7 @@
   - [Table of Contents](#table-of-contents)
   - [Info](#info)
   - [Links](#links)
-  - [Examples](#Examples)
+  - [Examples](#examples)
   - [Using Vendetta Themes+](#using-vendetta-themes)
     - [Custom Icon Colors](#custom-icon-colors)
     - [Unread Badge Color](#unread-badge-color)
