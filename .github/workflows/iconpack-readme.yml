@@ -27,11 +27,11 @@ jobs:
       - name: Install PNPM
         run: |
           npm i -g pnpm
-          cd github/scripts
+          cd .github/scripts
           pnpm i
 
       - name: Write README
-        working-directory: github/scripts
+        working-directory: .github/scripts
         run: node iconpack_readme/index.mjs
 
       - name: Commit changes
