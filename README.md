@@ -28,6 +28,7 @@
     - [Unread Badge Color](#unread-badge-color)
     - [Custom Icon Overlays](#custom-icon-overlays)
     - [Mention Line Color](#mention-line-color)
+  - [Icon Pack](#icon-pack)
   - [The Color System](#the-color-system)
 
 ## Info
