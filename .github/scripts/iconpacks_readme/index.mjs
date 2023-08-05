@@ -42,7 +42,7 @@ for (let i = 0; i < list.length; i += columns) {
                 .join(", "),
             ],
           ]
-            .map(([key, val]) => `<b>${key}</b> ${val}`)
+            .map(([key, val]) => `<b>${key}</b>: ${val}`)
             .join("\n<br/>\n")}</td>`
       )
       .join("\n")}</tr>`
