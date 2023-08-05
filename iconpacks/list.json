@@ -1,5 +1,5 @@
 {
-  "$schema": "./../.github/iconpack_list_schema.json",
+  "$schema": "./../.github/iconpacks_list_schema.json",
   "list": [
     {
       "id": "rosiecord-plumpy",

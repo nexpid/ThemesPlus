@@ -4,9 +4,12 @@ import { join } from "path";
 
 console.time("Done");
 
-const template = await readFile(join("iconpack_readme", "template.md"), "utf8");
+const template = await readFile(
+  join("iconpacks_readme", "template.md"),
+  "utf8"
+);
 const { list } = JSON.parse(
-  await readFile(join("../../", "iconpack", "list.json"), "utf8")
+  await readFile(join("../../", "iconpacks", "list.json"), "utf8")
 );
 
 const columns = 2;
@@ -47,7 +50,7 @@ for (let i = 0; i < list.length; i += columns) {
 }
 
 await writeFile(
-  join("../../", "iconpack", "README.md"),
+  join("../../", "iconpacks", "README.md"),
   await format(
     template.replace(
       /{{}}/g,
