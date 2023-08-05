@@ -23,7 +23,7 @@
   - [Info](#info)
   - [Links](#links)
   - [Examples](#examples)
-  - [Using Vendetta Themes+](#using-vendetta-themes)
+  - [Structure](#structure)
     - [Custom Icon Colors](#custom-icon-colors)
     - [Unread Badge Color](#unread-badge-color)
     - [Custom Icon Overlays](#custom-icon-overlays)
@@ -31,8 +31,6 @@
   - [The Color System](#the-color-system)
 
 ## Info
-
-The latest structure version of Vendetta Themes+ is `0`
 
 Vendetta Themes+ is a plugin that adds more customizability to themes, such as:
 
@@ -58,9 +56,10 @@ This theme uses Themes+, install it here: <#1134225314923417690>
 - MonetTheme — [\[plugin link\]](https://vendetta.nexpid.xyz/monet-theme)
 - Maggie's Purple — [\[channel link\]](https://discord.com/channels/1015931589865246730/1137102371172917380) [\[theme link\]](https://raw.githubusercontent.com/maggster165/vendettathemes/main/maggiespurple.json)
 
-## Using Vendetta Themes+
+## Structure
 
 Using Vendetta Themes+ is as easy as adding this property to your theme.  
+The latest structure version of Vendetta Themes+ is `0`
 Structure:
 
 - `plus` — object, contains everything
