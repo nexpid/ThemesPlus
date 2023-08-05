@@ -1,0 +1,23 @@
+{
+  "$schema": "./../.github/iconpack_list_schema.json",
+  "list": [
+    {
+      "id": "rosiecord-plumpy",
+      "description": "From Rosiecord, constantly updated with new icons by another Rosie :3",
+      "credits": {
+        "authors": ["Rosie <581573474296791211>", "ssalggnikool"],
+        "source": "https://icons8.com/icons/plumpy"
+      },
+      "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Plumpy/"
+    },
+    {
+      "id": "rosiecord-iconsax",
+      "description": "From Rosiecord, uses some icons from Plumpy, given by Flower :3, includes quite modern icons",
+      "credits": {
+        "authors": ["Rosie <581573474296791211>", "Flower :3"],
+        "source": "https://iconsax.io/"
+      },
+      "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Iconsax/"
+    }
+  ]
+}
