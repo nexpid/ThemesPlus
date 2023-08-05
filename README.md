@@ -27,7 +27,7 @@
     - [Custom Icon Colors](#custom-icon-colors)
     - [Unread Badge Color](#unread-badge-color)
     - [Custom Icon Overlays](#custom-icon-overlays)
-  - [Mention Line Color](#mention-line-color)
+    - [Mention Line Color](#mention-line-color)
   - [The Color System](#the-color-system)
 
 ## Info
@@ -38,21 +38,24 @@ Vendetta Themes+ is a plugin that adds more customizability to themes, such as:
 
 - recoloring icons ([completely](#custom-icon-colors), [unread badges](#unread-badge-color), and [seperate layers](#custom-icon-overlays))
 
-Users must install this [**plugin**](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/themes-plus) in order to see Vendetta Themes+ in action.  
+Users must install this [**plugin**](https://vendetta.nexpid.xyz/monet-theme) in order to see Vendetta Themes+ in action.  
 It's recommended to include this message (or something similiar to it) wherever you're promoting your themes:
 
-> This theme uses Themes+, install it here: [**Themes+**](https://discord.com/channels/1015931589865246730/1033532783659847710/1093646560128151643)
+```
+This theme uses Themes+, install it here: <#1134225314923417690>
+```
 
 ## Links
 
 - [This repository](https://github.com/Gabe616/VendettaThemesPlus)
-- [Plugins channel link](https://discord.com/channels/1015931589865246730/1033532783659847710/1093646560128151643) (doesn't exist yet)
-- [Plugin link](https://gabe616.github.io/VendettaPlugins/themes-plus)
+- [Plugins channel link](#) (doesn't exist yet)
+- [Plugin link](https://vendetta.nexpid.xyz/themes-plus)
 - [Plugin source code](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/themes-plus)
 
 ## Examples
 
-- [MonetTheme](https://github.com/Gabe616/VendettaMonetTheme/)
+- MonetTheme — [\[plugin link\]](https://vendetta.nexpid.xyz/monet-theme)
+- Maggie's Purple — [\[channel link\]](https://discord.com/channels/1015931589865246730/1137102371172917380) [\[theme link\]](https://raw.githubusercontent.com/maggster165/vendettathemes/main/maggiespurple.json)
 
 ## Using Vendetta Themes+
 
