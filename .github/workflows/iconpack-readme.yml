@@ -25,13 +25,13 @@ jobs:
           node-version: 18.x
 
       - name: Install PNPM
-        working-directory: ./github/scripts
         run: |
           npm i -g pnpm
+          cd github/scripts
           pnpm i
 
       - name: Write README
-        working-directory: ./github/scripts
+        working-directory: github/scripts
         run: node iconpack_readme/index.mjs
 
       - name: Commit changes
