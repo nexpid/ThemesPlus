@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Schema for the iconpack list",
+  "type": "object",
+  "required": ["list"],
+  "properties": {
+    "list": {
+      "description": "The actual array containing all the iconpacks",
+      "default": true,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "description", "credits"],
+        "properties": {
+          "id": {
+            "description": "The ID of the iconpack, should always be the name of the iconpack's folder",
+            "default": true,
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "description": {
+            "description": "A short description of the iconpack",
+            "default": true,
+            "type": "string",
+            "minLength": 5
+          },
+          "credits": {
+            "type": "object",
+            "required": ["authors", "source"],
+            "properties": {
+              "authors": {
+                "description": "An array of all the authors that made/own this iconpack",
+                "default": true,
+                "type": "array",
+                "items": {
+                  "description": "The author's name with their (optional) Discord user ID in angle brackets (nexpid <853550207039832084>)",
+                  "type": "string",
+                  "pattern": "^(.+)(?:(?= <) <(\\d+)>)?$"
+                }
+              },
+              "source": {
+                "description": "The original source of the iconpack",
+                "default": true,
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          },
+          "load": {
+            "description": "The URL that points to the raw files of the iconpack, if left empty loads from iconpack/assets/[id]",
+            "default": false,
+            "type": "string",
+            "format": "uri"
+          }
+        }
+      }
+    }
+  }
+}
