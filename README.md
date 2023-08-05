@@ -60,7 +60,7 @@ This theme uses Themes+, install it here: <#1134225314923417690>
 ## Structure
 
 Using Vendetta Themes+ is as easy as adding this property to your theme.  
-The latest structure version of Vendetta Themes+ is `0`
+The latest structure version of Vendetta Themes+ is `0`  
 Structure:
 
 - `plus` — object, contains everything
@@ -133,7 +133,7 @@ Would look like:
 
 ### Custom Icon Overlays
 
-Adds extra customizable layers to icons. [**Here's the full list**](./CUSTOM_ICON_OVERLAYS.md)
+Adds extra customizable layers to icons. You can find the full list[**here**](./CUSTOM_ICON_OVERLAYS.md)
 
 Structure:
 
@@ -184,10 +184,28 @@ Would look like:
 
 ### Icon Pack
 
-> **Warning**
-> This feature isn't available in the Themes+ plugin yet
+Changes how icons look. You can find the full list of iconpacks [**here**](./iconpacks/README.md)
 
-Documentation WIP
+Structure:
+
+- `iconPack` — string, the name of the iconpack
+
+Example:
+
+```json
+"plus": {
+	"version": 0,
+	"iconPack": "rosiecord-plumpy"
+}
+```
+
+Would look like:
+
+| Original Icons                                                                                                                                             | rosiecord-plumpy                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://raw.githubusercontent.com/Wumpus-Central/Discord-Datamining-Android/main/res/drawable-xxhdpi/images_native_main_tabs_messages.png)             | ![](https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Plumpy/images/native/main_tabs/Messages%403x.png)                           |
+| ![](https://raw.githubusercontent.com/Wumpus-Central/Discord-Datamining-Android/main/res/drawable-xxhdpi/images_native_icons_ic_stage_channel_24px.png)    | ![](https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Plumpy/modules/stage_channels/native/images/ic_stage_channel_24px%403x.png) |
+| ![](https://raw.githubusercontent.com/Wumpus-Central/Discord-Datamining-Android/main/res/drawable-xxhdpi/images_native_icons_ic_notification_settings.png) | ![](https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Plumpy/images/native/icons/ic_notification_settings%403x.png)               |
 
 ## The Color System
 
