@@ -27,7 +27,7 @@ for (let i = 0; i < list.length; i += columns) {
     `<tr>${packs
       .map(
         (pack) =>
-          `\t\t<td>\n${[
+          `<td>${[
             ["Name", pack.id],
             ["Description", pack.description],
             [
