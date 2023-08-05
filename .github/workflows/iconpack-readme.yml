@@ -1,0 +1,43 @@
+name: Iconpack Readme Writer
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "iconpacks/list.json"
+
+concurrency:
+  group: ${{ github.ref }}
+
+jobs:
+  write:
+    runs-on: ubuntu-latest
+    name: Write Readme
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+
+      - name: Install PNPM
+        working-directory: ./github/scripts
+        run: |
+          npm i -g pnpm
+          pnpm i
+
+      - name: Write README
+        working-directory: ./github/scripts
+        run: node iconpack_readme/index.mjs
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add iconpack/README.md
+          git commit -m "chore: update iconpack README" | true
+          git push
