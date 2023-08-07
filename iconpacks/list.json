@@ -8,6 +8,7 @@
         "authors": ["Rosie <581573474296791211>", "ssalggnikool"],
         "source": "https://icons8.com/icons/plumpy"
       },
+      "suffix": "@2x",
       "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Plumpy/"
     },
     {
@@ -17,6 +18,7 @@
         "authors": ["Rosie <581573474296791211>", "Flower :3"],
         "source": "https://iconsax.io/"
       },
+      "suffix": "@2x",
       "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Iconsax/"
     }
   ]

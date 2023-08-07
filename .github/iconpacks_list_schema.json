@@ -10,7 +10,7 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "description", "credits"],
+        "required": ["id", "description", "credits", "suffix", "load"],
         "properties": {
           "id": {
             "description": "The ID of the iconpack, should always be the name of the iconpack's folder",
@@ -46,11 +46,30 @@
               }
             }
           },
+          "suffix": {
+            "description": "The suffix of the image path (@2x)",
+            "default": false,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
           "load": {
             "description": "The URL that points to the raw files of the iconpack, if left empty loads from iconpack/assets/[id]",
             "default": false,
-            "type": "string",
-            "format": "uri"
+            "oneOf": [
+              {
+                "type": "string",
+                "format": "uri"
+              },
+              {
+                "type": "null"
+              }
+            ]
           }
         }
       }
