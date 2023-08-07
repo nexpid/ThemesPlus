@@ -38,7 +38,6 @@ Vendetta Themes+ is a plugin that adds more customizability to themes, such as:
 - recoloring icons ([completely](#custom-icon-colors), [unread badges](#unread-badge-color), and [seperate layers](#custom-icon-overlays))
 - [changing the mention line color](#mention-line-color)
 
-Users must install [this plugin](https://vendetta.nexpid.xyz/monet-theme) in order to use Vendetta Themes+.  
 It's recommended to include this message (or something similiar to it) wherever you're promoting your theme:
 
 ```
