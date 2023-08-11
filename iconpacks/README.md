@@ -27,4 +27,14 @@ Here's a list of all available icon packs:
       :3
     </td>
   </tr>
+  <tr>
+    <td>
+      <b>Name</b>: m3-materialyou
+      <br />
+      <b>Description</b>: M3 MaterialYou icons for Vendetta Mod
+      <br />
+      <b>Authors</b>:
+      <a href="https://discord.com/users/703634705152606318">panniku</a>
+    </td>
+  </tr>
 </table>

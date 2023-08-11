@@ -5,7 +5,7 @@
 	<a href="https://github.com/Gabe616/VendettaThemesPlus/issues">
 		<img alt="GitHub issues" src="https://img.shields.io/github/issues/Gabe616/VendettaThemesPlus?style=for-the-badge&color=74c7ec&labelColor=1e1e2e&logo=gitbook&logoColor=fff">
 	</a>
-	<a href="https://github.com/Gabe616/VendettaThemesPlus/issues">
+	<a href="https://github.com/Gabe616/VendettaThemesPlus/pulls">
 		<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Gabe616/VendettaThemesPlus?style=for-the-badge&color=a6e3a1&labelColor=1e1e2e&logo=saucelabs&logoColor=fff">
 	</a>
 	<a href="https://discord.gg/n9QQ4XhhJP">
