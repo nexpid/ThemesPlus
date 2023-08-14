@@ -43,13 +43,7 @@ jobs:
       - name: Write README
         working-directory: base/.github/scripts
         run: node iconpacks_readme/index.mjs
-  publish:
-    needs: write
-    runs-on: ubuntu-latest
-    name: Publish
-    permissions:
-      contents: write
-    steps:
+
       - name: Commit changes
         working-directory: wiki
         run: |
