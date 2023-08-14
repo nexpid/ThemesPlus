@@ -50,8 +50,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          sha=
-          git add iconpacks/README.md
+          git Iconpacks.md
           git commit -m "chore: update iconpacks (${{ github.sha || 'ran manually' }})" | true
           git pull
           git push
