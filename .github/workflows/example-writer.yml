@@ -42,6 +42,6 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
-          git commit -m "chore: update README examples" | true
+          git commit -m "chore: update README examples (${{ github.sha || 'ran manually' }})" | true
           git pull
           git push

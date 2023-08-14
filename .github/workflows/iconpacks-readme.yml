@@ -35,13 +35,29 @@ jobs:
       - name: Write README
         working-directory: .github/scripts
         run: node iconpacks_readme/index.mjs
+  publish:
+    runs-on: ubuntu-latest
+    name: Publish
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          repository: ${{ github.repository }}.wiki
+          path: wiki
+
+      - name: Copy files
+        working-directory: wiki
+        run: cp ../ICONPACKS_README.md wiki/Iconpacks.md
 
       - name: Commit changes
+        working-directory: wiki
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          sha=
           git add iconpacks/README.md
-          git commit -m "chore: update iconpacks README" | true
+          git commit -m "chore: update iconpacks (${{ github.sha || 'ran manually' }})" | true
           git pull
           git push

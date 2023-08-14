@@ -50,7 +50,7 @@ for (let i = 0; i < list.length; i += columns) {
 }
 
 await writeFile(
-  join("../../", "iconpacks", "README.md"),
+  join("../../", "ICONPACKS_README.md"),
   await format(
     template.replace(
       /{{}}/g,
