@@ -49,7 +49,7 @@ jobs:
 
       - name: Copy files
         working-directory: wiki
-        run: cp ../ICONPACKS_README.md wiki/Iconpacks.md
+        run: cp ../ICONPACKS_README.md Iconpacks.md
 
       - name: Commit changes
         working-directory: wiki
