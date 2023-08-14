@@ -43,4 +43,5 @@ jobs:
 
           git add README.md
           git commit -m "chore: update README examples" | true
+          git pull
           git push

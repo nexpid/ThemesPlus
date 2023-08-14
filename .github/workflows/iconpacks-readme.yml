@@ -43,4 +43,5 @@ jobs:
 
           git add iconpacks/README.md
           git commit -m "chore: update iconpacks README" | true
+          git pull
           git push
