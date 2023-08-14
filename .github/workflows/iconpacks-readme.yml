@@ -21,19 +21,27 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
+        with:
+          path: base
+
+      - uses: actions/checkout@v3
+        with:
+          repository: ${{ github.repository }}.wiki
+          path: wiki
 
       - uses: actions/setup-node@v3
         with:
           node-version: 18.x
 
       - name: Install PNPM
+        working-directory: base
         run: |
           npm i -g pnpm
           cd .github/scripts
           pnpm i
 
       - name: Write README
-        working-directory: .github/scripts
+        working-directory: base/.github/scripts
         run: node iconpacks_readme/index.mjs
   publish:
     needs: write
@@ -42,15 +50,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-        with:
-          repository: ${{ github.repository }}.wiki
-          path: wiki
-
-      - name: Copy files
-        working-directory: wiki
-        run: cp ../ICONPACKS_README.md Iconpacks.md
-
       - name: Commit changes
         working-directory: wiki
         run: |
