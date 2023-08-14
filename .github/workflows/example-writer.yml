@@ -5,7 +5,9 @@ on:
     branches:
       - main
     paths:
-      - a
+      - "examples.tsv"
+      - ".github/scripts/example_writer/**/*.*"
+      - "./github/workflows/example-writer.yml"
   workflow_dispatch:
 
 concurrency:
