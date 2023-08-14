@@ -77,6 +77,8 @@ This theme has Themes+ support, install it here: <#12345>
 - [Purple Kitty](https://discord.com/channels/1015931589865246730/1138099451026747402/1138101958645911573) — [\[copy theme link\]](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme-Plus/main/PurpleKitty%20Plus.json)
 - [Midnight](https://discord.com/channels/1015931589865246730/1138416851815239791) — [\[copy theme link\]](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme-Plus/main/Midnight%20Plus.json)
 - [CityFog](https://discord.com/channels/1015931589865246730/1138877237857353758) — [\[copy theme link\]](https://raw.githubusercontent.com/Quinxxxx/Discord/main/Vendetta/CityFog.json)
+- [Catty](https://discord.com/channels/1015931589865246730/1140193359256887336) — [\[copy theme link\]](https://raw.githubusercontent.com/ArisonID/aris-silly-themes/main/Catty.json)
+- [ClearVision](https://discord.com/channels/1015931589865246730/1140264173457133669) — [\[copy theme link\]](https://raw.githubusercontent.com/TakiShiwa/Themes/main/ClearVision/Vendetta/ClearVision.json)
 
 ## Structure
 
