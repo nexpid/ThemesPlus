@@ -73,6 +73,8 @@ This theme has Themes+ support, install it here: <#12345>
 - [CityFog](https://discord.com/channels/1015931589865246730/1138877237857353758) — [\[copy theme link\]](https://raw.githubusercontent.com/Quinxxxx/Discord/main/Vendetta/CityFog.json)
 - [Catty](https://discord.com/channels/1015931589865246730/1140193359256887336) — [\[copy theme link\]](https://raw.githubusercontent.com/ArisonID/aris-silly-themes/main/Catty.json)
 - [ClearVision](https://discord.com/channels/1015931589865246730/1140264173457133669) — [\[copy theme link\]](https://raw.githubusercontent.com/TakiShiwa/Themes/main/ClearVision/Vendetta/ClearVision.json)
+- [MintY Green](https://discord.com/channels/1015931589865246730/1140677087636758559) — [\[copy theme link\]](https://raw.githubusercontent.com/Panniku/VendettaThemes/main/minty-green.json)
+- [Nord - in light mode](https://discord.com/channels/1015931589865246730/1140743874747310120) — [\[copy theme link\]](https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Vendetta/Nord/light_nord.json)
 
 ## Documentation
 
