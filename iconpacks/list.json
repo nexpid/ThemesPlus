@@ -5,38 +5,33 @@
       "id": "rosiecord-plumpy",
       "description": "From Rosiecord, constantly updated with new icons by another Rosie :3",
       "credits": {
-        "authors": [
-          "Rosie <581573474296791211>",
-          "ssalggnikool"
-        ],
+        "authors": ["Rosie <581573474296791211>", "ssalggnikool"],
         "source": "https://icons8.com/icons/plumpy"
       },
       "suffix": "@2x",
+      "config": "https://raw.githubusercontent.com/Gabe616/VendettaThemesPlus/main/iconpacks/configs/rosiecord-iconsax.json",
       "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Plumpy/"
     },
     {
       "id": "rosiecord-iconsax",
       "description": "From Rosiecord, uses some icons from Plumpy, given by Flower :3, includes quite modern icons",
       "credits": {
-        "authors": [
-          "Rosie <581573474296791211>",
-          "Flower :3"
-        ],
+        "authors": ["Rosie <581573474296791211>", "Flower :3"],
         "source": "https://iconsax.io/"
       },
       "suffix": "@2x",
+      "config": "https://raw.githubusercontent.com/Gabe616/VendettaThemesPlus/main/iconpacks/configs/rosiecord-iconsax.json",
       "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Iconsax/"
     },
     {
       "id": "m3-materialyou",
       "description": "M3 MaterialYou icons for Vendetta Mod",
       "credits": {
-        "authors": [
-          "panniku <703634705152606318>"
-        ],
+        "authors": ["panniku <703634705152606318>"],
         "source": "https://fonts.google.com/icons"
       },
       "suffix": "",
+      "config": "https://raw.githubusercontent.com/Panniku/themesplus-iconpacks/master/Packs/M3MaterialYou/config.json",
       "load": "https://raw.githubusercontent.com/panniku/themesplus-iconpacks/master/Packs/M3MaterialYou/"
     }
   ]

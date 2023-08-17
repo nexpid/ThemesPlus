@@ -48,7 +48,7 @@
           },
           "suffix": {
             "description": "The suffix of the image path (@2x)",
-            "default": false,
+            "default": true,
             "oneOf": [
               {
                 "type": "string"
@@ -58,9 +58,22 @@
               }
             ]
           },
+          "config": {
+            "description": "The URL that points to the iconpack's config file",
+            "default": true,
+            "oneOf": [
+              {
+                "type": "string",
+                "format": "uri"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
           "load": {
             "description": "The URL that points to the raw files of the iconpack, if left empty loads from iconpack/assets/[id]",
-            "default": false,
+            "default": true,
             "oneOf": [
               {
                 "type": "string",
