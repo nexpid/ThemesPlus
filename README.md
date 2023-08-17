@@ -79,6 +79,3 @@ This theme has Themes+ support, install it here: <#12345>
 ## Documentation
 
 Documentation for Themes+ is available [here](https://github.com/Gabe616/VendettaThemesPlus/wiki)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODY3MTE4N119
--->
