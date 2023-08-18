@@ -5,10 +5,7 @@
       "id": "rosiecord-plumpy",
       "description": "From Rosiecord, constantly updated with new icons by another Rosie :3",
       "credits": {
-        "authors": [
-          "Rosie <581573474296791211>",
-          "ssalggnikool"
-        ],
+        "authors": ["Rosie <581573474296791211>", "ssalggnikool"],
         "source": "https://icons8.com/icons/plumpy"
       },
       "suffix": "@2x",
@@ -19,10 +16,7 @@
       "id": "rosiecord-iconsax",
       "description": "From Rosiecord, uses some icons from Plumpy, given by Flower :3, includes quite modern icons",
       "credits": {
-        "authors": [
-          "Rosie <581573474296791211>",
-          "Flower :3"
-        ],
+        "authors": ["Rosie <581573474296791211>", "Flower :3"],
         "source": "https://iconsax.io/"
       },
       "suffix": "@2x",
@@ -33,9 +27,7 @@
       "id": "md3",
       "description": "MaterialDesign3 icons for Vendetta Mod",
       "credits": {
-        "authors": [
-          "panniku <703634705152606318>"
-        ],
+        "authors": ["panniku <703634705152606318>"],
         "source": "https://fonts.google.com/icons"
       },
       "suffix": "",
