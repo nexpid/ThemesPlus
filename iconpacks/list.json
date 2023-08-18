@@ -28,8 +28,8 @@
       "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Iconsax/"
     },
     {
-      "id": "m3-materialyou",
-      "description": "M3 MaterialYou icons for Vendetta Mod",
+      "id": "md3",
+      "description": "MaterialDesign3 icons for Vendetta Mod",
       "credits": {
         "authors": [
           "panniku <703634705152606318>"
@@ -37,7 +37,7 @@
         "source": "https://fonts.google.com/icons"
       },
       "suffix": "",
-      "load": "https://raw.githubusercontent.com/panniku/themesplus-iconpacks/master/Packs/M3MaterialYou/"
+      "load": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3"
     }
   ]
 }
