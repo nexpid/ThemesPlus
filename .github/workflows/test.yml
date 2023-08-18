@@ -1,0 +1,33 @@
+name: Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          path: base
+
+      - uses: actions/checkout@v3
+        with:
+          repository: ${{ github.repository }}.wiki
+          path: wiki
+
+      - name: Shenanigans
+        run: |
+          cp base/iconpacks/README.md wiki/Iconpacks.md
+
+      - name: Commit Changes
+        run: |
+          cd wiki
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"   
+          git add .
+          git commit -m "chore: update Iconpacks.md" | true
+          git pull
+          git push
