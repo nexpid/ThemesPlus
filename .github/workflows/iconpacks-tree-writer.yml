@@ -1,0 +1,59 @@
+name: Iconpacks Tree Writer
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "iconpacks/list.json"
+      - ".github/workflows/iconpacks-tree-writer.yml"
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.ref }}
+
+jobs:
+  write:
+    runs-on: ubuntu-latest
+    name: Write Trees
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          path: main
+
+      - uses: actions/checkout@v3
+        with:
+          ref: iconpack-trees
+          path: trees
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+
+      - name: Install PNPM
+        working-directory: main
+        run: |
+          npm i -g pnpm
+          cd .github/scripts
+          pnpm i
+
+      - name: Write Trees
+        working-directory: main/.github/scripts
+        run: node iconpacks_tree_writer/index.mjs
+        env:
+          github_repository: ${{ github.repository }}
+
+      - name: Commit changes
+        working-directory: trees
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          git commit -m "chore: update iconpacks trees" | true
+          git pull
+          git push
