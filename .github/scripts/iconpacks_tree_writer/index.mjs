@@ -19,11 +19,13 @@ for (const f of (
 for (const ic of list) {
   console.log(`Parsing tree for '${ic.id}'`);
 
+  const load = ic.load && (!ic.load.endsWith("/") ? ic.load + "/" : ic.load);
+
   let user, path;
-  if (ic.load) {
-    const split = ic.load.split("/");
+  if (load) {
+    const split = load.split("/");
     user = split.slice(3, 5).join("/");
-    path = split.slice(6);
+    path = split.slice(6, -1);
   } else {
     user = repo;
     path = ["assets", ic.id];

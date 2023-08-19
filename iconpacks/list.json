@@ -28,11 +28,11 @@
       "description": "MaterialDesign3 icons for Vendetta Mod",
       "credits": {
         "authors": ["panniku <703634705152606318>"],
-        "source": "https://fonts.google.com/icons"
+        "source": "https://fonts.google.com/icons/"
       },
       "suffix": "",
       "config": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3/config.json",
-      "load": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3"
+      "load": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3/"
     }
   ]
 }
