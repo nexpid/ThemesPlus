@@ -9,7 +9,7 @@
         "source": "https://icons8.com/icons/plumpy"
       },
       "suffix": "@2x",
-      "config": "https://raw.githubusercontent.com/Gabe616/VendettaThemesPlus/main/iconpacks/configs/rosiecord-iconsax.json",
+      "config": "https://raw.githubusercontent.com/Gabe616/VendettaThemesPlus/main/iconpacks/configs/rosiecord-plumpy.json",
       "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Plumpy/"
     },
     {
@@ -31,6 +31,7 @@
         "source": "https://fonts.google.com/icons"
       },
       "suffix": "",
+      "config": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3/config.json",
       "load": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3"
     }
   ]
