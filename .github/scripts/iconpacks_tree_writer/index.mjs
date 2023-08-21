@@ -3,7 +3,7 @@ import { join } from "path";
 
 console.time("Done");
 
-const repo = process.env.github_repository ?? "Gabe616/VendettaThemesPlus";
+const repo = process.env.github_repository ?? "nexpid/VendettaThemesPlus";
 
 const { list } = JSON.parse(
   await readFile(join("../../", "iconpacks", "list.json"), "utf8")

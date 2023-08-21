@@ -9,7 +9,7 @@
         "source": "https://icons8.com/icons/plumpy"
       },
       "suffix": "@2x",
-      "config": "https://raw.githubusercontent.com/Gabe616/VendettaThemesPlus/main/iconpacks/configs/rosiecord-plumpy.json",
+      "config": "https://raw.githubusercontent.com/nexpid/VendettaThemesPlus/main/iconpacks/configs/rosiecord-plumpy.json",
       "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Plumpy/"
     },
     {
@@ -20,7 +20,7 @@
         "source": "https://iconsax.io/"
       },
       "suffix": "@2x",
-      "config": "https://raw.githubusercontent.com/Gabe616/VendettaThemesPlus/main/iconpacks/configs/rosiecord-iconsax.json",
+      "config": "https://raw.githubusercontent.com/nexpid/VendettaThemesPlus/main/iconpacks/configs/rosiecord-iconsax.json",
       "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Iconsax/"
     },
     {
