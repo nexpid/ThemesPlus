@@ -43,7 +43,14 @@ for (let i = 0; i < list.length; i += columns) {
             ],
           ]
             .map(([key, val]) => `<b>${key}</b>: ${val}`)
-            .join("\n<br/>\n")}</td>`
+            .join(
+              "\n<br/>\n"
+            )}\n<details>\n<summary>\nDeveloper Stuff\n</summary>\n${[
+            ["Root URL", pack.load],
+            ["Icon Suffix", pack.suffix],
+          ]
+            .map(([key, val]) => `<b>${key}</b>: ${val}`)
+            .join("\n<br/>\n")}\n</details></td>`
       )
       .join("\n")}</tr>`
   );
