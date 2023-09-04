@@ -6,15 +6,8 @@ console.time("Done");
 const repo = process.env.github_repository ?? "nexpid/VendettaThemesPlus";
 
 const { list } = JSON.parse(
-  await readFile(join("../../", "iconpacks", "list.json"), "utf8")
+  await readFile(join("../../", "iconpacks", "list.json"), "utf8"),
 );
-
-for (const f of (
-  await readdir(join("../../../", "trees"), {
-    withFileTypes: true,
-  })
-).filter((x) => x.isFile() && x.name.endsWith(".txt")))
-  await unlink(join("../../../", "trees", f.name));
 
 for (const ic of list) {
   console.log(`Parsing tree for '${ic.id}'`);
@@ -35,7 +28,7 @@ for (const ic of list) {
     const paths = (
       await (
         await fetch(
-          `https://api.github.com/repos/${user}/git/trees/master?recursive=1`
+          `https://api.github.com/repos/${user}/git/trees/master?recursive=1`,
         )
       ).json()
     ).tree
@@ -45,12 +38,19 @@ for (const ic of list) {
 
     await writeFile(
       join("../../../", "trees", `${ic.id}.txt`),
-      paths.join("\n")
+      paths.join("\n"),
     );
   } catch (e) {
     console.log(`Failed to parse tree for '${ic.id}'!`);
     continue;
   }
 }
+
+for (const f of (
+  await readdir(join("../../../", "trees"), {
+    withFileTypes: true,
+  })
+).filter((x) => x.isFile() && !list.some((y) => x.name === `${y.id}.txt`)))
+  await unlink(join("../../../", "trees", f.name));
 
 console.timeEnd("Done");
