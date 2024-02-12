@@ -13,7 +13,7 @@
 	</a>
 </div>
 <div align="center">
-    <h1>🎨 Vendetta Themes+</h1>
+    <h1>🎨 Themes+</h1>
 </div>
 
 ## Table of Contents
@@ -28,7 +28,7 @@
 
 ## Info
 
-Vendetta Themes+ is a plugin that adds more customizability to themes, such as:
+Themes+ is a plugin that adds more customizability to themes, such as:
 
 - recoloring icons (completely, unread badges, seperate layers)
 - changing the mention line color
@@ -49,7 +49,7 @@ This theme has Themes+ support, install it here: <#12345>
 ## Links
 
 - [This repository](https://github.com/nexpid/VendettaThemesPlus)
-- Plugins channel link (doesn't exist yet)
+- [Plugin channel link (For Revenge)](https://discord.com/channels/1205207689832038522/1205966530794496101)
 - [Plugin link](https://vendetta.nexpid.xyz/themes-plus)
 - [Plugin source code](https://github.com/nexpid/VendettaPlugins/tree/main/plugins/themes-plus)
 
