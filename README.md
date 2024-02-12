@@ -18,7 +18,7 @@
 
 ## Table of Contents
 
-- [Vendetta Themes+](#-vendetta-themes)
+- [Themes+](#-vendetta-themes)
   - [Table of Contents](#table-of-contents)
   - [Info](#info)
   - [FAQ](#faq)
