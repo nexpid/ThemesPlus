@@ -33,6 +33,17 @@
       "suffix": "",
       "config": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3/config.json",
       "load": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3/"
+    },
+    {
+      "id": "Deco",
+      "description": "Deco icons pack for Discord by Icons8",
+      "credits": {
+        "authors": ["icons8", "doraa <455513497288310785>"],
+        "source": "https://icons8.com/icons/deco"
+      },
+      "suffix": "@2x",
+      "config": "https://raw.githubusercontent.com/nexpid/VendettaThemesPlus/main/iconpacks/configs/deco.json",
+      "load": "https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/Deco/"
     }
   ]
 }
