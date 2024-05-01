@@ -42,7 +42,7 @@
         "source": "https://icons8.com/icons/deco"
       },
       "suffix": "@2x",
-      "config": "https://raw.githubusercontent.com/nexpid/VendettaThemesPlus/main/iconpacks/configs/deco.json",
+      "config": "https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/Deco/config.json",
       "load": "https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/Deco/"
     }
   ]
