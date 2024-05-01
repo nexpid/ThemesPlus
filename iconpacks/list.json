@@ -35,7 +35,7 @@
       "load": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3/"
     },
     {
-      "id": "Deco",
+      "id": "deco",
       "description": "Deco icons pack for Discord by Icons8",
       "credits": {
         "authors": ["doraa <455513497288310785>"],
@@ -46,7 +46,7 @@
       "load": "https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/Deco/"
     },
     {
-      "id": "Solar",
+      "id": "solar",
       "description": "Giant icon pack as big as Solar System!",
       "credits": {
         "authors": ["Moodle <807170846497570848>"],
