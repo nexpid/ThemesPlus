@@ -469,6 +469,8 @@ images/native/emoji/ic_keyboard_24px@3x.png
 images/native/empties
 images/native/empties/img_app_crash_dark@2x.png
 images/native/empties/img_app_crash_dark@3x.pngimg_app_crash_dark@3x.pngimg_app_crash_dark@2x.png
+images/native/empties/img_app_crash_light@2x.png
+images/native/empties/img_app_crash_light@3x.png
 images/native/gif@2x.png
 images/native/gif@3x.png
 images/native/guild_sidebar
