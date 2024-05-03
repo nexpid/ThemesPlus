@@ -435,15 +435,6 @@ design/redesign/components/Navigator/native/assets/ios-back.png
 design/redesign/components/Navigator/native/assets/ios-back@2x.png
 design/redesign/components/Navigator/native/assets/ios-back@3x.png
 images
-images/group_dms
-images/group_dms/icon0.png
-images/group_dms/icon1.png
-images/group_dms/icon2.png
-images/group_dms/icon3.png
-images/group_dms/icon4.png
-images/group_dms/icon5.png
-images/group_dms/icon6.png
-images/group_dms/icon7.png
 images/native
 images/native/audit_logs
 images/native/audit_logs/ic_all_24px@2x.png
@@ -490,13 +481,6 @@ images/native/auto_moderation/ic_auto_moderation_shield@2x.png
 images/native/auto_moderation/ic_auto_moderation_shield@3x.png
 images/native/auto_moderation/ic_closed_lock@2x.png
 images/native/auto_moderation/ic_closed_lock@3x.png
-images/native/avatars
-images/native/avatars/default_avatar_0.png
-images/native/avatars/default_avatar_1.png
-images/native/avatars/default_avatar_2.png
-images/native/avatars/default_avatar_3.png
-images/native/avatars/default_avatar_4.png
-images/native/avatars/default_avatar_5.png
 images/native/badge
 images/native/badge/ic_badge_nitro@2x.png
 images/native/badge/ic_badge_nitro@3x.png
@@ -1433,19 +1417,6 @@ images/native/status/StatusOnline@2x.png
 images/native/status/StatusOnline@3x.png
 images/native/status/StatusStreaming@2x.png
 images/native/status/StatusStreaming@3x.png
-images/native/status/old
-images/native/status/old/StatusDND@2x - Copy.png
-images/native/status/old/StatusDND@3x - Copy.png
-images/native/status/old/StatusIdle@2x - Copy.png
-images/native/status/old/StatusIdle@3x - Copy.png
-images/native/status/old/StatusMobileOnline@2x - Copy.png
-images/native/status/old/StatusMobileOnline@3x - Copy.png
-images/native/status/old/StatusOffline@2x - Copy.png
-images/native/status/old/StatusOffline@3x - Copy.png
-images/native/status/old/StatusOnline@2x - Copy.png
-images/native/status/old/StatusOnline@3x - Copy.png
-images/native/status/old/StatusStreaming@2x - Copy.png
-images/native/status/old/StatusStreaming@3x - Copy.png
 images/native/toast
 images/native/toast/friends_toast_icon.png
 images/native/toast/friends_toast_icon@2x.png
@@ -1619,9 +1590,6 @@ modules/chat_input/native/images/ic_gift@2x.png
 modules/chat_input/native/images/ic_gift@3x.png
 modules/chat_input/native/images/ic_sticker_icon_tilted@2x.png
 modules/chat_input/native/images/ic_sticker_icon_tilted@3x.png
-modules/clyde_ai
-modules/clyde_ai/assets
-modules/clyde_ai/assets/clyde-avatar.png
 modules/connectivity
 modules/connectivity/native
 modules/connectivity/native/images
