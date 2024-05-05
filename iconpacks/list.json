@@ -3,9 +3,19 @@
   "list": [
     {
       "id": "rosiecord-plumpy",
-      "description": "From Rosiecord, constantly updated with new icons by another Rosie :3",
+      "name": "Rosiecord Plumpy",
+      "description": "Probably the most liked Rosiecord iconpack, constantly updated with new icons by another Rosie :3",
       "credits": {
-        "authors": ["Rosie <581573474296791211>", "ssalggnikool"],
+        "authors": [
+          {
+            "name": "Rosie",
+            "id": "581573474296791211"
+          },
+          {
+            "name": "samara",
+            "id": "1236648613145346203"
+          }
+        ],
         "source": "https://icons8.com/icons/plumpy"
       },
       "suffix": "@2x",
@@ -14,9 +24,18 @@
     },
     {
       "id": "rosiecord-iconsax",
-      "description": "From Rosiecord, uses some icons from Plumpy, given by Flower :3, includes quite modern icons",
+      "name": "Rosiecord Iconsax",
+      "description": "Uses some icons from Rosiecord Plumpy, given by Flower :3, includes quite modern icons",
       "credits": {
-        "authors": ["Rosie <581573474296791211>", "Flower :3"],
+        "authors": [
+          {
+            "name": "Rosie",
+            "id": "581573474296791211"
+          },
+          {
+            "name": "Flower :3"
+          }
+        ],
         "source": "https://iconsax.io/"
       },
       "suffix": "@2x",
@@ -25,9 +44,15 @@
     },
     {
       "id": "md3",
-      "description": "MaterialDesign3 icons for Vendetta Mod",
+      "name": "MD3",
+      "description": "Material Icons iconpack for Pyoncord",
       "credits": {
-        "authors": ["panniku <703634705152606318>"],
+        "authors": [
+          {
+            "name": "panniku",
+            "id": "703634705152606318"
+          }
+        ],
         "source": "https://fonts.google.com/icons/"
       },
       "suffix": "",
@@ -36,9 +61,15 @@
     },
     {
       "id": "deco",
-      "description": "Deco icons pack for Discord by Icons8",
+      "name": "Deco",
+      "description": "An iconpack based on the Icons8 Deco collection",
       "credits": {
-        "authors": ["doraa <455513497288310785>"],
+        "authors": [
+          {
+            "name": "doraa",
+            "id": "455513497288310785"
+          }
+        ],
         "source": "https://icons8.com/icons/deco"
       },
       "suffix": "@2x",
@@ -47,9 +78,15 @@
     },
     {
       "id": "solar",
-      "description": "Giant icon pack as big as Solar System!",
+      "name": "Solar",
+      "description": "A giant iconpack, as big as the solar system!",
       "credits": {
-        "authors": ["Moodle <807170846497570848>"],
+        "authors": [
+          {
+            "name": "Moodle",
+            "id": "807170846497570848"
+          }
+        ],
         "source": "https://www.figma.com/community/file/1166831539721848736/"
       },
       "suffix": "@2x",

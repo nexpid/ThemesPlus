@@ -10,17 +10,22 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "description", "credits", "suffix", "load"],
+        "required": ["id", "name", "description", "credits", "suffix", "load"],
         "properties": {
           "id": {
-            "description": "The ID of the iconpack, should always be the name of the iconpack's folder",
-            "default": true,
+            "description": "The ID of the iconpack, same as the name of the iconpack's folder",
+            "default": "iconpack",
             "type": "string",
             "pattern": "^[a-z0-9-]+$"
           },
+          "name": {
+            "description": "A human readable name of the iconpack",
+            "default": "Iconpack",
+            "type": "string"
+          },
           "description": {
             "description": "A short description of the iconpack",
-            "default": true,
+            "default": "An iconpack inspired by the iconpack of the iconpack's iconpack",
             "type": "string",
             "minLength": 5
           },
@@ -29,60 +34,51 @@
             "required": ["authors", "source"],
             "properties": {
               "authors": {
-                "description": "An array of all the authors that made/own this iconpack",
-                "default": true,
+                "description": "An array of all the authors that created this iconpack",
+                "default": [{ "name": "You", "id": "123456789" }],
                 "type": "array",
                 "items": {
-                  "description": "The author's name with their (optional) Discord user ID in angle brackets (nexpid <853550207039832084>)",
-                  "type": "string",
-                  "pattern": "^(.+)(?:(?= <) <(\\d+)>)?$"
+                  "description": "An author",
+                  "type": "object",
+                  "required": ["name"],
+                  "properties": {
+                    "name": {
+                      "description": "The name of the author",
+                      "default": "You",
+                      "type": "string"
+                    },
+                    "id": {
+                      "description": "The ID of the author",
+                      "default": "123456789",
+                      "type": "string"
+                    }
+                  }
                 }
               },
               "source": {
                 "description": "The original source of the iconpack",
-                "default": true,
+                "default": "https://example.com",
                 "type": "string",
                 "format": "uri"
               }
             }
           },
           "suffix": {
-            "description": "The suffix of the image path (@2x)",
+            "description": "A string that gets appended after the icon's name for compability with iOs based iconpacks. Avoid using this in new iconpacks.",
             "default": true,
-            "oneOf": [
-              {
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ]
+            "type": "string"
           },
           "config": {
-            "description": "The URL that points to the iconpack's config file",
+            "description": "An URL pointing to this iconpack's config",
             "default": true,
-            "oneOf": [
-              {
-                "type": "string",
-                "format": "uri"
-              },
-              {
-                "type": "null"
-              }
-            ]
+            "type": "string",
+            "format": "uri"
           },
           "load": {
-            "description": "The URL that points to the raw files of the iconpack, if left empty loads from iconpack/assets/[id]",
+            "description": "An URL pointing to the base url where all icons are located at (should always end with a /)",
             "default": true,
-            "oneOf": [
-              {
-                "type": "string",
-                "format": "uri"
-              },
-              {
-                "type": "null"
-              }
-            ]
+            "type": "string",
+            "format": "uri"
           }
         }
       }
