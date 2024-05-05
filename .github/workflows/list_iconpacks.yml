@@ -1,0 +1,45 @@
+name: List Iconpacks
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "iconpacks/list.json"
+      - ".github/scripts/list_iconpacks/**/*.*"
+      - ".github/workflows/list_iconpacks.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.ref }}
+
+jobs:
+  write:
+    runs-on: ubuntu-latest
+    name: Write Readme
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+
+      - uses: pnpm/action-setup@v3
+
+      - working-directory: .github/scripts
+        run: pnpm i
+
+      - name: Write ICONPACKS.md
+        run: node .github/scripts/list_iconpacks/index.mjs
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add docs/ICONPACKS.md
+          git commit -m "chore: update iconpacks (${{ github.sha || github.event_name }})" | true
+          git pull
+          git push
