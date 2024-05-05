@@ -3,5 +3,6 @@
   "private": true,
   "dependencies": {
     "prettier": "^3.0.1"
-  }
+  },
+  "packageManager": "pnpm@9.0.6"
 }
