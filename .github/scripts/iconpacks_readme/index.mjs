@@ -15,12 +15,6 @@ const { list } = JSON.parse(
 const columns = 2;
 const rows = [];
 
-const parseAuthor = (x) => {
-  const splat = x.split(" <");
-  if (splat[1]) return [splat[0], splat[1].slice(0, -1)];
-  else return [splat[0]];
-};
-
 for (let i = 0; i < list.length; i += columns) {
   const packs = list.slice(i, i + columns);
   rows.push(
@@ -33,12 +27,11 @@ for (let i = 0; i < list.length; i += columns) {
             [
               "Authors",
               pack.credits.authors
-                .map((a) => {
-                  const [name, discord] = parseAuthor(a);
-                  return discord
-                    ? `<a href="https://discord.com/users/${discord}">${name}</a>`
-                    : name;
-                })
+                .map((a) =>
+                  a.id
+                    ? `<a href="https://discord.com/users/${a.id}">${a.name}</a>`
+                    : a.name
+                )
                 .join(", "),
             ],
           ]
