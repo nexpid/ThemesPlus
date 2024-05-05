@@ -20,7 +20,7 @@ for (const pack of list) {
 
   packs.push(
     [
-      `## ${pack.name} <img src="${pack.load}images/native/main_tabs/Messages${pack.suffix}.png" alt="${pack.name} preview" width=25 height=25 />`,
+      `### ${pack.name} <img src="${pack.load}images/native/main_tabs/Messages${pack.suffix}.png" alt="${pack.name} preview" width=25 height=25 />`,
       `${pack.description}  `,
       `Created by: ${
         authors.length > 1
