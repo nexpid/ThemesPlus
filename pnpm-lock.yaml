@@ -10,15 +10,15 @@ importers:
     dependencies:
       prettier:
         specifier: ^3.0.1
-        version: 3.0.1
+        version: 3.2.5
 
 packages:
 
-  prettier@3.0.1:
-    resolution: {integrity: sha512-fcOWSnnpCrovBsmFZIGIy9UqK2FaI7Hqax+DIO0A9UxeVoY4iweyaFjS5TavZN97Hfehph0nhsZnjlVKzEQSrQ==}
+  prettier@3.2.5:
+    resolution: {integrity: sha512-3/GWa9aOC0YeD7LUfvOG2NiDyhOWRvt1k+rcKhOuYnMY24iiCphgneUfJDyFXd6rZCAnuLBv6UeAULtrhT/F4A==}
     engines: {node: '>=14'}
     hasBin: true
 
 snapshots:
 
-  prettier@3.0.1: {}
+  prettier@3.2.5: {}
