@@ -14,8 +14,6 @@
     <h1>🎨 Themes+</h1>
 </div>
 
-## Info
-
 Themes+ is a plugin for [Pyoncord](https://github.com/Pyoncord) that makes themes more customizable. It includes features such as:
 
 - recoloring icons
@@ -23,8 +21,12 @@ Themes+ is a plugin for [Pyoncord](https://github.com/Pyoncord) that makes theme
 - icon packs
 - … and much more coming soon!
 
+## Documentation
+
+Read the documentation [here](https://github.com/nexpid/ThemesPlus/tree/main/docs)
+
 ## Links
 
 - [Plugin link](https://vendetta.nexpid.xyz/themes-plus)
-- [Docs](https://github.com/nexpid/ThemesPlus)
+- [Docs](https://github.com/nexpid/ThemesPlus/tree/main/docs)
 - [Pyoncord](https://github.com/Pyoncord)
