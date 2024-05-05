@@ -18,14 +18,13 @@ concurrency:
 jobs:
   write:
     runs-on: ubuntu-latest
-    name: Write Trees
+    name: Write files
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
         with:
           path: main
-
       - uses: actions/checkout@v4
         with:
           ref: iconpack-trees
@@ -34,11 +33,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18.x
-
       - uses: pnpm/action-setup@v3
-
-      - working-directory: .github/scripts
-        run: pnpm i
+      - run: pnpm i
 
       - name: Write trees
         working-directory: main
