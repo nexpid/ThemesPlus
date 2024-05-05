@@ -34,7 +34,10 @@ jobs:
         with:
           node-version: 18.x
       - uses: pnpm/action-setup@v3
-      - run: pnpm i
+        with:
+          package_json_file: main/package.json
+      - working-directory: main
+        run: pnpm i
 
       - name: Write trees
         working-directory: main
