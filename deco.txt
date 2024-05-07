@@ -294,6 +294,8 @@ design/components/Icon/native/redesign/generated/images/PlusMediumIcon@2x.png
 design/components/Icon/native/redesign/generated/images/PlusMediumIcon@3x.png
 design/components/Icon/native/redesign/generated/images/PlusSmallIcon@2x.png
 design/components/Icon/native/redesign/generated/images/PlusSmallIcon@3x.png
+design/components/Icon/native/redesign/generated/images/PollsIcon@2x.png
+design/components/Icon/native/redesign/generated/images/PollsIcon@3x.png
 design/components/Icon/native/redesign/generated/images/PuzzlePieceIcon@2x.png
 design/components/Icon/native/redesign/generated/images/PuzzlePieceIcon@3x.png
 design/components/Icon/native/redesign/generated/images/QrCodeCameraIcon@2x.png
