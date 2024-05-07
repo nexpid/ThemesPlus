@@ -893,7 +893,8 @@ images/native/icons/ic_mic_muted_light_24px@3x.png
 images/native/icons/ic_mic_neutral@2x.png
 images/native/icons/ic_mic_neutral@3x.png
 images/native/icons/ic_mobile_device.png
-images/native/icons/ic_mobile_status.png
+images/native/icons/ic_mobile_status@2x.png
+images/native/icons/ic_mobile_status@3x.png
 images/native/icons/ic_moderation_24px@2x.png
 images/native/icons/ic_monitor.png
 images/native/icons/ic_more_24px@2x.png
@@ -1206,7 +1207,8 @@ images/native/status/StatusIdle@2x.png
 images/native/status/StatusIdle@3x.png
 images/native/status/StatusMobileOnline@2x.png
 images/native/status/StatusMobileOnline@3x.png
-images/native/status/StatusOffline.png
+images/native/status/StatusOffline@2x.png
+images/native/status/StatusOffline@3x.png
 images/native/status/StatusOnline@2x.png
 images/native/status/StatusOnline@3x.png
 images/native/status/StatusStreaming@2x.png
