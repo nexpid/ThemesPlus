@@ -5,8 +5,7 @@ design/components/Icon/native
 design/components/Icon/native/redesign
 design/components/Icon/native/redesign/generated
 design/components/Icon/native/redesign/generated/images
-design/components/Icon/native/redesign/generated/images/AccessibilityIcon@2x.png
-design/components/Icon/native/redesign/generated/images/AccessibilityIcon@3x.png
+design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
 design/components/Icon/native/redesign/generated/images/ActivitiesIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ActivitiesIcon@3x.png
 design/components/Icon/native/redesign/generated/images/AnalyticsIcon@2x.png
