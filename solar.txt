@@ -427,6 +427,7 @@ images/native/icons/ic_icon_upload.png
 images/native/icons/ic_image.png
 images/native/icons/ic_image_upload.png
 images/native/icons/ic_information_24px.png
+images/native/icons/ic_information_filled_24px (1).png
 images/native/icons/ic_information_filled_24px.png
 images/native/icons/ic_input_clear_24px.png
 images/native/icons/ic_integrations_24px.png
@@ -2017,12 +2018,16 @@ images/native/icons/ic_mic_muted_light_24px@2x.png
 images/native/icons/ic_mic_muted_light_24px@3x.png
 images/native/icons/ic_mic_neutral@2x.png
 images/native/icons/ic_mic_neutral@3x.png
+images/native/icons/ic_minus_circle_24px@2x.png
+images/native/icons/ic_minus_circle_24px@3x.png
 images/native/icons/ic_mobile_device.png
 images/native/icons/ic_mobile_status@2x.png
 images/native/icons/ic_mobile_status@3x.png
 images/native/icons/ic_moderation_24px@2x.png
 images/native/icons/ic_monitor.png
 images/native/icons/ic_more_24px@2x.png
+images/native/icons/ic_more_android@2x.png
+images/native/icons/ic_more_android@3x.png
 images/native/icons/ic_music@2x.png
 images/native/icons/ic_mute_channel_24px@2x.png
 images/native/icons/ic_neutral_status_18px@2x.png
@@ -2039,8 +2044,6 @@ images/native/icons/ic_open_in_browser@2x.png
 images/native/icons/ic_overflow_android@2x.png
 images/native/icons/ic_paint_brush.png
 images/native/icons/ic_paperclip_24px@2x.png
-images/native/icons/ic_partnered_guild_icon_black_24px@2x.png
-images/native/icons/ic_partnered_guild_icon_blurple_24px@2x.png
 images/native/icons/ic_pencil_24px@2x.png
 images/native/icons/ic_person_add_18px.png
 images/native/icons/ic_person_shield@2x.png
