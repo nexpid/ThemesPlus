@@ -34,3 +34,9 @@ Assets from: [https://icons8.com/icons/deco](https://icons8.com/icons/deco)
 A giant iconpack, as big as the solar system!  
 Created by: [@Moodle](https://discord.com/users/807170846497570848)  
 Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)
+
+### Solar (Duotone) <img src="https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-Duotone/images/native/main_tabs/Messages.png" alt="Solar (Duotone) preview" width=25 height=25 />
+
+A giant iconpack, as big as the solar system! Now with more colors.  
+Created by: [@Moodle](https://discord.com/users/807170846497570848)  
+Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)
