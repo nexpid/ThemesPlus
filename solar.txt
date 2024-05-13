@@ -1634,7 +1634,7 @@ images/native/emoji/ic_keyboard_24px@2x.png
 images/native/emoji/ic_keyboard_24px@3x.png
 images/native/empties
 images/native/empties/img_app_crash_dark@2x.png
-images/native/empties/img_app_crash_dark@3x.pngimg_app_crash_dark@3x.pngimg_app_crash_dark@2x.png
+images/native/empties/img_app_crash_dark@3x.png
 images/native/empties/img_app_crash_light@2x.png
 images/native/empties/img_app_crash_light@3x.png
 images/native/gif@2x.png
@@ -2130,10 +2130,6 @@ images/native/icons/ic_wand.png
 images/native/icons/ic_warning_24px.png
 images/native/icons/ic_webhook_24px@2x.png
 images/native/icons/ic_xbox_24px@2x.png
-images/native/icons/midnight_border_left_radius@2x.png
-images/native/icons/midnight_border_left_radius@3x.png
-images/native/icons/midnight_border_right_radius@2x.png
-images/native/icons/midnight_border_right_radius@3x.png
 images/native/icons/settings
 images/native/icons/settings/ic_accessibility_24px@2x.png
 images/native/icons/settings/ic_authed_apps_24px@2x.png
