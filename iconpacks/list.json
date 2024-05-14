@@ -72,8 +72,8 @@
         "source": "https://icons8.com/icons/deco"
       },
       "suffix": "@2x",
-      "config": "https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/Deco/config.json",
-      "load": "https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/Deco/"
+      "config": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Deco/config.json",
+      "load": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Deco/"
     },
     {
       "id": "solar",
@@ -108,6 +108,23 @@
       "suffix": "",
       "config": "https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-Duotone/solar.json",
       "load": "https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-Duotone/"
+    },
+    {
+      "id": "materialtwotone",
+      "name": "Material Two Tone",
+      "description": "Material Design icons! but Two Tone.",
+      "credits": {
+        "authors": [
+          {
+            "name": "doraa",
+            "id": "455513497288310785"
+          }
+        ],
+        "source": "https://icon-sets.iconify.design/ic/, https://icons8.com/icons/material-two-tone"
+      },
+      "suffix": "",
+      "config": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/MaterialTwoTone/config.json",
+      "load": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/MaterialTwoTone/"
     }
   ]
 }
