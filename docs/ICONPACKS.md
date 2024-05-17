@@ -1,3 +1,5 @@
+<!-- docs/ICONPACKS.md is auto-generated, don't edit it manually -->
+
 # Iconpacks
 
 Iconpacks change Discord's boring icons to something more fun and exciting.  
@@ -39,4 +41,7 @@ Assets from: [https://www.figma.com/community/file/1166831539721848736/](https:/
 
 A giant iconpack, as big as the solar system! Now with more colors.  
 Created by: [@Moodle](https://discord.com/users/807170846497570848)  
-Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)
+Assets from:
+
+- [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)
+- [https://example.com](https://example.com)
