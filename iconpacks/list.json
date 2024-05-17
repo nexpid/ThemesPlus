@@ -16,7 +16,8 @@
             "id": "1236648613145346203"
           }
         ],
-        "source": "https://icons8.com/icons/plumpy"
+        "source": "https://icons8.com/icons/plumpy",
+        "sources": ["https://icons8.com/icons/plumpy"]
       },
       "suffix": "@2x",
       "config": "https://raw.githubusercontent.com/nexpid/VendettaThemesPlus/main/iconpacks/configs/rosiecord-plumpy.json",
@@ -36,7 +37,8 @@
             "name": "Flower :3"
           }
         ],
-        "source": "https://iconsax.io/"
+        "source": "https://iconsax.io/",
+        "sources": ["https://iconsax.io/"]
       },
       "suffix": "@2x",
       "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Iconsax/"
@@ -52,7 +54,8 @@
             "id": "703634705152606318"
           }
         ],
-        "source": "https://fonts.google.com/icons/"
+        "source": "https://fonts.google.com/icons/",
+        "sources": ["https://fonts.google.com/icons/"]
       },
       "suffix": "",
       "config": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3/config.json",
@@ -69,7 +72,8 @@
             "id": "455513497288310785"
           }
         ],
-        "source": "https://icons8.com/icons/deco"
+        "source": "https://icons8.com/icons/deco",
+        "sources": ["https://icons8.com/icons/deco"]
       },
       "suffix": "@2x",
       "config": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Deco/config.json",
@@ -86,7 +90,8 @@
             "id": "807170846497570848"
           }
         ],
-        "source": "https://www.figma.com/community/file/1166831539721848736/"
+        "source": "https://www.figma.com/community/file/1166831539721848736/",
+        "sources": ["https://www.figma.com/community/file/1166831539721848736/"]
       },
       "suffix": "@2x",
       "config": "https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar/solar.json",
@@ -103,7 +108,8 @@
             "id": "807170846497570848"
           }
         ],
-        "source": "https://www.figma.com/community/file/1166831539721848736/"
+        "source": "https://www.figma.com/community/file/1166831539721848736/",
+        "sources": ["https://www.figma.com/community/file/1166831539721848736/"]
       },
       "suffix": "",
       "config": "https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-Duotone/solar.json",
@@ -120,11 +126,21 @@
             "id": "455513497288310785"
           }
         ],
-        "source": "https://icon-sets.iconify.design/ic/, https://icons8.com/icons/material-two-tone"
+        "source": "https://icon-sets.iconify.design/ic/, https://icons8.com/icons/material-two-tone",
+        "sources": [
+          "https://icon-sets.iconify.design/ic/",
+          "https://icons8.com/icons/material-two-tone"
+        ]
       },
       "suffix": "",
       "config": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/MaterialTwoTone/config.json",
       "load": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/MaterialTwoTone/"
     }
+  ],
+  "_notes": [
+    "please follow the schema in .github/iconpacks_list_schema.json",
+    "sublime — https://packagecontrol.io/packages/Schema%20Validator",
+    "vim — https://github.com/Quramy/vison",
+    "vscode — automatic"
   ]
 }
