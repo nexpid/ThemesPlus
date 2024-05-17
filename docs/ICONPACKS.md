@@ -23,7 +23,7 @@ Material Icons iconpack for Pyoncord
 Created by: [@panniku](https://discord.com/users/703634705152606318)  
 Assets from: [https://fonts.google.com/icons/](https://fonts.google.com/icons/)
 
-### Deco <img src="https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/Deco/images/native/main_tabs/Messages@2x.png" alt="Deco preview" width=25 height=25 />
+### Deco <img src="https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Deco/images/native/main_tabs/Messages@2x.png" alt="Deco preview" width=25 height=25 />
 
 An iconpack based on the Icons8 Deco collection  
 Created by: [@doraa](https://discord.com/users/455513497288310785)  
@@ -40,3 +40,9 @@ Assets from: [https://www.figma.com/community/file/1166831539721848736/](https:/
 A giant iconpack, as big as the solar system! Now with more colors.  
 Created by: [@Moodle](https://discord.com/users/807170846497570848)  
 Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)
+
+### Material Two Tone <img src="https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/MaterialTwoTone/images/native/main_tabs/Messages.png" alt="Material Two Tone preview" width=25 height=25 />
+
+Material Design icons! but Two Tone.  
+Created by: [@doraa](https://discord.com/users/455513497288310785)  
+Assets from: [https://icon-sets.iconify.design/ic/, https://icons8.com/icons/material-two-tone](https://icon-sets.iconify.design/ic/, https://icons8.com/icons/material-two-tone)
