@@ -17,6 +17,7 @@ for (const pack of list) {
   const authors = pack.credits.authors.map((a) =>
     a.id ? `[@${a.name}](https://discord.com/users/${a.id})` : a.name
   );
+  const sources = pack.credits.sources.map((x) => `[${x}](${x})`);
 
   packs.push(
     [
@@ -29,7 +30,11 @@ for (const pack of list) {
             }`
           : authors.join(", ")
       }  `,
-      `Assets from: [${pack.credits.source}](${pack.credits.source})  `,
+      sources.length === 1
+        ? `Assets from: ${sources[0]}  `
+        : sources.length > 1
+        ? `Assets from:\n${sources.map((x) => `- ${x}`).join("\n")}  `
+        : "",
     ].join("\n")
   );
 }

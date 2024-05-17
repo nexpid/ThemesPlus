@@ -1,3 +1,5 @@
+<!-- docs/ICONPACKS.md is auto-generated, don't edit it manually -->
+
 # Iconpacks
 
 Iconpacks change Discord's boring icons to something more fun and exciting.  

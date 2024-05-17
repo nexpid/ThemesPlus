@@ -31,7 +31,7 @@
           },
           "credits": {
             "type": "object",
-            "required": ["authors", "source"],
+            "required": ["authors", "sources"],
             "properties": {
               "authors": {
                 "description": "An array of all the authors that created this iconpack",
@@ -59,7 +59,18 @@
                 "description": "The original source of the iconpack",
                 "default": "https://example.com",
                 "type": "string",
-                "format": "uri"
+                "format": "uri",
+                "deprecated": true
+              },
+              "sources": {
+                "description": "The original source(s) of the iconpack",
+                "default": ["https://example.com"],
+                "type": "array",
+                "items": {
+                  "default": "https://example.com",
+                  "type": "string",
+                  "format": "uri"
+                }
               }
             }
           },
