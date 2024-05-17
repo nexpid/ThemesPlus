@@ -47,4 +47,7 @@ Assets from: [https://www.figma.com/community/file/1166831539721848736/](https:/
 
 Material Design icons! but Two Tone.  
 Created by: [@doraa](https://discord.com/users/455513497288310785)  
-Assets from: [https://icon-sets.iconify.design/ic/, https://icons8.com/icons/material-two-tone](https://icon-sets.iconify.design/ic/, https://icons8.com/icons/material-two-tone)
+Assets from:
+
+- [https://icon-sets.iconify.design/ic/](https://icon-sets.iconify.design/ic/)
+- [https://icons8.com/icons/material-two-tone](https://icons8.com/icons/material-two-tone)
