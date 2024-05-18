@@ -110,6 +110,8 @@ design/components/Icon/native/redesign/generated/images/CircleExclamationPointIc
 design/components/Icon/native/redesign/generated/images/CircleExclamationPointIcon-primary@3x.png
 design/components/Icon/native/redesign/generated/images/CircleInformationIcon-primary@2x.png
 design/components/Icon/native/redesign/generated/images/CircleInformationIcon-primary@3x.png
+design/components/Icon/native/redesign/generated/images/CircleInformationIcon@2x.png
+design/components/Icon/native/redesign/generated/images/CircleInformationIcon@3x.png
 design/components/Icon/native/redesign/generated/images/CircleMinusIcon-primary@2x.png
 design/components/Icon/native/redesign/generated/images/CircleMinusIcon-primary@3x.png
 design/components/Icon/native/redesign/generated/images/CirclePlusIcon-primary@2x.png
