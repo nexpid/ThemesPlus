@@ -14,14 +14,18 @@
           {
             "name": "samara",
             "id": "1236648613145346203"
-          }
+          },
+          {
+            "name": "Rairof",
+            "id": "923212189123346483"
+          }          
         ],
         "source": "https://icons8.com/icons/plumpy",
         "sources": ["https://icons8.com/icons/plumpy"]
       },
-      "suffix": "@2x",
-      "config": "https://raw.githubusercontent.com/nexpid/VendettaThemesPlus/main/iconpacks/configs/rosiecord-plumpy.json",
-      "load": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Plumpy/"
+      "suffix": "",
+      "config": "https://raw.githubusercontent.com/Rairof/discord-iconpacks/master/Packs/Plumpy/rosiecord-plumpy.json",
+      "load": "https://raw.githubusercontent.com/Rairof/discord-iconpacks/master/Packs/Plumpy/"
     },
     {
       "id": "rosiecord-iconsax",
