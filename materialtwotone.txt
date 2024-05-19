@@ -220,7 +220,9 @@ design/components/Icon/native/redesign/generated/images/VoiceWarningIcon.png
 design/components/Icon/native/redesign/generated/images/VoiceXIcon.png
 design/components/Icon/native/redesign/generated/images/WarningIcon.png
 design/components/Icon/native/redesign/generated/images/WebhookIcon.png
+design/components/Icon/native/redesign/generated/images/WindowLaunchIcon.png
 design/components/Icon/native/redesign/generated/images/WrenchIcon.png
+design/components/Icon/native/redesign/generated/images/XboxIcon.png
 design/components/Icon/native/redesign/generated/images/YouTubeIcon.png
 images
 images/native
@@ -720,6 +722,8 @@ images/platforms/img_account_sync_instagram_light_and_dark.png
 images/platforms/img_account_sync_instagram_white.png
 images/platforms/img_account_sync_paypal_light_and_dark.png
 images/platforms/img_account_sync_paypal_white.png
+images/platforms/img_account_sync_reddit_light_and_dark.png
+images/platforms/img_account_sync_reddit_white.png
 images/platforms/img_account_sync_riot_light_and_dark.png
 images/platforms/img_account_sync_riot_white.png
 images/platforms/img_account_sync_skype_light_and_dark.png
@@ -737,6 +741,9 @@ images/platforms/img_account_sync_twitter_white.png
 images/platforms/img_account_sync_x_dark.png
 images/platforms/img_account_sync_x_light.png
 images/platforms/img_account_sync_x_white.png
+images/platforms/img_account_sync_xbox_custom.png
+images/platforms/img_account_sync_xbox_light.png
+images/platforms/img_account_sync_xbox_white.png
 images/platforms/img_account_sync_youtube_light_and_dark.png
 images/platforms/img_account_sync_youtube_white.png
 images/platforms/img_amazon_music.png
@@ -745,8 +752,6 @@ images/platforms/img_domain_light.png
 images/platforms/img_roblox_dark.png
 images/platforms/img_roblox_light.png
 images/platforms/img_roblox_white.png
-images/public_guilds
-images/public_guilds/system-user-avatar.png
 modules
 modules/age_gate
 modules/age_gate/native
