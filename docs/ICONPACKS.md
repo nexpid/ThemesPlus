@@ -7,10 +7,10 @@ If you want to create your own iconpack, check out my [Themelings](https://githu
 
 ## List of iconpacks
 
-### Rosiecord Plumpy <img src="https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Plumpy/images/native/main_tabs/Messages@2x.png" alt="Rosiecord Plumpy preview" width=25 height=25 />
+### Rosiecord Plumpy <img src="https://raw.githubusercontent.com/Rairof/discord-iconpacks/master/Packs/Plumpy/images/native/main_tabs/Messages.png" alt="Rosiecord Plumpy preview" width=25 height=25 />
 
 Probably the most liked Rosiecord iconpack, constantly updated with new icons by another Rosie :3  
-Created by: [@Rosie](https://discord.com/users/581573474296791211) and [@samara](https://discord.com/users/1236648613145346203)  
+Created by: [@Rosie](https://discord.com/users/581573474296791211), [@samara](https://discord.com/users/1236648613145346203) and [@Rairof](https://discord.com/users/923212189123346483)  
 Assets from: [https://icons8.com/icons/plumpy](https://icons8.com/icons/plumpy)
 
 ### Rosiecord Iconsax <img src="https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Iconsax/images/native/main_tabs/Messages@2x.png" alt="Rosiecord Iconsax preview" width=25 height=25 />
