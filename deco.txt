@@ -192,6 +192,8 @@ design/components/Icon/native/redesign/generated/images/GroupArrowDownIcon@2x.pn
 design/components/Icon/native/redesign/generated/images/GroupArrowDownIcon@3x.png
 design/components/Icon/native/redesign/generated/images/GroupIcon@2x.png
 design/components/Icon/native/redesign/generated/images/GroupIcon@3x.png
+design/components/Icon/native/redesign/generated/images/GroupPlusIcon@2x.png
+design/components/Icon/native/redesign/generated/images/GroupPlusIcon@3x.png
 design/components/Icon/native/redesign/generated/images/HammerIcon@2x.png
 design/components/Icon/native/redesign/generated/images/HammerIcon@3x.png
 design/components/Icon/native/redesign/generated/images/HandRequestSpeakIcon@2x.png
