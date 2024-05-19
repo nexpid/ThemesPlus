@@ -93,6 +93,7 @@ design/components/Icon/native/redesign/generated/images/GiftIcon.png
 design/components/Icon/native/redesign/generated/images/GlobeEarthIcon.png
 design/components/Icon/native/redesign/generated/images/GroupArrowDownIcon.png
 design/components/Icon/native/redesign/generated/images/GroupIcon.png
+design/components/Icon/native/redesign/generated/images/GroupPlusIcon.png
 design/components/Icon/native/redesign/generated/images/HammerIcon.png
 design/components/Icon/native/redesign/generated/images/HandRequestSpeakIcon.png
 design/components/Icon/native/redesign/generated/images/HandRequestSpeakListIcon.png
@@ -1307,6 +1308,8 @@ design/components/Icon/native/redesign/generated/images/GroupArrowDownIcon@2x.pn
 design/components/Icon/native/redesign/generated/images/GroupArrowDownIcon@3x.png
 design/components/Icon/native/redesign/generated/images/GroupIcon@2x.png
 design/components/Icon/native/redesign/generated/images/GroupIcon@3x.png
+design/components/Icon/native/redesign/generated/images/GroupPlusIcon@2x.png
+design/components/Icon/native/redesign/generated/images/GroupPlusIcon@3x.png
 design/components/Icon/native/redesign/generated/images/HammerIcon@2x.png
 design/components/Icon/native/redesign/generated/images/HammerIcon@3x.png
 design/components/Icon/native/redesign/generated/images/HandRequestSpeakIcon@2x.png
@@ -1743,6 +1746,9 @@ images/native/icons/Audio@3x.png
 images/native/icons/Check.png
 images/native/icons/Check@2x.png
 images/native/icons/Check@3x.png
+images/native/icons/Seal
+images/native/icons/Seal/tmp
+images/native/icons/Seal/tmp/.nomedia
 images/native/icons/Share@2x.png
 images/native/icons/Small.png
 images/native/icons/add_white.png
@@ -1903,6 +1909,7 @@ images/native/icons/ic_folder_add_24px@2x.png
 images/native/icons/ic_folder_add_24px@3x.png
 images/native/icons/ic_forum_channel_list_view_24px.png
 images/native/icons/ic_forum_channel_sort_order_24px.png
+images/native/icons/ic_forward_24px@2x.png
 images/native/icons/ic_forward_24px@3x.png
 images/native/icons/ic_friend_request_accepted@2x.png
 images/native/icons/ic_friend_request_accepted@3x.png
