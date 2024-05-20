@@ -30,6 +30,8 @@ design/components/Icon/native/redesign/generated/images/ArrowLargeDownIcon@2x.pn
 design/components/Icon/native/redesign/generated/images/ArrowLargeDownIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeLeftIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeLeftIcon@3x.png
+design/components/Icon/native/redesign/generated/images/ArrowLargeRightIcon@2x.png
+design/components/Icon/native/redesign/generated/images/ArrowLargeRightIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallDownIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallDownIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallUpIcon@2x.png
