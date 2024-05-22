@@ -436,6 +436,8 @@ images/native/custom_app_icons/CherryBlossomIcon
 images/native/custom_app_icons/CherryBlossomIcon/CherryBlossomIcon.png
 images/native/custom_app_icons/CircuitIcon
 images/native/custom_app_icons/CircuitIcon/CircuitIcon.png
+images/native/custom_app_icons/ColorWaveIcon
+images/native/custom_app_icons/ColorWaveIcon/ColorWaveIcon.png
 images/native/custom_app_icons/ControllerIcon
 images/native/custom_app_icons/ControllerIcon/ControllerIcon.png
 images/native/custom_app_icons/GalaxyIcon
@@ -444,12 +446,16 @@ images/native/custom_app_icons/GamingIcon
 images/native/custom_app_icons/GamingIcon/GamingIcon.png
 images/native/custom_app_icons/HoloWavesIcon
 images/native/custom_app_icons/HoloWavesIcon/HoloWavesIcon.png
+images/native/custom_app_icons/InRainbowsIcon
+images/native/custom_app_icons/InRainbowsIcon/InRainbowsIcon.png
 images/native/custom_app_icons/MangaIcon
 images/native/custom_app_icons/MangaIcon/MangaIcon.png
 images/native/custom_app_icons/MatteDarkIcon
 images/native/custom_app_icons/MatteDarkIcon/MatteDarkIcon.png
 images/native/custom_app_icons/MatteLightIcon
 images/native/custom_app_icons/MatteLightIcon/MatteLightIcon.png
+images/native/custom_app_icons/MidnightPrismIcon
+images/native/custom_app_icons/MidnightPrismIcon/MidnightPrismIcon.png
 images/native/custom_app_icons/MushroomIcon
 images/native/custom_app_icons/MushroomIcon/MushroomIcon.png
 images/native/custom_app_icons/PastelIcon
