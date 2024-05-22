@@ -216,6 +216,7 @@ design/components/Icon/native/redesign/generated/images/WindowLaunchIcon.png
 design/components/Icon/native/redesign/generated/images/WrenchIcon.png
 design/components/Icon/native/redesign/generated/images/XboxIcon.png
 design/components/Icon/native/redesign/generated/images/YouTubeIcon.png
+design/components/Icon/native/redesign/generated/images/solar--qr-code-bold-duotone.png
 images
 images/group_dms
 images/group_dms/icon0.png
