@@ -13,6 +13,7 @@ design/components/Icon/native/redesign/generated/images/AnnouncementsLockIcon.pn
 design/components/Icon/native/redesign/generated/images/AnnouncementsWarningIcon.png
 design/components/Icon/native/redesign/generated/images/AppsIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowAngleLeftUpIcon.png
+design/components/Icon/native/redesign/generated/images/ArrowAngleRightUpIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeDownIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeLeftIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallDownIcon.png
@@ -1147,6 +1148,8 @@ design/components/Icon/native/redesign/generated/images/AppsIcon@2x.png
 design/components/Icon/native/redesign/generated/images/AppsIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ArrowAngleLeftUpIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ArrowAngleLeftUpIcon@3x.png
+design/components/Icon/native/redesign/generated/images/ArrowAngleRightUpIcon@2x.png
+design/components/Icon/native/redesign/generated/images/ArrowAngleRightUpIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeDownIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeDownIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeLeftIcon@2x.png
@@ -1709,6 +1712,8 @@ images/native/ic_message_retry@2x.png
 images/native/ic_message_retry@3x.png
 images/native/ic_reaction_smile@2x.png
 images/native/ic_reaction_smile@3x.png
+images/native/ic_reply_24px@2x.png
+images/native/ic_reply_24px@3x.png
 images/native/ic_report_message@2x.png
 images/native/ic_report_message@3x.png
 images/native/ic_selection_checked_24px.png
