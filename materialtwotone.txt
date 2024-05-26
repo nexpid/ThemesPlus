@@ -707,6 +707,8 @@ images/platforms/img_account_sync_instagram_light_and_dark.png
 images/platforms/img_account_sync_instagram_white.png
 images/platforms/img_account_sync_paypal_light_and_dark.png
 images/platforms/img_account_sync_paypal_white.png
+images/platforms/img_account_sync_playstation_light.png
+images/platforms/img_account_sync_playstation_white.png
 images/platforms/img_account_sync_reddit_light_and_dark.png
 images/platforms/img_account_sync_reddit_white.png
 images/platforms/img_account_sync_riot_light_and_dark.png
