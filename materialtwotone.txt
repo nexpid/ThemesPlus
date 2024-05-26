@@ -430,7 +430,6 @@ images/native/icons/ic_hide_password.png
 images/native/icons/ic_history_24px.png
 images/native/icons/ic_home.png
 images/native/icons/ic_home_remove.png
-images/native/icons/ic_home_remove@3x.png
 images/native/icons/ic_icon_upload.png
 images/native/icons/ic_image.png
 images/native/icons/ic_information_24px.png
