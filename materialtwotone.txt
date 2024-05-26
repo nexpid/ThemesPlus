@@ -627,8 +627,6 @@ images/native/premium/guild_boosting/lock.png
 images/native/premium/guild_boosting/member_list_badge_16px.png
 images/native/premium/guild_boosting/perks
 images/native/premium/guild_boosting/perks/audio.png
-images/native/premium/guild_boosting/perks/badge.png
-images/native/premium/guild_boosting/perks/badge_2.png
 images/native/premium/guild_boosting/perks/emoji.png
 images/native/premium/guild_boosting/perks/member_list_icon.png
 images/native/premium/guild_boosting/perks/role.png
@@ -639,12 +637,6 @@ images/native/premium/guild_boosting/perks/support.png
 images/native/premium/guild_boosting/perks/thread.png
 images/native/premium/guild_boosting/perks/upload.png
 images/native/premium/guild_boosting/tier_icons
-images/native/premium/guild_boosting/tier_icons/colored
-images/native/premium/guild_boosting/tier_icons/colored/tier_0_48px_dark.png
-images/native/premium/guild_boosting/tier_icons/colored/tier_0_48px_light.png
-images/native/premium/guild_boosting/tier_icons/colored/tier_1_32px.png
-images/native/premium/guild_boosting/tier_icons/colored/tier_2_32px.png
-images/native/premium/guild_boosting/tier_icons/colored/tier_3_32px.png
 images/native/premium/guild_boosting/tier_icons/flower_star
 images/native/premium/guild_boosting/tier_icons/flower_star/dark
 images/native/premium/guild_boosting/tier_icons/flower_star/dark/tier_0_24px.png
