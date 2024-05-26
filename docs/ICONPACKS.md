@@ -31,7 +31,7 @@ An iconpack based on the Icons8 Deco collection
 Created by: [@doraa](https://discord.com/users/455513497288310785)  
 Assets from: [https://icons8.com/icons/deco](https://icons8.com/icons/deco)
 
-### Solar <img src="https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar/images/native/main_tabs/Messages@2x.png" alt="Solar preview" width=25 height=25 />
+### Solar <img src="https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar/images/native/main_tabs/Messages.png" alt="Solar preview" width=25 height=25 />
 
 A giant iconpack, as big as the solar system!  
 Created by: [@Moodle](https://discord.com/users/807170846497570848)  
