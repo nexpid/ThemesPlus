@@ -614,6 +614,9 @@ images/native/platforms
 images/native/platforms/img_account_sync_facebook_white.png
 images/native/platforms/img_account_sync_twitter_white.png
 images/native/platforms/img_instagram_white.png
+images/native/premium
+images/native/premium/guild_boosting
+images/native/premium/guild_boosting/lock.png
 images/native/soundboard
 images/native/soundboard/megaphone.png
 images/native/status
@@ -1674,6 +1677,9 @@ images/native/main_tabs/Messages.png
 images/native/main_tabs/NotificationCenter.png
 images/native/main_tabs/Search.png
 images/native/main_tabs/UserIcon.png
+images/native/premium
+images/native/premium/guild_boosting
+images/native/premium/guild_boosting/lock.png
 images/native/soundboard
 images/native/soundboard/megaphone.png
 images/native/status
