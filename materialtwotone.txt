@@ -798,7 +798,6 @@ modules/forums/native/images/ic_forum_channel.png
 modules/forums/native/images/ic_forum_channel_locked.png
 modules/forums/native/images/ic_forum_channel_nsfw.png
 modules/forums/native/images/ic_forum_post.png
-modules/forums/native/images/ic_forum_post@3x.png
 modules/forums/native/images/ic_forum_post_join.png
 modules/forums/native/images/ic_tag.png
 modules/forums/native/images/ic_upload.png
@@ -808,9 +807,6 @@ modules/guild_automod/images/ic_blocked_chat_bubble_icon.png
 modules/guild_home
 modules/guild_home/native
 modules/guild_home/native/images
-modules/guild_home/native/images/expired_green.png
-modules/guild_home/native/images/expired_red.png
-modules/guild_home/native/images/expired_yellow.png
 modules/guild_home/native/images/feature_star.png
 modules/guild_home/native/images/ic_chat.png
 modules/guild_home/native/images/ic_clock.png
