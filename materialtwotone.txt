@@ -752,9 +752,6 @@ modules/chat_input/native/images/ic_arrow.png
 modules/chat_input/native/images/ic_expression.png
 modules/chat_input/native/images/ic_gift.png
 modules/chat_input/native/images/ic_sticker_icon_tilted.png
-modules/clyde_ai
-modules/clyde_ai/assets
-modules/clyde_ai/assets/clyde-avatar.png
 modules/connectivity
 modules/connectivity/native
 modules/connectivity/native/images
