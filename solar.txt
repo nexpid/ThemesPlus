@@ -76,6 +76,7 @@ design/components/Icon/native/redesign/generated/images/CopyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
 design/components/Icon/native/redesign/generated/images/DragIcon.png
+design/components/Icon/native/redesign/generated/images/EnvelopeIcon.png
 design/components/Icon/native/redesign/generated/images/EyeDropperIcon.png
 design/components/Icon/native/redesign/generated/images/EyeIcon.png
 design/components/Icon/native/redesign/generated/images/FacebookIcon.png
@@ -1076,6 +1077,7 @@ design/components/Icon/native/redesign/generated/images/CopyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
 design/components/Icon/native/redesign/generated/images/DragIcon.png
+design/components/Icon/native/redesign/generated/images/EnvelopeIcon.png
 design/components/Icon/native/redesign/generated/images/EyeDropperIcon.png
 design/components/Icon/native/redesign/generated/images/EyeIcon.png
 design/components/Icon/native/redesign/generated/images/FacebookIcon.png
