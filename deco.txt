@@ -294,6 +294,8 @@ design/components/Icon/native/redesign/generated/images/PinIcon@2x.png
 design/components/Icon/native/redesign/generated/images/PinIcon@3x.png
 design/components/Icon/native/redesign/generated/images/PlayIcon@2x.png
 design/components/Icon/native/redesign/generated/images/PlayIcon@3x.png
+design/components/Icon/native/redesign/generated/images/PlaystationIcon@2x.png
+design/components/Icon/native/redesign/generated/images/PlaystationIcon@3x.png
 design/components/Icon/native/redesign/generated/images/PlusLargeIcon@2x.png
 design/components/Icon/native/redesign/generated/images/PlusLargeIcon@3x.png
 design/components/Icon/native/redesign/generated/images/PlusMediumIcon@2x.png
