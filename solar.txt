@@ -255,6 +255,8 @@ images/native/audit_logs/ic_webhook_24px.png
 images/native/auto_moderation
 images/native/auto_moderation/ic_auto_moderation_shield.png
 images/native/auto_moderation/ic_closed_lock.png
+images/native/badge
+images/native/badge/ic_badge_staff.png
 images/native/chat_sidebar
 images/native/chat_sidebar/ic_close.png
 images/native/chat_sidebar/ic_new_pins.png
@@ -619,6 +621,7 @@ images/native/platforms/img_instagram_white.png
 images/native/premium
 images/native/premium/guild_boosting
 images/native/premium/guild_boosting/lock.png
+images/native/premium/guild_boosting/member_list_badge_16px.png
 images/native/soundboard
 images/native/soundboard/megaphone.png
 images/native/status
@@ -1150,6 +1153,7 @@ design/components/Icon/native/redesign/generated/images/PlayIcon.png
 design/components/Icon/native/redesign/generated/images/PlusLargeIcon.png
 design/components/Icon/native/redesign/generated/images/PlusMediumIcon.png
 design/components/Icon/native/redesign/generated/images/PlusSmallIcon.png
+design/components/Icon/native/redesign/generated/images/PollsIcon.png
 design/components/Icon/native/redesign/generated/images/PuzzlePieceIcon.png
 design/components/Icon/native/redesign/generated/images/QrCodeCameraIcon.png
 design/components/Icon/native/redesign/generated/images/ReactionIcon.png
@@ -1251,6 +1255,8 @@ images/native/audit_logs/ic_webhook_24px.png
 images/native/auto_moderation
 images/native/auto_moderation/ic_auto_moderation_shield.png
 images/native/auto_moderation/ic_closed_lock.png
+images/native/badge
+images/native/badge/ic_badge_staff.png
 images/native/chat_sidebar
 images/native/chat_sidebar/ic_close.png
 images/native/chat_sidebar/ic_new_pins.png
@@ -1610,6 +1616,7 @@ images/native/main_tabs/UserIcon.png
 images/native/premium
 images/native/premium/guild_boosting
 images/native/premium/guild_boosting/lock.png
+images/native/premium/guild_boosting/member_list_badge_16px.png
 images/native/soundboard
 images/native/soundboard/megaphone.png
 images/native/status
