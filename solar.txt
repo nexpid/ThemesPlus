@@ -1030,7 +1030,6 @@ images/native/main_tabs/ExampleVoiceChatActivity.png
 images/native/main_tabs/Friends.png
 images/native/main_tabs/Messages.png
 images/native/main_tabs/NotificationCenter.png
-images/native/main_tabs/Search.png
 images/native/main_tabs/UserIcon.png
 images/native/mfa-server.png
 images/native/mobile_shop_marketing_banner.png
@@ -1239,7 +1238,6 @@ images/native/status/StatusDND.png
 images/native/status/StatusIdle.png
 images/native/status/StatusMobileOnline.png
 images/native/status/StatusOffline.png
-images/native/status/StatusOffline@2x.png
 images/native/status/StatusOnline.png
 images/native/status/StatusStreaming.png
 images/native/stream_feedback
