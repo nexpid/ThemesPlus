@@ -643,6 +643,7 @@ images/native/ic_message_edit.png
 images/native/ic_message_pin.png
 images/native/ic_message_retry.png
 images/native/ic_reaction_smile.png
+images/native/ic_reply_24px.png
 images/native/ic_report_message.png
 images/native/ic_selection_checked_24px.png
 images/native/ic_selection_none_24px.png
