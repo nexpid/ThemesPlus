@@ -957,6 +957,7 @@ images/native/icons/settings/ic_text_image_24px.png
 images/native/icons/settings/ic_theme_24px.png
 images/native/icons/settings/ic_voice_settings_24px.png
 images/native/icons/user_profile
+images/native/icons/user_profile/ic_add_friend.png
 images/native/icons/user_profile/ic_arrow.png
 images/native/icons/user_profile/ic_audio.png
 images/native/icons/user_profile/ic_clock.png
