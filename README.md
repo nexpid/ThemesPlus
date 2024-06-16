@@ -14,7 +14,7 @@
     <h1>🎨 Themes+</h1>
 </div>
 
-Themes+ is a plugin for [Pyoncord](https://github.com/Pyoncord) that makes themes more customizable. It includes features such as:
+Themes+ is a plugin for [Bunny](https://github.com/Pyoncord/Bunny) that makes themes more customizable. It includes features such as:
 
 - recoloring icons
 - tweaking hardcoded colors
@@ -27,6 +27,7 @@ Read the documentation [here](https://github.com/nexpid/ThemesPlus/tree/main/doc
 
 ## Links
 
-- [Plugin link](https://vendetta.nexpid.xyz/themes-plus)
+- [Plugin link](https://bunny.nexpid.xyz/themes-plus)
+    - [Dev build](https://dev.bunny.nexpid.xyz/themes-plus)
 - [Docs](https://github.com/nexpid/ThemesPlus/tree/main/docs)
-- [Pyoncord](https://github.com/Pyoncord)
+- [Bunny](https://github.com/Pyoncord/Bunny)
