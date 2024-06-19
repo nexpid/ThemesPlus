@@ -24,9 +24,11 @@ design/components/Icon/native/redesign/generated/images/ArrowsUpDownIcon.png
 design/components/Icon/native/redesign/generated/images/AtIcon.png
 design/components/Icon/native/redesign/generated/images/AttachmentIcon.png
 design/components/Icon/native/redesign/generated/images/BackspaceIcon.png
+design/components/Icon/native/redesign/generated/images/BadgeIcon.png
 design/components/Icon/native/redesign/generated/images/BeakerIcon.png
 design/components/Icon/native/redesign/generated/images/BellIcon.png
 design/components/Icon/native/redesign/generated/images/BellSlashIcon.png
+design/components/Icon/native/redesign/generated/images/BellZIcon.png
 design/components/Icon/native/redesign/generated/images/BicycleIcon.png
 design/components/Icon/native/redesign/generated/images/BookCheckIcon.png
 design/components/Icon/native/redesign/generated/images/BoostTier2Icon.png
@@ -41,6 +43,7 @@ design/components/Icon/native/redesign/generated/images/ChannelListIcon.png
 design/components/Icon/native/redesign/generated/images/ChannelListMagnifyingGlassIcon.png
 design/components/Icon/native/redesign/generated/images/ChannelNotificationIcon.png
 design/components/Icon/native/redesign/generated/images/ChatAlertIcon.png
+design/components/Icon/native/redesign/generated/images/ChatArrowRightIcon.png
 design/components/Icon/native/redesign/generated/images/ChatCheckIcon.png
 design/components/Icon/native/redesign/generated/images/ChatIcon.png
 design/components/Icon/native/redesign/generated/images/ChatMarkUnreadIcon.png
@@ -58,6 +61,7 @@ design/components/Icon/native/redesign/generated/images/CircleCheckIcon-primary.
 design/components/Icon/native/redesign/generated/images/CircleCheckIcon-secondary.png
 design/components/Icon/native/redesign/generated/images/CircleExclamationPointIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleExclamationPointIcon-secondary.png
+design/components/Icon/native/redesign/generated/images/CircleExclamationPointIcon.png
 design/components/Icon/native/redesign/generated/images/CircleInformationIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleInformationIcon-secondary.png
 design/components/Icon/native/redesign/generated/images/CircleInformationIcon.png
@@ -80,6 +84,10 @@ design/components/Icon/native/redesign/generated/images/CloseLargeIcon.png
 design/components/Icon/native/redesign/generated/images/CloseSmallBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CloseSmallIcon.png
 design/components/Icon/native/redesign/generated/images/ClydeIcon.png
+design/components/Icon/native/redesign/generated/images/ConnectionAverageIcon.png
+design/components/Icon/native/redesign/generated/images/ConnectionBadIcon.png
+design/components/Icon/native/redesign/generated/images/ConnectionFineIcon.png
+design/components/Icon/native/redesign/generated/images/ConnectionUnknownIcon.png
 design/components/Icon/native/redesign/generated/images/CopyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
@@ -88,6 +96,7 @@ design/components/Icon/native/redesign/generated/images/EmbedIcon.png
 design/components/Icon/native/redesign/generated/images/EnvelopeIcon.png
 design/components/Icon/native/redesign/generated/images/EyeDropperIcon.png
 design/components/Icon/native/redesign/generated/images/EyeIcon.png
+design/components/Icon/native/redesign/generated/images/EyeSlashIcon.png
 design/components/Icon/native/redesign/generated/images/FacebookIcon.png
 design/components/Icon/native/redesign/generated/images/FileIcon.png
 design/components/Icon/native/redesign/generated/images/FileUpIcon.png
@@ -119,6 +128,7 @@ design/components/Icon/native/redesign/generated/images/IdIcon.png
 design/components/Icon/native/redesign/generated/images/ImageFileIcon.png
 design/components/Icon/native/redesign/generated/images/ImageIcon.png
 design/components/Icon/native/redesign/generated/images/ImageLockIcon.png
+design/components/Icon/native/redesign/generated/images/ImagePlusIcon.png
 design/components/Icon/native/redesign/generated/images/ImageTextIcon.png
 design/components/Icon/native/redesign/generated/images/ImageWarningIcon.png
 design/components/Icon/native/redesign/generated/images/InstagramIcon.png
@@ -127,6 +137,7 @@ design/components/Icon/native/redesign/generated/images/KeyboardIcon.png
 design/components/Icon/native/redesign/generated/images/LanguageIcon.png
 design/components/Icon/native/redesign/generated/images/LaptopPhoneIcon.png
 design/components/Icon/native/redesign/generated/images/LightbulbIcon.png
+design/components/Icon/native/redesign/generated/images/LinkExternalMediumIcon.png
 design/components/Icon/native/redesign/generated/images/LinkExternalSmallIcon.png
 design/components/Icon/native/redesign/generated/images/LinkIcon.png
 design/components/Icon/native/redesign/generated/images/ListBulletsIcon.png
@@ -148,6 +159,7 @@ design/components/Icon/native/redesign/generated/images/NatureIcon.png
 design/components/Icon/native/redesign/generated/images/NitroWheelIcon.png
 design/components/Icon/native/redesign/generated/images/ObjectIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
+design/components/Icon/native/redesign/generated/images/PaperIcon.png
 design/components/Icon/native/redesign/generated/images/PauseIcon.png
 design/components/Icon/native/redesign/generated/images/PencilIcon.png
 design/components/Icon/native/redesign/generated/images/PencilSparkleIcon.png
@@ -163,6 +175,7 @@ design/components/Icon/native/redesign/generated/images/PollsIcon.png
 design/components/Icon/native/redesign/generated/images/PuzzlePieceIcon.png
 design/components/Icon/native/redesign/generated/images/QrCodeCameraIcon.png
 design/components/Icon/native/redesign/generated/images/ReactionIcon.png
+design/components/Icon/native/redesign/generated/images/RefreshIcon.png
 design/components/Icon/native/redesign/generated/images/RetryIcon.png
 design/components/Icon/native/redesign/generated/images/RobotIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenArrowIcon.png
@@ -176,9 +189,11 @@ design/components/Icon/native/redesign/generated/images/SettingsIcon.png
 design/components/Icon/native/redesign/generated/images/SettingsInfoIcon.png
 design/components/Icon/native/redesign/generated/images/ShareIcon.png
 design/components/Icon/native/redesign/generated/images/ShieldIcon.png
+design/components/Icon/native/redesign/generated/images/ShieldLockIcon.png
 design/components/Icon/native/redesign/generated/images/ShieldUserIcon.png
 design/components/Icon/native/redesign/generated/images/ShopIcon.png
 design/components/Icon/native/redesign/generated/images/ShopSparkleIcon.png
+design/components/Icon/native/redesign/generated/images/SignPostIcon.png
 design/components/Icon/native/redesign/generated/images/SlashBoxIcon.png
 design/components/Icon/native/redesign/generated/images/SoundboardIcon.png
 design/components/Icon/native/redesign/generated/images/SoundboardSlashIcon.png
