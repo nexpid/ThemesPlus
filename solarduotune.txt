@@ -13,7 +13,6 @@ design/components/Icon/native/redesign/generated/images/AnnouncementsLockIcon.pn
 design/components/Icon/native/redesign/generated/images/AnnouncementsWarningIcon.png
 design/components/Icon/native/redesign/generated/images/AppsIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowAngleLeftUpIcon.png
-design/components/Icon/native/redesign/generated/images/ArrowAngleRightUpIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeDownIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeLeftIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallDownIcon.png
@@ -40,6 +39,7 @@ design/components/Icon/native/redesign/generated/images/ChannelListIcon.png
 design/components/Icon/native/redesign/generated/images/ChannelListMagnifyingGlassIcon.png
 design/components/Icon/native/redesign/generated/images/ChannelNotificationIcon.png
 design/components/Icon/native/redesign/generated/images/ChatAlertIcon.png
+design/components/Icon/native/redesign/generated/images/ChatArrowRightIcon
 design/components/Icon/native/redesign/generated/images/ChatCheckIcon.png
 design/components/Icon/native/redesign/generated/images/ChatIcon.png
 design/components/Icon/native/redesign/generated/images/ChatMarkUnreadIcon.png
