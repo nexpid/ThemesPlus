@@ -19,6 +19,7 @@ design/components/Icon/native/redesign/generated/images/ArrowLargeDownIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeLeftIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeRightIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallDownIcon.png
+design/components/Icon/native/redesign/generated/images/ArrowSmallRightIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallUpIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowsUpDownIcon.png
 design/components/Icon/native/redesign/generated/images/AtIcon.png
@@ -102,6 +103,7 @@ design/components/Icon/native/redesign/generated/images/FileIcon.png
 design/components/Icon/native/redesign/generated/images/FileUpIcon.png
 design/components/Icon/native/redesign/generated/images/FiltersHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/FlagIcon.png
+design/components/Icon/native/redesign/generated/images/FlashIcon.png
 design/components/Icon/native/redesign/generated/images/FolderIcon.png
 design/components/Icon/native/redesign/generated/images/FoodIcon.png
 design/components/Icon/native/redesign/generated/images/ForumIcon.png
@@ -156,6 +158,7 @@ design/components/Icon/native/redesign/generated/images/MoreHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/MusicIcon.png
 design/components/Icon/native/redesign/generated/images/MusicSlashIcon.png
 design/components/Icon/native/redesign/generated/images/NatureIcon.png
+design/components/Icon/native/redesign/generated/images/NewUserLargeIcon.png
 design/components/Icon/native/redesign/generated/images/NitroWheelIcon.png
 design/components/Icon/native/redesign/generated/images/ObjectIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
@@ -175,6 +178,7 @@ design/components/Icon/native/redesign/generated/images/PollsIcon.png
 design/components/Icon/native/redesign/generated/images/PuzzlePieceIcon.png
 design/components/Icon/native/redesign/generated/images/QrCodeCameraIcon.png
 design/components/Icon/native/redesign/generated/images/ReactionIcon.png
+design/components/Icon/native/redesign/generated/images/RecordPlayerIcon.png
 design/components/Icon/native/redesign/generated/images/RefreshIcon.png
 design/components/Icon/native/redesign/generated/images/RetryIcon.png
 design/components/Icon/native/redesign/generated/images/RobotIcon.png
@@ -218,10 +222,12 @@ design/components/Icon/native/redesign/generated/images/ThreadIcon.png
 design/components/Icon/native/redesign/generated/images/ThreadPlusIcon.png
 design/components/Icon/native/redesign/generated/images/TicketIcon.png
 design/components/Icon/native/redesign/generated/images/TikTokIcon.png
+design/components/Icon/native/redesign/generated/images/TimerIcon.png
 design/components/Icon/native/redesign/generated/images/TopicsIcon.png
 design/components/Icon/native/redesign/generated/images/TrashIcon.png
 design/components/Icon/native/redesign/generated/images/TreehouseIcon.png
 design/components/Icon/native/redesign/generated/images/TrophyIcon.png
+design/components/Icon/native/redesign/generated/images/TvIcon.png
 design/components/Icon/native/redesign/generated/images/TwitterIcon.png
 design/components/Icon/native/redesign/generated/images/UploadIcon.png
 design/components/Icon/native/redesign/generated/images/UserCircleIcon.png
