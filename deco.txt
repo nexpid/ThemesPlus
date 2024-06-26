@@ -94,6 +94,8 @@ design/components/Icon/native/redesign/generated/images/ChatMarkUnreadIcon@2x.pn
 design/components/Icon/native/redesign/generated/images/ChatMarkUnreadIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ChatPlusIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ChatPlusIcon@3x.png
+design/components/Icon/native/redesign/generated/images/ChatXIcon@2x.png
+design/components/Icon/native/redesign/generated/images/ChatXIcon@3x.png
 design/components/Icon/native/redesign/generated/images/CheckmarkLargeIcon@2x.png
 design/components/Icon/native/redesign/generated/images/CheckmarkLargeIcon@3x.png
 design/components/Icon/native/redesign/generated/images/CheckmarkSmallBoldIcon@2x.png

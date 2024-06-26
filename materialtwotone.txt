@@ -49,6 +49,7 @@ design/components/Icon/native/redesign/generated/images/ChatCheckIcon.png
 design/components/Icon/native/redesign/generated/images/ChatIcon.png
 design/components/Icon/native/redesign/generated/images/ChatMarkUnreadIcon.png
 design/components/Icon/native/redesign/generated/images/ChatPlusIcon.png
+design/components/Icon/native/redesign/generated/images/ChatXIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkLargeIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkSmallBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkSmallIcon.png
