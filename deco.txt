@@ -96,6 +96,8 @@ design/components/Icon/native/redesign/generated/images/ChatPlusIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ChatPlusIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ChatXIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ChatXIcon@3x.png
+design/components/Icon/native/redesign/generated/images/CheckmarkBoldIcon@2x.png
+design/components/Icon/native/redesign/generated/images/CheckmarkBoldIcon@3x.png
 design/components/Icon/native/redesign/generated/images/CheckmarkLargeIcon@2x.png
 design/components/Icon/native/redesign/generated/images/CheckmarkLargeIcon@3x.png
 design/components/Icon/native/redesign/generated/images/CheckmarkSmallBoldIcon@2x.png
@@ -148,6 +150,8 @@ design/components/Icon/native/redesign/generated/images/ClockWarningIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ClockWarningIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ClockXIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ClockXIcon@3x.png
+design/components/Icon/native/redesign/generated/images/CloseLargeBoldIcon@2x.png
+design/components/Icon/native/redesign/generated/images/CloseLargeBoldIcon@3x.png
 design/components/Icon/native/redesign/generated/images/CloseLargeIcon@2x.png
 design/components/Icon/native/redesign/generated/images/CloseLargeIcon@3x.png
 design/components/Icon/native/redesign/generated/images/CloseSmallBoldIcon@2x.png
@@ -156,6 +160,8 @@ design/components/Icon/native/redesign/generated/images/CloseSmallIcon@2x.png
 design/components/Icon/native/redesign/generated/images/CloseSmallIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ClydeIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ClydeIcon@3x.png
+design/components/Icon/native/redesign/generated/images/CompassIcon@2x.png
+design/components/Icon/native/redesign/generated/images/CompassIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ConnectionAverageIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ConnectionAverageIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ConnectionBadIcon@2x.png
@@ -292,6 +298,8 @@ design/components/Icon/native/redesign/generated/images/MicrophoneSlashIcon@2x.p
 design/components/Icon/native/redesign/generated/images/MicrophoneSlashIcon@3x.png
 design/components/Icon/native/redesign/generated/images/MobilePhoneIcon@2x.png
 design/components/Icon/native/redesign/generated/images/MobilePhoneIcon@3x.png
+design/components/Icon/native/redesign/generated/images/MobilePhoneShareIcon@2x.png
+design/components/Icon/native/redesign/generated/images/MobilePhoneShareIcon@3x.png
 design/components/Icon/native/redesign/generated/images/ModerationIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ModerationIcon@3x.png
 design/components/Icon/native/redesign/generated/images/MoreHorizontalIcon@2x.png

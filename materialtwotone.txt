@@ -50,6 +50,7 @@ design/components/Icon/native/redesign/generated/images/ChatIcon.png
 design/components/Icon/native/redesign/generated/images/ChatMarkUnreadIcon.png
 design/components/Icon/native/redesign/generated/images/ChatPlusIcon.png
 design/components/Icon/native/redesign/generated/images/ChatXIcon.png
+design/components/Icon/native/redesign/generated/images/CheckmarkBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkLargeIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkSmallBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkSmallIcon.png
@@ -82,10 +83,12 @@ design/components/Icon/native/redesign/generated/images/ClipsIcon.png
 design/components/Icon/native/redesign/generated/images/ClockIcon.png
 design/components/Icon/native/redesign/generated/images/ClockWarningIcon.png
 design/components/Icon/native/redesign/generated/images/ClockXIcon.png
+design/components/Icon/native/redesign/generated/images/CloseLargeBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CloseLargeIcon.png
 design/components/Icon/native/redesign/generated/images/CloseSmallBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CloseSmallIcon.png
 design/components/Icon/native/redesign/generated/images/ClydeIcon.png
+design/components/Icon/native/redesign/generated/images/CompassIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionAverageIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionBadIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionFineIcon.png
@@ -154,6 +157,7 @@ design/components/Icon/native/redesign/generated/images/MicrophoneDenyIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneSlashIcon.png
 design/components/Icon/native/redesign/generated/images/MobilePhoneIcon.png
+design/components/Icon/native/redesign/generated/images/MobilePhoneShareIcon.png
 design/components/Icon/native/redesign/generated/images/ModerationIcon.png
 design/components/Icon/native/redesign/generated/images/MoreHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/MusicIcon.png
