@@ -44,6 +44,7 @@ design/components/Icon/native/redesign/generated/images/ChatCheckIcon.png
 design/components/Icon/native/redesign/generated/images/ChatIcon.png
 design/components/Icon/native/redesign/generated/images/ChatMarkUnreadIcon.png
 design/components/Icon/native/redesign/generated/images/ChatPlusIcon.png
+design/components/Icon/native/redesign/generated/images/CheckmarkBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkLargeIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkSmallBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkSmallIcon.png
@@ -68,10 +69,12 @@ design/components/Icon/native/redesign/generated/images/ClipsIcon.png
 design/components/Icon/native/redesign/generated/images/ClockIcon.png
 design/components/Icon/native/redesign/generated/images/ClockWarningIcon.png
 design/components/Icon/native/redesign/generated/images/ClockXIcon.png
+design/components/Icon/native/redesign/generated/images/CloseLargeBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CloseLargeIcon.png
 design/components/Icon/native/redesign/generated/images/CloseSmallBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CloseSmallIcon.png
 design/components/Icon/native/redesign/generated/images/ClydeIcon.png
+design/components/Icon/native/redesign/generated/images/CompassIcon.png
 design/components/Icon/native/redesign/generated/images/CopyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
@@ -84,6 +87,7 @@ design/components/Icon/native/redesign/generated/images/FileIcon.png
 design/components/Icon/native/redesign/generated/images/FileUpIcon.png
 design/components/Icon/native/redesign/generated/images/FiltersHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/FlagIcon.png
+design/components/Icon/native/redesign/generated/images/FlashIcon.png
 design/components/Icon/native/redesign/generated/images/FolderIcon.png
 design/components/Icon/native/redesign/generated/images/FoodIcon.png
 design/components/Icon/native/redesign/generated/images/ForumIcon.png
@@ -132,11 +136,13 @@ design/components/Icon/native/redesign/generated/images/MicrophoneDenyIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneSlashIcon.png
 design/components/Icon/native/redesign/generated/images/MobilePhoneIcon.png
+design/components/Icon/native/redesign/generated/images/MobilePhoneShareIcon.png
 design/components/Icon/native/redesign/generated/images/ModerationIcon.png
 design/components/Icon/native/redesign/generated/images/MoreHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/MusicIcon.png
 design/components/Icon/native/redesign/generated/images/MusicSlashIcon.png
 design/components/Icon/native/redesign/generated/images/NatureIcon.png
+design/components/Icon/native/redesign/generated/images/NewUserLargeIcon.png
 design/components/Icon/native/redesign/generated/images/NitroWheelIcon.png
 design/components/Icon/native/redesign/generated/images/ObjectIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
@@ -155,6 +161,7 @@ design/components/Icon/native/redesign/generated/images/PollsIcon.png
 design/components/Icon/native/redesign/generated/images/PuzzlePieceIcon.png
 design/components/Icon/native/redesign/generated/images/QrCodeCameraIcon.png
 design/components/Icon/native/redesign/generated/images/ReactionIcon.png
+design/components/Icon/native/redesign/generated/images/RefreshIcon.png
 design/components/Icon/native/redesign/generated/images/RetryIcon.png
 design/components/Icon/native/redesign/generated/images/RobotIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenArrowIcon.png
