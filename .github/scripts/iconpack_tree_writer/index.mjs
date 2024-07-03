@@ -18,13 +18,11 @@ for (const ic of list) {
   const path = split.slice(6, -1);
 
   try {
-    const paths = (
-      await (
-        await fetch(
-          `https://api.github.com/repos/${user}/git/trees/${branch}?recursive=1`
-        )
-      ).json()
-    ).tree
+    const res = await fetch(
+      `https://api.github.com/repos/${user}/git/trees/${branch}?recursive=1`
+    ).then((x) => x.json());
+    const files = res.tree
+      .filter((x) => x.type === "blob")
       .filter(
         (x) =>
           x.path.startsWith(path.join("/")) &&
@@ -32,13 +30,21 @@ for (const ic of list) {
             x.path.endsWith(`${ic.suffix}.${ext}`)
           )
       )
-      .map((x) => x.path.split("/").slice(path.length).join("/"))
-      .filter((x) => x.length > 0);
+      .map((x) => ({
+        size: x.size,
+        path: x.path.split("/").slice(path.length).join("/"),
+      }))
+      .filter((x) => x.path.length > 0);
 
-    const result = paths.join("\n");
-    hashes[ic.id] = createHash("sha256").update(result).digest("hex");
+    hashes[ic.id] = {
+      hash: res.sha,
+      size: files.reduce((a, b) => a + b.size, 0),
+    };
 
-    await writeFile(join("../", "trees", `${ic.id}.txt`), result);
+    await writeFile(
+      join("../", "trees", `${ic.id}.txt`),
+      files.map((x) => x.path).join("\n")
+    );
   } catch (e) {
     console.log(`Failed to parse tree for '${ic.id}'!`);
     continue;
@@ -51,6 +57,6 @@ for (const f of (
   })
 ).filter((x) => x.isFile() && !list.some((y) => x.name === `${y.id}.txt`)))
   await unlink(join("../trees", f.name));
-await writeFile(join("../trees", "hashes.txt"), JSON.stringify(hashes));
+await writeFile(join("../trees", "_hashes.txt"), JSON.stringify(hashes));
 
 console.timeEnd("Done");
