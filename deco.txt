@@ -211,6 +211,7 @@ design/components/Icon/native/redesign/generated/images/ThemeDarkIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ThemeLightIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ThemeMidnightIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ThreadIcon@2x.png
+design/components/Icon/native/redesign/generated/images/ThreadLockIcon@@2x.png
 design/components/Icon/native/redesign/generated/images/ThreadPlusIcon@2x.png
 design/components/Icon/native/redesign/generated/images/TicketIcon@2x.png
 design/components/Icon/native/redesign/generated/images/TikTokIcon@2x.png
