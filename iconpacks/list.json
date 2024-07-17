@@ -120,6 +120,23 @@
       "load": "https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-Duotone/"
     },
     {
+      "id": "solarbroken",
+      "name": "Solar (Broken)",
+      "description": "A giant iconpack, as big as the solar system, now broken 💔",
+      "credits": {
+        "authors": [
+          {
+            "name": "Moodle",
+            "id": "807170846497570848"
+          }
+        ],
+        "source": "https://www.figma.com/community/file/1166831539721848736/",
+        "sources": ["https://www.figma.com/community/file/1166831539721848736/"]
+      },
+      "suffix": "",
+      "config": "https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-broken/solar.json",
+      "load": "https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-Broken/"
+    },
       "id": "materialtwotone",
       "name": "Material Two Tone",
       "description": "Material Design icons! but Two Tone.",
