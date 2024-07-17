@@ -43,6 +43,12 @@ A giant iconpack, as big as the solar system! Now with more colors.
 Created by: [@Moodle](https://discord.com/users/807170846497570848)  
 Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)
 
+### Solar (Broken) <img src="https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-Broken/images/native/main_tabs/Messages.png" alt="Solar (Broken) preview" width=25 height=25 />
+
+A giant iconpack, as big as the solar system, now broken 💔  
+Created by: [@Moodle](https://discord.com/users/807170846497570848)  
+Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)
+
 ### Material Two Tone <img src="https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/MaterialTwoTone/images/native/main_tabs/Messages.png" alt="Material Two Tone preview" width=25 height=25 />
 
 Material Design icons! but Two Tone.  
