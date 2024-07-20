@@ -86,6 +86,7 @@ design/components/Icon/native/redesign/generated/images/ConnectionBadIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionFineIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionUnknownIcon.png
 design/components/Icon/native/redesign/generated/images/CopyIcon.png
+design/components/Icon/native/redesign/generated/images/CrunchyrollNeutralIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
 design/components/Icon/native/redesign/generated/images/DragIcon.png
@@ -227,6 +228,7 @@ design/components/Icon/native/redesign/generated/images/TreehouseIcon.png
 design/components/Icon/native/redesign/generated/images/TrophyIcon.png
 design/components/Icon/native/redesign/generated/images/TvIcon.png
 design/components/Icon/native/redesign/generated/images/TwitterIcon.png
+design/components/Icon/native/redesign/generated/images/UnknownGameIcon.png
 design/components/Icon/native/redesign/generated/images/UploadIcon.png
 design/components/Icon/native/redesign/generated/images/UserCircleIcon.png
 design/components/Icon/native/redesign/generated/images/UserIcon.png
