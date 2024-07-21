@@ -591,6 +591,7 @@ images/native/icons/voice_calls/video.png
 images/native/icons/voice_calls/voice_bar_bluetooth.png
 images/native/icons/voice_calls/voice_bar_phone.png
 images/native/icons/voice_calls/voice_bar_speaker_new.png
+images/native/img_no_results_dark_theme.png
 images/native/main_tabs/Discord.png
 images/native/main_tabs/Friends.png
 images/native/main_tabs/Messages.png
