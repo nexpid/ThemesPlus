@@ -38,7 +38,7 @@ Would look like:
 
 ## Unread Badge Color
 
-> **WARNING**  
+> [!WARNING]
 > This is deprecated and will be removed in version 1. Use raw color `RED_400` instead
 
 Changes the color of the unread badge  
@@ -63,7 +63,7 @@ Would look like:
 
 ## Custom Icon Overlays
 
-> **INFO**  
+> [!NOTE]
 > Incompatible with iconpacks
 
 Adds more layers to icons to allow futher recoloring. You can find the full list [here](./CUSTOM-ICON-OVERLAYS.md)  
