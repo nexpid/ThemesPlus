@@ -281,29 +281,17 @@ design/components/Icon/native/redesign/generated/images/UserIcon.png
 design/components/Icon/native/redesign/generated/images/UserMinusIcon.png
 design/components/Icon/native/redesign/generated/images/UserPlusIcon.png
 design/components/Icon/native/redesign/generated/images/UserSquareIcon.png
-design/components/Icon/native/redesign/generated/images/VideoIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/VideoIcon.png
-design/components/Icon/native/redesign/generated/images/VideoSlashIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/VideoSlashIcon.png
-design/components/Icon/native/redesign/generated/images/VoiceLockIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/VoiceLockIcon.png
-design/components/Icon/native/redesign/generated/images/VoiceNormalIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/VoiceNormalIcon.png
-design/components/Icon/native/redesign/generated/images/VoiceWarningIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/VoiceWarningIcon.png
-design/components/Icon/native/redesign/generated/images/VoiceXIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/VoiceXIcon.png
-design/components/Icon/native/redesign/generated/images/WarningIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/WarningIcon.png
-design/components/Icon/native/redesign/generated/images/WebhookIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/WebhookIcon.png
-design/components/Icon/native/redesign/generated/images/WindowLaunchIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/WindowLaunchIcon.png
-design/components/Icon/native/redesign/generated/images/WrenchIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/WrenchIcon.png
-design/components/Icon/native/redesign/generated/images/XboxIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/XboxIcon.png
-design/components/Icon/native/redesign/generated/images/YouTubeIcon - Copy.png
 design/components/Icon/native/redesign/generated/images/YouTubeIcon.png
 images/auth/background-splash-mobile.png
 images/auth/img-auth-qrcode-overlay.png
