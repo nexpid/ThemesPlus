@@ -602,6 +602,7 @@ images/native/premium/guild_boosting/member_list_badge_16px.png
 images/native/premium/guild_boosting/perks/member_list_icon.png
 images/native/premium/perks/img_nitro_premium_guilds.png
 images/native/premium/perks/img_nitro_premium_guilds_20px.png
+images/native/premium/perks/img_nitro_remixing.png
 images/native/soundboard/megaphone.png
 images/native/status/StatusDND.png
 images/native/status/StatusIdle.png
@@ -1487,6 +1488,7 @@ images/native/premium/guild_boosting/member_list_badge_16px.png
 images/native/premium/guild_boosting/perks/member_list_icon.png
 images/native/premium/perks/img_nitro_premium_guilds.png
 images/native/premium/perks/img_nitro_premium_guilds_20px.png
+images/native/premium/perks/img_nitro_remixing.png
 images/native/soundboard/megaphone.png
 images/native/status/StatusDND.png
 images/native/status/StatusIdle.png
@@ -2284,6 +2286,7 @@ images/native/premium/guild_boosting/member_list_badge_16px.png
 images/native/premium/guild_boosting/perks/member_list_icon.png
 images/native/premium/perks/img_nitro_premium_guilds.png
 images/native/premium/perks/img_nitro_premium_guilds_20px.png
+images/native/premium/perks/img_nitro_remixing.png
 images/native/soundboard/megaphone.png
 images/native/status/StatusDND.png
 images/native/status/StatusIdle.png
