@@ -1189,9 +1189,9 @@ images/native/ic_message_edit.png
 images/native/ic_message_pin.png
 images/native/ic_message_retry.png
 images/native/ic_reaction_smile.png
+images/native/ic_reply_24px.png
 images/native/ic_report_message.png
 images/native/ic_selection_checked_24px.png
-images/native/ic_selection_none_24px.png
 images/native/ic_spotify_white_16px.png
 images/native/ic_table_arrow_down.png
 images/native/ic_table_arrow_right.png
@@ -1768,6 +1768,9 @@ design/components/Icon/native/redesign/generated/images/ClockIcon.png
 design/components/Icon/native/redesign/generated/images/ClockWarningIcon.png
 design/components/Icon/native/redesign/generated/images/ClockXIcon.png
 design/components/Icon/native/redesign/generated/images/CloseLargeBoldIcon.png
+design/components/Icon/native/redesign/generated/images/CloseLargeIcon.png
+design/components/Icon/native/redesign/generated/images/CloseSmallBoldIcon.png
+design/components/Icon/native/redesign/generated/images/CloseSmallIcon.png
 design/components/Icon/native/redesign/generated/images/ClydeIcon.png
 design/components/Icon/native/redesign/generated/images/CompassIcon.png
 design/components/Icon/native/redesign/generated/images/CopyIcon.png
@@ -1809,6 +1812,7 @@ design/components/Icon/native/redesign/generated/images/IdIcon.png
 design/components/Icon/native/redesign/generated/images/ImageFileIcon.png
 design/components/Icon/native/redesign/generated/images/ImageIcon.png
 design/components/Icon/native/redesign/generated/images/ImageLockIcon.png
+design/components/Icon/native/redesign/generated/images/ImagePlusIcon.png
 design/components/Icon/native/redesign/generated/images/ImageTextIcon.png
 design/components/Icon/native/redesign/generated/images/ImageWarningIcon.png
 design/components/Icon/native/redesign/generated/images/InstagramIcon.png
@@ -1872,6 +1876,7 @@ design/components/Icon/native/redesign/generated/images/ShieldIcon.png
 design/components/Icon/native/redesign/generated/images/ShieldUserIcon.png
 design/components/Icon/native/redesign/generated/images/ShopIcon.png
 design/components/Icon/native/redesign/generated/images/ShopSparkleIcon.png
+design/components/Icon/native/redesign/generated/images/SignPostIcon.png
 design/components/Icon/native/redesign/generated/images/SlashBoxIcon.png
 design/components/Icon/native/redesign/generated/images/SoundboardIcon.png
 design/components/Icon/native/redesign/generated/images/SoundboardSlashIcon.png
@@ -1984,7 +1989,6 @@ images/native/ic_disclosure_grey.png
 images/native/ic_dm_user.png
 images/native/ic_drag_icon_24px.png
 images/native/ic_expand_more_24px.png
-images/native/ic_flower_star_24px.png
 images/native/ic_forward_chevron.png
 images/native/ic_group_edit_18px.png
 images/native/ic_invite.png
@@ -2001,7 +2005,6 @@ images/native/ic_reaction_smile.png
 images/native/ic_reply_24px.png
 images/native/ic_report_message.png
 images/native/ic_selection_checked_24px.png
-images/native/ic_selection_none_24px.png
 images/native/ic_spotify_white_16px.png
 images/native/ic_table_arrow_down.png
 images/native/ic_table_arrow_right.png
