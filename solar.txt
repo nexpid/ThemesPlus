@@ -805,7 +805,6 @@ modules/parent_tools/images/family_center_activity_banner_image_teen.png
 modules/parent_tools/images/family_center_activity_checklist_image.png
 modules/parent_tools/images/family_center_chat_check_icon.png
 modules/parent_tools/images/family_center_empty.png
-modules/parent_tools/images/family_center_linking_banner_image.png
 modules/parent_tools/images/ic_eye.png
 modules/polls/native/images/ic_image.png
 modules/polls/native/images/ic_list.png
