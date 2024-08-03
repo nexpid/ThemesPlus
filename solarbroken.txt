@@ -328,8 +328,7 @@ images/native/ic_table_arrow_up.png
 images/native/ic_upload.png
 images/native/ic_verified_check_18px.png
 images/native/ic_verified_check_24px.png
-images/native/icons/ActiveNow-dark@2X.png
-images/native/icons/ActiveNow-light@2X.png
+images/native/icons/ActiveNow-light.png
 images/native/icons/Audio.png
 images/native/icons/Check.png
 images/native/icons/Share.png
@@ -557,7 +556,6 @@ images/native/icons/settings/ic_locale_24px.png
 images/native/icons/settings/ic_logout_24px.png
 images/native/icons/settings/ic_monitor_24px.png
 images/native/icons/settings/ic_my_account_24px.png
-images/native/icons/settings/ic_nitro_rep_24px.png
 images/native/icons/settings/ic_notification_settings_24px.png
 images/native/icons/settings/ic_phonelink_24px.png
 images/native/icons/settings/ic_privacy_24px.png

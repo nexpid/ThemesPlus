@@ -328,8 +328,7 @@ images/native/ic_table_arrow_up.png
 images/native/ic_upload.png
 images/native/ic_verified_check_18px.png
 images/native/ic_verified_check_24px.png
-images/native/icons/ActiveNow-dark@2X.png
-images/native/icons/ActiveNow-light@2X.png
+images/native/icons/ActiveNow-light.png
 images/native/icons/Audio.png
 images/native/icons/Check.png
 images/native/icons/Share.png
@@ -557,7 +556,6 @@ images/native/icons/settings/ic_locale_24px.png
 images/native/icons/settings/ic_logout_24px.png
 images/native/icons/settings/ic_monitor_24px.png
 images/native/icons/settings/ic_my_account_24px.png
-images/native/icons/settings/ic_nitro_rep_24px.png
 images/native/icons/settings/ic_notification_settings_24px.png
 images/native/icons/settings/ic_phonelink_24px.png
 images/native/icons/settings/ic_privacy_24px.png
@@ -1198,8 +1196,7 @@ images/native/ic_table_arrow_up.png
 images/native/ic_upload.png
 images/native/ic_verified_check_18px.png
 images/native/ic_verified_check_24px.png
-images/native/icons/ActiveNow-dark@2X.png
-images/native/icons/ActiveNow-light@2X.png
+images/native/icons/ActiveNow-light.png
 images/native/icons/Audio.png
 images/native/icons/Check.png
 images/native/icons/Share.png
@@ -1304,7 +1301,6 @@ images/native/icons/ic_icon_upload.png
 images/native/icons/ic_image.png
 images/native/icons/ic_image_upload.png
 images/native/icons/ic_information_24px.png
-images/native/icons/ic_information_filled_24px (1).png
 images/native/icons/ic_information_filled_24px.png
 images/native/icons/ic_input_clear_24px.png
 images/native/icons/ic_integrations_24px.png
@@ -1438,7 +1434,6 @@ images/native/icons/settings/ic_locale_24px.png
 images/native/icons/settings/ic_logout_24px.png
 images/native/icons/settings/ic_monitor_24px.png
 images/native/icons/settings/ic_my_account_24px.png
-images/native/icons/settings/ic_nitro_rep_24px.png
 images/native/icons/settings/ic_notification_settings_24px.png
 images/native/icons/settings/ic_phonelink_24px.png
 images/native/icons/settings/ic_privacy_24px.png
@@ -2071,6 +2066,7 @@ images/native/icons/ic_content_warning_32px.png
 images/native/icons/ic_controller_24px.png
 images/native/icons/ic_crop.png
 images/native/icons/ic_crown_16px.png
+images/native/icons/ic_custom_app_icons_24px.png
 images/native/icons/ic_discoverable_globe_guild_badge_light.png
 images/native/icons/ic_dm.png
 images/native/icons/ic_download_24px.png
