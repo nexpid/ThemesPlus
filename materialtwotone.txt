@@ -62,6 +62,8 @@ design/components/Icon/native/redesign/generated/images/CircleInformationIcon-se
 design/components/Icon/native/redesign/generated/images/CircleInformationIcon.png
 design/components/Icon/native/redesign/generated/images/CircleMinusIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleMinusIcon-secondary.png
+design/components/Icon/native/redesign/generated/images/CirclePlayIcon-primary.png
+design/components/Icon/native/redesign/generated/images/CirclePlayIcon-secondary.png
 design/components/Icon/native/redesign/generated/images/CirclePlusIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CirclePlusIcon-secondary.png
 design/components/Icon/native/redesign/generated/images/CircleQuestionIcon-primary.png
@@ -87,6 +89,7 @@ design/components/Icon/native/redesign/generated/images/ConnectionFineIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionUnknownIcon.png
 design/components/Icon/native/redesign/generated/images/CopyIcon.png
 design/components/Icon/native/redesign/generated/images/CrunchyrollNeutralIcon.png
+design/components/Icon/native/redesign/generated/images/DenyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
 design/components/Icon/native/redesign/generated/images/DragIcon.png
@@ -99,6 +102,7 @@ design/components/Icon/native/redesign/generated/images/FacebookIcon.png
 design/components/Icon/native/redesign/generated/images/FileIcon.png
 design/components/Icon/native/redesign/generated/images/FileUpIcon.png
 design/components/Icon/native/redesign/generated/images/FiltersHorizontalIcon.png
+design/components/Icon/native/redesign/generated/images/FireIcon.png
 design/components/Icon/native/redesign/generated/images/FlagIcon.png
 design/components/Icon/native/redesign/generated/images/FlashIcon.png
 design/components/Icon/native/redesign/generated/images/FolderIcon.png
@@ -157,6 +161,7 @@ design/components/Icon/native/redesign/generated/images/MusicIcon.png
 design/components/Icon/native/redesign/generated/images/MusicSlashIcon.png
 design/components/Icon/native/redesign/generated/images/NatureIcon.png
 design/components/Icon/native/redesign/generated/images/NewUserLargeIcon.png
+design/components/Icon/native/redesign/generated/images/NintendoSwitchNeutralIcon.png
 design/components/Icon/native/redesign/generated/images/NitroWheelIcon.png
 design/components/Icon/native/redesign/generated/images/ObjectIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
@@ -175,11 +180,13 @@ design/components/Icon/native/redesign/generated/images/PlusSmallIcon.png
 design/components/Icon/native/redesign/generated/images/PollsIcon.png
 design/components/Icon/native/redesign/generated/images/PuzzlePieceIcon.png
 design/components/Icon/native/redesign/generated/images/QrCodeCameraIcon.png
+design/components/Icon/native/redesign/generated/images/QuestsIcon.png
 design/components/Icon/native/redesign/generated/images/ReactionIcon.png
 design/components/Icon/native/redesign/generated/images/RecordPlayerIcon.png
 design/components/Icon/native/redesign/generated/images/RefreshIcon.png
 design/components/Icon/native/redesign/generated/images/RetryIcon.png
 design/components/Icon/native/redesign/generated/images/RobotIcon.png
+design/components/Icon/native/redesign/generated/images/ScienceIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenArrowIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenStreamIcon.png
@@ -235,6 +242,7 @@ design/components/Icon/native/redesign/generated/images/UserIcon.png
 design/components/Icon/native/redesign/generated/images/UserMinusIcon.png
 design/components/Icon/native/redesign/generated/images/UserPlusIcon.png
 design/components/Icon/native/redesign/generated/images/UserSquareIcon.png
+design/components/Icon/native/redesign/generated/images/UserStatusIcon.png
 design/components/Icon/native/redesign/generated/images/VideoIcon.png
 design/components/Icon/native/redesign/generated/images/VideoSlashIcon.png
 design/components/Icon/native/redesign/generated/images/VoiceLockIcon.png
