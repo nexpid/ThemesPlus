@@ -1220,6 +1220,7 @@ images/native/icons/ic_archived_thread_embed_16px.png
 images/native/icons/ic_arrow_back_24px.png
 images/native/icons/ic_arrow_down.png
 images/native/icons/ic_arrow_forward_24px.png
+images/native/icons/ic_arrow_right.png
 images/native/icons/ic_at.png
 images/native/icons/ic_audit_log_24px.png
 images/native/icons/ic_ban_24px.png
