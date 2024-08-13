@@ -775,11 +775,9 @@ modules/main_tabs_v2/native/shared_components/user_list/images/icon-arrow-right.
 modules/main_tabs_v2/native/shared_components/user_list/images/icon-new-group.png
 modules/main_tabs_v2/native/shared_components/user_list/images/icon-settings.png
 modules/main_tabs_v2/native/sidebar/images/icon-call.png
-modules/main_tabs_v2/native/tabs/guilds/empty_states/images/channels-empty.png
-modules/main_tabs_v2/native/tabs/guilds/empty_states/images/guilds-empty-illustration.png
-modules/main_tabs_v2/native/tabs/guilds/empty_states/images/ic-customize.png
-modules/main_tabs_v2/native/tabs/you/images/about_me_onboarding.png
-modules/main_tabs_v2/native/tabs/you/images/avatar_onboarding.png
+modules/main_tabs_v2/native/tabs/gravity/images/emoji-negative.png
+modules/main_tabs_v2/native/tabs/gravity/images/emoji-neutral.png
+modules/main_tabs_v2/native/tabs/gravity/images/emoji-positive.png
 modules/media_channel/native/images/asset_blurred_media_post_preview.png
 modules/media_channel/native/images/ic_media_channel.png
 modules/media_channel/native/images/ic_media_channel_locked.png

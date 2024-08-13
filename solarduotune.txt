@@ -743,6 +743,9 @@ modules/main_tabs_v2/native/shared_components/user_list/images/icon-invite.png
 modules/main_tabs_v2/native/shared_components/user_list/images/icon-new-group.png
 modules/main_tabs_v2/native/shared_components/user_list/images/icon-settings.png
 modules/main_tabs_v2/native/sidebar/images/icon-call.png
+modules/main_tabs_v2/native/tabs/gravity/images/emoji-negative.png
+modules/main_tabs_v2/native/tabs/gravity/images/emoji-neutral.png
+modules/main_tabs_v2/native/tabs/gravity/images/emoji-positive.png
 modules/media_channel/native/images/ic_media_channel.png
 modules/media_channel/native/images/ic_media_channel_locked.png
 modules/media_channel/native/images/ic_media_channel_nsfw.png
