@@ -286,7 +286,6 @@ images/native/emoji/ic_emoji_recent_color_24px.png
 images/native/emoji/ic_keyboard_24px.png
 images/native/empties/img_app_crash_dark.png
 images/native/empties/img_app_crash_light.png
-images/native/game_icon_placeholder.png
 images/native/gif.png
 images/native/guild_sidebar/img_create_guild.png
 images/native/guild_sidebar/img_guild_folder.png
@@ -589,7 +588,6 @@ images/native/icons/voice_calls/video.png
 images/native/icons/voice_calls/voice_bar_bluetooth.png
 images/native/icons/voice_calls/voice_bar_phone.png
 images/native/icons/voice_calls/voice_bar_speaker_new.png
-images/native/img_no_results_dark_theme.png
 images/native/main_tabs/Discord.png
 images/native/main_tabs/Friends.png
 images/native/main_tabs/Messages.png
@@ -1458,7 +1456,6 @@ images/native/icons/voice_calls/video.png
 images/native/icons/voice_calls/voice_bar_bluetooth.png
 images/native/icons/voice_calls/voice_bar_phone.png
 images/native/icons/voice_calls/voice_bar_speaker_new.png
-images/native/img_no_results_dark_theme.png
 images/native/main_tabs/Discord.png
 images/native/main_tabs/Friends.png
 images/native/main_tabs/Messages.png
@@ -2266,7 +2263,6 @@ images/native/icons/voice_calls/video.png
 images/native/icons/voice_calls/voice_bar_bluetooth.png
 images/native/icons/voice_calls/voice_bar_phone.png
 images/native/icons/voice_calls/voice_bar_speaker_new.png
-images/native/img_no_results_dark_theme.png
 images/native/main_tabs/Discord.png
 images/native/main_tabs/Friends.png
 images/native/main_tabs/Messages.png
