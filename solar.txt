@@ -201,6 +201,7 @@ design/components/Icon/native/redesign/generated/images/StampIcon.png
 design/components/Icon/native/redesign/generated/images/StarIcon.png
 design/components/Icon/native/redesign/generated/images/StarOutlineIcon.png
 design/components/Icon/native/redesign/generated/images/StickerIcon.png
+design/components/Icon/native/redesign/generated/images/StickerWink2Icon.png
 design/components/Icon/native/redesign/generated/images/StickerWinkIcon.png
 design/components/Icon/native/redesign/generated/images/SuperReactionIcon.png
 design/components/Icon/native/redesign/generated/images/TextIcon.png
@@ -1060,6 +1061,7 @@ design/components/Icon/native/redesign/generated/images/StampIcon.png
 design/components/Icon/native/redesign/generated/images/StarIcon.png
 design/components/Icon/native/redesign/generated/images/StarOutlineIcon.png
 design/components/Icon/native/redesign/generated/images/StickerIcon.png
+design/components/Icon/native/redesign/generated/images/StickerWink2Icon.png
 design/components/Icon/native/redesign/generated/images/StickerWinkIcon.png
 design/components/Icon/native/redesign/generated/images/SuperReactionIcon.png
 design/components/Icon/native/redesign/generated/images/TextIcon.png
@@ -1874,6 +1876,7 @@ design/components/Icon/native/redesign/generated/images/StampIcon.png
 design/components/Icon/native/redesign/generated/images/StarIcon.png
 design/components/Icon/native/redesign/generated/images/StarOutlineIcon.png
 design/components/Icon/native/redesign/generated/images/StickerIcon.png
+design/components/Icon/native/redesign/generated/images/StickerWink2Icon.png
 design/components/Icon/native/redesign/generated/images/StickerWinkIcon.png
 design/components/Icon/native/redesign/generated/images/SuperReactionIcon.png
 design/components/Icon/native/redesign/generated/images/TextIcon.png
