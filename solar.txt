@@ -1554,7 +1554,6 @@ modules/contact_sync/native/images/ic_contact_sync.png
 modules/directory_channels/native/images/add.png
 modules/directory_channels/native/images/checked.png
 modules/directory_channels/native/images/down_arrow.png
-modules/directory_channels/native/images/invite.png
 modules/directory_channels/native/images/more_horizontal.png
 modules/directory_channels/native/images/pencil.png
 modules/directory_channels/native/images/trash.png
