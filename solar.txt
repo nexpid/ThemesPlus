@@ -1,3 +1,4 @@
+_/bunny.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
 design/components/Icon/native/redesign/generated/images/ActivitiesIcon.png
 design/components/Icon/native/redesign/generated/images/AnalyticsIcon.png
@@ -875,6 +876,7 @@ modules/voice_panel/native/images/maximize.png
 modules/voice_panel/native/images/stream.png
 modules/voice_panel/native/images/video.png
 modules/voice_panel/native/images/xbox.png
+_/bunny.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
 design/components/Icon/native/redesign/generated/images/ActivitiesIcon.png
 design/components/Icon/native/redesign/generated/images/AnalyticsIcon.png
@@ -1688,6 +1690,7 @@ modules/voice_panel/native/images/deafen.png
 modules/voice_panel/native/images/stream.png
 modules/voice_panel/native/images/video.png
 modules/voice_panel/native/images/xbox.png
+_/bunny.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
 design/components/Icon/native/redesign/generated/images/ActivitiesIcon.png
 design/components/Icon/native/redesign/generated/images/AnalyticsIcon.png
