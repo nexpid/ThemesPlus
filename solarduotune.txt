@@ -52,10 +52,13 @@ design/components/Icon/native/redesign/generated/images/ChevronSmallUpIcon.png
 design/components/Icon/native/redesign/generated/images/CircleCheckIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleExclamationPointIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleInformationIcon-primary.png
+design/components/Icon/native/redesign/generated/images/CircleInformationIcon.png
 design/components/Icon/native/redesign/generated/images/CircleMinusIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CirclePlusIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleQuestionIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleQuestionIcon.png
+design/components/Icon/native/redesign/generated/images/CircleWarningIcon-primary .png
+design/components/Icon/native/redesign/generated/images/CircleWarningIcon.png
 design/components/Icon/native/redesign/generated/images/CircleXIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleXIcon.png
 design/components/Icon/native/redesign/generated/images/ClipboardListIcon.png
@@ -153,7 +156,7 @@ design/components/Icon/native/redesign/generated/images/PlusMediumIcon.png
 design/components/Icon/native/redesign/generated/images/PlusSmallIcon.png
 design/components/Icon/native/redesign/generated/images/PollsIcon.png
 design/components/Icon/native/redesign/generated/images/PuzzlePieceIcon.png
-design/components/Icon/native/redesign/generated/images/QrCodeCameraIcon.png
+design/components/Icon/native/redesign/generated/images/QrCodeIcon.png
 design/components/Icon/native/redesign/generated/images/ReactionIcon.png
 design/components/Icon/native/redesign/generated/images/RefreshIcon.png
 design/components/Icon/native/redesign/generated/images/RetryIcon.png
@@ -219,6 +222,10 @@ design/components/Icon/native/redesign/generated/images/WarningIcon.png
 design/components/Icon/native/redesign/generated/images/WebhookIcon.png
 design/components/Icon/native/redesign/generated/images/WindowLaunchIcon.png
 design/components/Icon/native/redesign/generated/images/WrenchIcon.png
+design/components/Icon/native/redesign/generated/images/XLargeBoldIcon.png
+design/components/Icon/native/redesign/generated/images/XLargeIcon.png
+design/components/Icon/native/redesign/generated/images/XSmallBoldIcon.png
+design/components/Icon/native/redesign/generated/images/XSmallIcon.png
 design/components/Icon/native/redesign/generated/images/XboxIcon.png
 design/components/Icon/native/redesign/generated/images/YouTubeIcon.png
 design/components/Icon/native/redesign/generated/images/solar--qr-code-bold-duotone.png
