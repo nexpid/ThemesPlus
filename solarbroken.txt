@@ -66,7 +66,7 @@ design/components/Icon/native/redesign/generated/images/CirclePlusIcon-secondary
 design/components/Icon/native/redesign/generated/images/CircleQuestionIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleQuestionIcon-secondary.png
 design/components/Icon/native/redesign/generated/images/CircleQuestionIcon.png
-design/components/Icon/native/redesign/generated/images/CircleWarningIcon-primary .png
+design/components/Icon/native/redesign/generated/images/CircleWarningIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleWarningIcon.png
 design/components/Icon/native/redesign/generated/images/CircleXIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleXIcon-secondary.png
