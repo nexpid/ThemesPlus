@@ -23,6 +23,7 @@ design/components/Icon/native/redesign/generated/images/BellSlashIcon.png
 design/components/Icon/native/redesign/generated/images/BellZIcon.png
 design/components/Icon/native/redesign/generated/images/BicycleIcon.png
 design/components/Icon/native/redesign/generated/images/BookCheckIcon.png
+design/components/Icon/native/redesign/generated/images/BookmarkOutlineIcon.png
 design/components/Icon/native/redesign/generated/images/BoostTier2Icon.png
 design/components/Icon/native/redesign/generated/images/BoostTier3Icon.png
 design/components/Icon/native/redesign/generated/images/CalendarIcon.png
@@ -90,6 +91,7 @@ design/components/Icon/native/redesign/generated/images/CopyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
 design/components/Icon/native/redesign/generated/images/DragIcon.png
+design/components/Icon/native/redesign/generated/images/EducationIcon.png
 design/components/Icon/native/redesign/generated/images/EmbedIcon.png
 design/components/Icon/native/redesign/generated/images/EnvelopeIcon.png
 design/components/Icon/native/redesign/generated/images/EyeDropperIcon.png
@@ -154,7 +156,7 @@ design/components/Icon/native/redesign/generated/images/MoreHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/MusicIcon.png
 design/components/Icon/native/redesign/generated/images/MusicSlashIcon.png
 design/components/Icon/native/redesign/generated/images/NatureIcon.png
-design/components/Icon/native/redesign/generated/images/NewUserLargeIcon.png
+design/components/Icon/native/redesign/generated/images/NewUserIcon.png
 design/components/Icon/native/redesign/generated/images/NitroWheelIcon.png
 design/components/Icon/native/redesign/generated/images/ObjectIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
@@ -177,6 +179,7 @@ design/components/Icon/native/redesign/generated/images/ReactionIcon.png
 design/components/Icon/native/redesign/generated/images/RefreshIcon.png
 design/components/Icon/native/redesign/generated/images/RetryIcon.png
 design/components/Icon/native/redesign/generated/images/RobotIcon.png
+design/components/Icon/native/redesign/generated/images/ScienceIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenArrowIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenStreamIcon.png
@@ -221,6 +224,7 @@ design/components/Icon/native/redesign/generated/images/TopicsIcon.png
 design/components/Icon/native/redesign/generated/images/TrashIcon.png
 design/components/Icon/native/redesign/generated/images/TreehouseIcon.png
 design/components/Icon/native/redesign/generated/images/TrophyIcon.png
+design/components/Icon/native/redesign/generated/images/TvIcon.png
 design/components/Icon/native/redesign/generated/images/TwitterIcon.png
 design/components/Icon/native/redesign/generated/images/UploadIcon.png
 design/components/Icon/native/redesign/generated/images/UserCircleIcon.png
@@ -732,22 +736,12 @@ modules/hang_status/images/native/grubbin.png
 modules/hang_status/images/native/in-the-zone.png
 modules/hang_status/images/native/wandering.png
 modules/hang_status/images/native/watching.png
-modules/hub/native/images/conversation.png
-modules/hub/native/images/email_header.png
 modules/hub/native/images/hub-add.png
-modules/hub/native/images/hub-back-to-school.png
 modules/hub/native/images/hub-discovery.png
-modules/hub/native/images/hub-header.png
 modules/hub/native/images/hub-icon.png
 modules/hub/native/images/hub-invite.png
 modules/hub/native/images/hub_events.png
-modules/hub/native/images/progress-setup.png
-modules/hub/native/images/redesign-hub-back-to-school.png
-modules/hub/native/images/redesign_email_header.png
 modules/hub/native/images/search.png
-modules/hub/native/images/search_empty_state.png
-modules/hub/native/images/study.png
-modules/hub/native/images/verify-email.png
 modules/instant_invite/native/images/copy.png
 modules/instant_invite/native/images/gmail.png
 modules/instant_invite/native/images/line.png
