@@ -23,6 +23,7 @@ design/components/Icon/native/redesign/generated/images/BicycleIcon.png
 design/components/Icon/native/redesign/generated/images/BookCheckIcon.png
 design/components/Icon/native/redesign/generated/images/BoostTier2Icon.png
 design/components/Icon/native/redesign/generated/images/BoostTier3Icon.png
+design/components/Icon/native/redesign/generated/images/BugIcon.png
 design/components/Icon/native/redesign/generated/images/CalendarIcon.png
 design/components/Icon/native/redesign/generated/images/CalendarMinusIcon.png
 design/components/Icon/native/redesign/generated/images/CalendarPlusIcon.png
@@ -76,6 +77,7 @@ design/components/Icon/native/redesign/generated/images/CopyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
 design/components/Icon/native/redesign/generated/images/DragIcon.png
+design/components/Icon/native/redesign/generated/images/EducationIcon.png
 design/components/Icon/native/redesign/generated/images/EnvelopeIcon.png
 design/components/Icon/native/redesign/generated/images/EyeDropperIcon.png
 design/components/Icon/native/redesign/generated/images/EyeIcon.png
@@ -161,6 +163,7 @@ design/components/Icon/native/redesign/generated/images/ReactionIcon.png
 design/components/Icon/native/redesign/generated/images/RefreshIcon.png
 design/components/Icon/native/redesign/generated/images/RetryIcon.png
 design/components/Icon/native/redesign/generated/images/RobotIcon.png
+design/components/Icon/native/redesign/generated/images/ScienceIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenArrowIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenStreamIcon.png
@@ -205,6 +208,7 @@ design/components/Icon/native/redesign/generated/images/TopicsIcon.png
 design/components/Icon/native/redesign/generated/images/TrashIcon.png
 design/components/Icon/native/redesign/generated/images/TreehouseIcon.png
 design/components/Icon/native/redesign/generated/images/TrophyIcon.png
+design/components/Icon/native/redesign/generated/images/TvIcon.png
 design/components/Icon/native/redesign/generated/images/TwitterIcon.png
 design/components/Icon/native/redesign/generated/images/UploadIcon.png
 design/components/Icon/native/redesign/generated/images/UserCircleIcon.png
