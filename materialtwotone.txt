@@ -31,6 +31,7 @@ design/components/Icon/native/redesign/generated/images/BookmarkIcon.png
 design/components/Icon/native/redesign/generated/images/BookmarkOutlineIcon.png
 design/components/Icon/native/redesign/generated/images/BoostTier2Icon.png
 design/components/Icon/native/redesign/generated/images/BoostTier3Icon.png
+design/components/Icon/native/redesign/generated/images/BugIcon.png
 design/components/Icon/native/redesign/generated/images/CalendarIcon.png
 design/components/Icon/native/redesign/generated/images/CalendarMinusIcon.png
 design/components/Icon/native/redesign/generated/images/CalendarPlusIcon.png
