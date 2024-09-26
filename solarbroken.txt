@@ -35,6 +35,7 @@ design/components/Icon/native/redesign/generated/images/CameraSwapIcon.png
 design/components/Icon/native/redesign/generated/images/ChannelListIcon.png
 design/components/Icon/native/redesign/generated/images/ChannelListMagnifyingGlassIcon.png
 design/components/Icon/native/redesign/generated/images/ChannelNotificationIcon.png
+design/components/Icon/native/redesign/generated/images/ChannelsFollowedIcon.png
 design/components/Icon/native/redesign/generated/images/ChatAlertIcon.png
 design/components/Icon/native/redesign/generated/images/ChatArrowRightIcon.png
 design/components/Icon/native/redesign/generated/images/ChatCheckIcon.png
@@ -176,6 +177,7 @@ design/components/Icon/native/redesign/generated/images/PuzzlePieceIcon.png
 design/components/Icon/native/redesign/generated/images/QrCodeIcon.png
 design/components/Icon/native/redesign/generated/images/QuestsIcon.png
 design/components/Icon/native/redesign/generated/images/ReactionIcon.png
+design/components/Icon/native/redesign/generated/images/RecordPlayerIcon.png
 design/components/Icon/native/redesign/generated/images/RefreshIcon.png
 design/components/Icon/native/redesign/generated/images/RetryIcon.png
 design/components/Icon/native/redesign/generated/images/RobotIcon.png
