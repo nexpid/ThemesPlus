@@ -260,6 +260,7 @@ design/components/Icon/native/redesign/generated/images/TwitterIcon.png
 design/components/Icon/native/redesign/generated/images/TwitterNeutralIcon.png
 design/components/Icon/native/redesign/generated/images/UnknownGameIcon.png
 design/components/Icon/native/redesign/generated/images/UploadIcon.png
+design/components/Icon/native/redesign/generated/images/UserCheckIcon.png
 design/components/Icon/native/redesign/generated/images/UserCircleIcon.png
 design/components/Icon/native/redesign/generated/images/UserIcon.png
 design/components/Icon/native/redesign/generated/images/UserMinusIcon.png
