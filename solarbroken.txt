@@ -481,6 +481,7 @@ images/native/icons/ic_mute_channel_24px.png
 images/native/icons/ic_neutral_status_18px.png
 images/native/icons/ic_new_chat.png
 images/native/icons/ic_new_group.png
+images/native/icons/ic_nitro_wheel.png
 images/native/icons/ic_noise_cancellation_active.png
 images/native/icons/ic_noise_cancellation_disabled.png
 images/native/icons/ic_notification_settings.png

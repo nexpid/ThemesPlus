@@ -466,6 +466,7 @@ images/native/icons/ic_mute_channel_24px.png
 images/native/icons/ic_neutral_status_18px.png
 images/native/icons/ic_new_chat.png
 images/native/icons/ic_new_group.png
+images/native/icons/ic_nitro_wheel.png
 images/native/icons/ic_noise_cancellation_active.png
 images/native/icons/ic_noise_cancellation_disabled.png
 images/native/icons/ic_notification_settings.png
@@ -720,6 +721,7 @@ modules/guild_role_subscriptions/native/images/ic_add_perk_24px.png
 modules/guild_role_subscriptions/native/images/ic_edit_20px.png
 modules/guild_role_subscriptions/native/images/ic_emoji_picker_20px.png
 modules/guild_role_subscriptions/native/images/ic_full_server_gating_24px.png
+modules/guild_role_subscriptions/native/images/ic_money_emoji_24px.png
 modules/guild_role_subscriptions/native/images/ic_premium_info_24px.png
 modules/guild_role_subscriptions/native/images/ic_premium_tiers_24px.png
 modules/guild_role_subscriptions/native/images/ic_select_all_24px.png
