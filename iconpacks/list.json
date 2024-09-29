@@ -171,6 +171,30 @@
             "suffix": "",
             "config": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/MaterialTwoTone/config.json",
             "load": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/MaterialTwoTone/"
+        },
+        {
+            "id": "iconsaxbulk",
+            "name": "Iconsax Bulk",
+            "description": "Twotoned Iconsax!",
+            "credits": {
+                "authors": [
+                    {
+                        "name": "doraa",
+                        "id": "455513497288310785"
+                    },
+                    {
+                        "name": "Moodle",
+                        "id": "807170846497570848"
+                    }
+                ],
+                "source": "https://iconsax-react.pages.dev/",
+                "sources": [
+                    "https://iconsax-react.pages.dev/"
+                ]
+            },
+            "suffix": "",
+            "config": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/IconsaxBulk/config.json",
+            "load": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/IconsaxBulk/"
         }
     ],
     "_notes": [
