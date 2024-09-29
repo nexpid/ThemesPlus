@@ -13,7 +13,7 @@ Probably the most liked Rosiecord iconpack, constantly updated with new icons by
 Created by: [@Rosie](https://discord.com/users/581573474296791211), [@samara](https://discord.com/users/1236648613145346203) and [@Rairof](https://discord.com/users/923212189123346483)  
 Assets from: [https://icons8.com/icons/plumpy](https://icons8.com/icons/plumpy)
 
-### Rosiecord Iconsax <img src="https://raw.githubusercontent.com/acquitelol/rosiecord/master/Packs/Iconsax/images/native/main_tabs/Messages@2x.png" alt="Rosiecord Iconsax preview" width=25 height=25 />
+### Rosiecord Iconsax <img src="https://raw.githubusercontent.com/moodzz1/rosiecord/master/Packs/Iconsax/images/native/main_tabs/Messages@2x.png" alt="Rosiecord Iconsax preview" width=25 height=25 />
 
 Uses some icons from Rosiecord Plumpy, given by Flower :3, includes quite modern icons  
 Created by: [@Rosie](https://discord.com/users/581573474296791211) and Flower :3  
