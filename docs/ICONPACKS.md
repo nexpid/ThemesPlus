@@ -57,3 +57,9 @@ Assets from:
 
 - [https://icon-sets.iconify.design/ic/](https://icon-sets.iconify.design/ic/)
 - [https://icons8.com/icons/material-two-tone](https://icons8.com/icons/material-two-tone)
+
+### Iconsax Bulk <img src="https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/IconsaxBulk/images/native/main_tabs/Messages.png" alt="Iconsax Bulk preview" width=25 height=25 />
+
+Twotoned Iconsax!  
+Created by: [@doraa](https://discord.com/users/455513497288310785) and [@Moodle](https://discord.com/users/807170846497570848)  
+Assets from: [https://iconsax-react.pages.dev/](https://iconsax-react.pages.dev/)
