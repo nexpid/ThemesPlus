@@ -229,6 +229,7 @@ design/components/Icon/native/redesign/generated/images/TrophyIcon.png
 design/components/Icon/native/redesign/generated/images/TvIcon.png
 design/components/Icon/native/redesign/generated/images/TwitterIcon.png
 design/components/Icon/native/redesign/generated/images/UploadIcon.png
+design/components/Icon/native/redesign/generated/images/UserCheckIcon.png
 design/components/Icon/native/redesign/generated/images/UserCircleIcon.png
 design/components/Icon/native/redesign/generated/images/UserIcon.png
 design/components/Icon/native/redesign/generated/images/UserMinusIcon.png
