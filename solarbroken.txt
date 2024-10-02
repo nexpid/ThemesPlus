@@ -23,6 +23,8 @@ design/components/Icon/native/redesign/generated/images/BellSlashIcon.png
 design/components/Icon/native/redesign/generated/images/BellZIcon.png
 design/components/Icon/native/redesign/generated/images/BicycleIcon.png
 design/components/Icon/native/redesign/generated/images/BookCheckIcon.png
+design/components/Icon/native/redesign/generated/images/BookmarkIcon.png
+design/components/Icon/native/redesign/generated/images/BookmarkOutlineIcon.png
 design/components/Icon/native/redesign/generated/images/BoostTier2Icon.png
 design/components/Icon/native/redesign/generated/images/BoostTier3Icon.png
 design/components/Icon/native/redesign/generated/images/BugIcon.png
