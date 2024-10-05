@@ -1,4 +1,5 @@
 _/bunny.png
+_/revenge.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
 design/components/Icon/native/redesign/generated/images/ActivitiesIcon.png
 design/components/Icon/native/redesign/generated/images/AnalyticsIcon.png

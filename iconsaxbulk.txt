@@ -30,6 +30,7 @@ _/discord_common/js/shared/images/flags/uk.png
 _/discord_common/js/shared/images/flags/vi.png
 _/discord_common/js/shared/images/flags/zh-CN.png
 _/discord_common/js/shared/images/flags/zh-TW.png
+_/revenge.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
 design/components/Icon/native/redesign/generated/images/ActivitiesIcon.png
 design/components/Icon/native/redesign/generated/images/AnalyticsIcon.png
@@ -44,6 +45,7 @@ design/components/Icon/native/redesign/generated/images/ArrowLargeLeftIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeRightIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallDownIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallLeftIcon.png
+design/components/Icon/native/redesign/generated/images/ArrowSmallRightIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallUpIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowsUpDownIcon.png
 design/components/Icon/native/redesign/generated/images/AtIcon.png
@@ -276,6 +278,7 @@ design/components/Icon/native/redesign/generated/images/TrophyIcon.png
 design/components/Icon/native/redesign/generated/images/TvIcon.png
 design/components/Icon/native/redesign/generated/images/UnknownGameIcon.png
 design/components/Icon/native/redesign/generated/images/UploadIcon.png
+design/components/Icon/native/redesign/generated/images/UserCheckIcon.png
 design/components/Icon/native/redesign/generated/images/UserCircleIcon.png
 design/components/Icon/native/redesign/generated/images/UserIcon.png
 design/components/Icon/native/redesign/generated/images/UserMinusIcon.png

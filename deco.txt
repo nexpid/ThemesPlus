@@ -261,6 +261,7 @@ design/components/Icon/native/redesign/generated/images/TwitterIcon@2x.png
 design/components/Icon/native/redesign/generated/images/TwitterNeutralIcon@2x.png
 design/components/Icon/native/redesign/generated/images/UnknownGameIcon@2x.png
 design/components/Icon/native/redesign/generated/images/UploadIcon@2x.png
+design/components/Icon/native/redesign/generated/images/UserCheckIcon@2x.png
 design/components/Icon/native/redesign/generated/images/UserCircleIcon@2x.png
 design/components/Icon/native/redesign/generated/images/UserIcon@2x.png
 design/components/Icon/native/redesign/generated/images/UserMinusIcon@2x.png
