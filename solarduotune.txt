@@ -372,6 +372,7 @@ images/native/icons/ic_chat_bubble_16px.png
 images/native/icons/ic_chat_bubble_32px.png
 images/native/icons/ic_check_18px.png
 images/native/icons/ic_check_24px.png
+images/native/icons/ic_checked.png
 images/native/icons/ic_checkmark.png
 images/native/icons/ic_chevron_down_24px.png
 images/native/icons/ic_chevron_up_24px.png
