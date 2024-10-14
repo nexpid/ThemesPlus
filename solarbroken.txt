@@ -809,6 +809,8 @@ modules/pomelo/images/account.png
 modules/pomelo/images/discriminator.png
 modules/pomelo/images/ic_legacy_username.png
 modules/pomelo/images/pomelo_cards_native.png
+modules/saved_messages/empty_state_image.png
+modules/saved_messages/wumpus-bookmark.png
 modules/search_v3/native/images/close.png
 modules/search_v3/native/images/search.png
 modules/self_mod/inappropriate_conversation/images/circle_check.png

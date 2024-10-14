@@ -809,6 +809,8 @@ modules/pomelo/images/account.png
 modules/pomelo/images/discriminator.png
 modules/pomelo/images/ic_legacy_username.png
 modules/pomelo/images/pomelo_cards_native.png
+modules/saved_messages/empty_state_image.png
+modules/saved_messages/wumpus-bookmark.png
 modules/search_v3/native/images/close.png
 modules/search_v3/native/images/search.png
 modules/self_mod/inappropriate_conversation/images/circle_check.png
@@ -1672,6 +1674,8 @@ modules/polls/native/images/ic_image.png
 modules/polls/native/images/ic_list.png
 modules/polls/native/images/ic_polls.png
 modules/pomelo/images/account.png
+modules/saved_messages/empty_state_image.png
+modules/saved_messages/wumpus-bookmark.png
 modules/search_v3/native/images/close.png
 modules/search_v3/native/images/search.png
 modules/self_mod/inappropriate_conversation/images/circle_check.png
@@ -2502,6 +2506,8 @@ modules/polls/native/images/ic_image.png
 modules/polls/native/images/ic_list.png
 modules/polls/native/images/ic_polls.png
 modules/pomelo/images/account.png
+modules/saved_messages/empty_state_image.png
+modules/saved_messages/wumpus-bookmark.png
 modules/search_v3/native/images/close.png
 modules/search_v3/native/images/search.png
 modules/self_mod/inappropriate_conversation/images/circle_check.png
