@@ -160,6 +160,7 @@ design/components/Icon/native/redesign/generated/images/ObjectIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
 design/components/Icon/native/redesign/generated/images/PaintbrushThinIcon.png
 design/components/Icon/native/redesign/generated/images/PaperIcon.png
+design/components/Icon/native/redesign/generated/images/PaperPlusIcon.png
 design/components/Icon/native/redesign/generated/images/PauseIcon.png
 design/components/Icon/native/redesign/generated/images/PencilIcon.png
 design/components/Icon/native/redesign/generated/images/PencilSparkleIcon.png
@@ -1038,6 +1039,7 @@ design/components/Icon/native/redesign/generated/images/ObjectIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
 design/components/Icon/native/redesign/generated/images/PaintbrushThinIcon.png
 design/components/Icon/native/redesign/generated/images/PaperIcon.png
+design/components/Icon/native/redesign/generated/images/PaperPlusIcon.png
 design/components/Icon/native/redesign/generated/images/PauseIcon.png
 design/components/Icon/native/redesign/generated/images/PencilIcon.png
 design/components/Icon/native/redesign/generated/images/PencilSparkleIcon.png
@@ -1878,6 +1880,7 @@ design/components/Icon/native/redesign/generated/images/ObjectIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
 design/components/Icon/native/redesign/generated/images/PaintbrushThinIcon.png
 design/components/Icon/native/redesign/generated/images/PaperIcon.png
+design/components/Icon/native/redesign/generated/images/PaperPlusIcon.png
 design/components/Icon/native/redesign/generated/images/PauseIcon.png
 design/components/Icon/native/redesign/generated/images/PencilIcon.png
 design/components/Icon/native/redesign/generated/images/PencilSparkleIcon.png
