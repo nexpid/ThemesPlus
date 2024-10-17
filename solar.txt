@@ -608,6 +608,7 @@ images/native/icons/voice_calls/video.png
 images/native/icons/voice_calls/voice_bar_bluetooth.png
 images/native/icons/voice_calls/voice_bar_phone.png
 images/native/icons/voice_calls/voice_bar_speaker_new.png
+images/native/img_search_empty_dark.png
 images/native/main_tabs/Discord.png
 images/native/main_tabs/Friends.png
 images/native/main_tabs/Messages.png
@@ -619,6 +620,7 @@ images/native/premium/guild_boosting/perks/member_list_icon.png
 images/native/premium/perks/img_nitro_premium_guilds.png
 images/native/premium/perks/img_nitro_premium_guilds_20px.png
 images/native/premium/perks/img_nitro_remixing.png
+images/native/server-error.png
 images/native/soundboard/megaphone.png
 images/native/status/StatusDND.png
 images/native/status/StatusIdle.png
@@ -704,6 +706,7 @@ modules/directory_channels/native/images/checked.png
 modules/directory_channels/native/images/down_arrow.png
 modules/directory_channels/native/images/more_horizontal.png
 modules/directory_channels/native/images/pencil.png
+modules/directory_channels/native/images/search_empty_state.png
 modules/directory_channels/native/images/trash.png
 modules/forums/native/images/ic_expression_plus.png
 modules/forums/native/images/ic_follow.png
@@ -752,6 +755,7 @@ modules/hub/native/images/hub-icon.png
 modules/hub/native/images/hub-invite.png
 modules/hub/native/images/hub_events.png
 modules/hub/native/images/search.png
+modules/hub/native/images/search_empty_state.png
 modules/instant_invite/native/images/copy.png
 modules/instant_invite/native/images/gmail.png
 modules/instant_invite/native/images/line.png
@@ -1497,6 +1501,7 @@ images/native/icons/voice_calls/video.png
 images/native/icons/voice_calls/voice_bar_bluetooth.png
 images/native/icons/voice_calls/voice_bar_phone.png
 images/native/icons/voice_calls/voice_bar_speaker_new.png
+images/native/img_search_empty_dark.png
 images/native/main_tabs/Discord.png
 images/native/main_tabs/Friends.png
 images/native/main_tabs/Messages.png
@@ -1512,6 +1517,7 @@ images/native/premium/guild_boosting/perks/member_list_icon.png
 images/native/premium/perks/img_nitro_premium_guilds.png
 images/native/premium/perks/img_nitro_premium_guilds_20px.png
 images/native/premium/perks/img_nitro_remixing.png
+images/native/server-error.png
 images/native/soundboard/megaphone.png
 images/native/status/StatusDND.png
 images/native/status/StatusIdle.png
@@ -1597,6 +1603,7 @@ modules/directory_channels/native/images/checked.png
 modules/directory_channels/native/images/down_arrow.png
 modules/directory_channels/native/images/more_horizontal.png
 modules/directory_channels/native/images/pencil.png
+modules/directory_channels/native/images/search_empty_state.png
 modules/directory_channels/native/images/trash.png
 modules/forums/native/images/ic_expression_plus.png
 modules/forums/native/images/ic_follow.png
@@ -1644,6 +1651,7 @@ modules/hub/native/images/hub-icon.png
 modules/hub/native/images/hub-invite.png
 modules/hub/native/images/hub_events.png
 modules/hub/native/images/search.png
+modules/hub/native/images/search_empty_state.png
 modules/instant_invite/native/images/copy.png
 modules/instant_invite/native/images/share-android.png
 modules/main_tabs_v2/native/channel/header/images/icon-search.png
@@ -2335,6 +2343,7 @@ images/native/icons/voice_calls/video.png
 images/native/icons/voice_calls/voice_bar_bluetooth.png
 images/native/icons/voice_calls/voice_bar_phone.png
 images/native/icons/voice_calls/voice_bar_speaker_new.png
+images/native/img_search_empty_dark.png
 images/native/main_tabs/Discord.png
 images/native/main_tabs/Friends.png
 images/native/main_tabs/Messages.png
@@ -2347,6 +2356,7 @@ images/native/premium/guild_boosting/perks/member_list_icon.png
 images/native/premium/perks/img_nitro_premium_guilds.png
 images/native/premium/perks/img_nitro_premium_guilds_20px.png
 images/native/premium/perks/img_nitro_remixing.png
+images/native/server-error.png
 images/native/soundboard/megaphone.png
 images/native/status/StatusDND.png
 images/native/status/StatusIdle.png
@@ -2433,6 +2443,7 @@ modules/directory_channels/native/images/down_arrow.png
 modules/directory_channels/native/images/invite.png
 modules/directory_channels/native/images/more_horizontal.png
 modules/directory_channels/native/images/pencil.png
+modules/directory_channels/native/images/search_empty_state.png
 modules/directory_channels/native/images/trash.png
 modules/forums/native/images/ic_expression_plus.png
 modules/forums/native/images/ic_follow.png
@@ -2480,6 +2491,7 @@ modules/hub/native/images/hub-icon.png
 modules/hub/native/images/hub-invite.png
 modules/hub/native/images/hub_events.png
 modules/hub/native/images/search.png
+modules/hub/native/images/search_empty_state.png
 modules/instant_invite/native/images/copy.png
 modules/instant_invite/native/images/share-android.png
 modules/main_tabs_v2/native/channel/header/images/icon-search.png
