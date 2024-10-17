@@ -303,6 +303,7 @@ images/native/emoji/ic_emoji_recent_color_24px.png
 images/native/emoji/ic_keyboard_24px.png
 images/native/empties/img_app_crash_dark.png
 images/native/empties/img_app_crash_light.png
+images/native/empties/search_empty_state_dark.png
 images/native/gif.png
 images/native/guild_sidebar/img_create_guild.png
 images/native/guild_sidebar/img_guild_folder.png
@@ -690,6 +691,8 @@ images/platforms/img_roblox_white.png
 modules/age_gate/native/images/check.png
 modules/avatar_decorations/images/native/img_collectibles_shop.png
 modules/avatar_decorations/images/native/img_none.png
+modules/blocked_domains/components/native/images/danger-dave.png
+modules/blocked_domains/danger-dave.png
 modules/chat_input/native/images/ic_arrow.png
 modules/chat_input/native/images/ic_expression.png
 modules/chat_input/native/images/ic_gift.png
