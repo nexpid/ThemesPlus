@@ -167,6 +167,7 @@ design/components/Icon/native/redesign/generated/images/LockIcon.png
 design/components/Icon/native/redesign/generated/images/LockUnlockedIcon.png
 design/components/Icon/native/redesign/generated/images/MagicWandIcon.png
 design/components/Icon/native/redesign/generated/images/MagnifyingGlassIcon.png
+design/components/Icon/native/redesign/generated/images/MedalIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneArrowRightIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneDenyIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneIcon.png
@@ -184,12 +185,15 @@ design/components/Icon/native/redesign/generated/images/NintendoSwitchNeutralIco
 design/components/Icon/native/redesign/generated/images/NitroWheelIcon.png
 design/components/Icon/native/redesign/generated/images/ObjectIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
+design/components/Icon/native/redesign/generated/images/PaintbrushThinIcon.png
 design/components/Icon/native/redesign/generated/images/PaperIcon.png
+design/components/Icon/native/redesign/generated/images/PaperPlusIcon.png
 design/components/Icon/native/redesign/generated/images/PauseIcon.png
 design/components/Icon/native/redesign/generated/images/PencilIcon.png
 design/components/Icon/native/redesign/generated/images/PencilSparkleIcon.png
 design/components/Icon/native/redesign/generated/images/PhoneCallIcon.png
 design/components/Icon/native/redesign/generated/images/PhoneHangUpIcon.png
+design/components/Icon/native/redesign/generated/images/PiggyBankIcon.png
 design/components/Icon/native/redesign/generated/images/PinIcon.png
 design/components/Icon/native/redesign/generated/images/PlayIcon.png
 design/components/Icon/native/redesign/generated/images/PlaystationIcon.png
