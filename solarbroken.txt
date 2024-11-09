@@ -85,6 +85,7 @@ design/components/Icon/native/redesign/generated/images/ConnectionBadIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionFineIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionUnknownIcon.png
 design/components/Icon/native/redesign/generated/images/CopyIcon.png
+design/components/Icon/native/redesign/generated/images/DenyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
 design/components/Icon/native/redesign/generated/images/DragIcon.png

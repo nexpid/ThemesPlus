@@ -78,6 +78,7 @@ design/components/Icon/native/redesign/generated/images/CloseSmallIcon.png
 design/components/Icon/native/redesign/generated/images/ClydeIcon.png
 design/components/Icon/native/redesign/generated/images/CompassIcon.png
 design/components/Icon/native/redesign/generated/images/CopyIcon.png
+design/components/Icon/native/redesign/generated/images/DenyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
 design/components/Icon/native/redesign/generated/images/DragIcon.png
