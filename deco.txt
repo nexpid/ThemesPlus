@@ -1,3 +1,4 @@
+_/SpotifyListenAlong/UserPlayIcon@2x.png
 _/bunny@2x.png
 _/revenge@2x.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon@2x.png

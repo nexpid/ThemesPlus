@@ -1,3 +1,4 @@
+_/SpotifyListenAlong/UserPlayIcon.png
 _/bunny.png
 _/discord_common/js/shared/images/flags/bg.png
 _/discord_common/js/shared/images/flags/cs.png
