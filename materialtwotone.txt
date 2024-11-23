@@ -10,7 +10,8 @@ _/external/ColorfulChannels/lockBottom.png
 _/external/ColorfulChannels/stage/lock.png
 _/external/ColorfulChannels/text/lock.png
 _/external/ColorfulChannels/text/warning.png
-_/external/ColorfulChannels/voice/both.png
+_/external/ColorfulChannels/voice/lock.png
+_/external/ColorfulChannels/voice/warning.png
 _/external/ColorfulChannels/warning.png
 _/external/ColorfulChannels/warningBottom.png
 _/external/MiniMod/NerdEmoji.png
