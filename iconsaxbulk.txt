@@ -1,4 +1,3 @@
-_/SpotifyListenAlong/UserPlayIcon.png
 _/bunny.png
 _/discord_common/js/shared/images/flags/bg.png
 _/discord_common/js/shared/images/flags/cs.png
@@ -31,6 +30,7 @@ _/discord_common/js/shared/images/flags/uk.png
 _/discord_common/js/shared/images/flags/vi.png
 _/discord_common/js/shared/images/flags/zh-CN.png
 _/discord_common/js/shared/images/flags/zh-TW.png
+_/external/SpotifyListenAlong/UserPlayIcon.png
 _/revenge.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
 design/components/Icon/native/redesign/generated/images/ActivitiesIcon.png

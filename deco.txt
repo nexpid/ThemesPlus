@@ -1,5 +1,5 @@
-_/SpotifyListenAlong/UserPlayIcon@2x.png
 _/bunny@2x.png
+_/external/SpotifyListenAlong/UserPlayIcon@2x.png
 _/revenge@2x.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon@2x.png
 design/components/Icon/native/redesign/generated/images/ActivitiesIcon@2x.png
@@ -740,6 +740,8 @@ images/native/uikit/ic_check_thick@2x.png
 images/native/uikit/ic_settings_grey_24px@2x.png
 images/native/uikit/ic_settings_white_24px@2x.png
 images/native/yellow-alert@2x.png
+images/platforms/img_account_sync_bluesky_light_and_dark@2x.png
+images/platforms/img_account_sync_bluesky_white@2x.png
 images/platforms/img_account_sync_crunchyroll_light_and_dark@2x.png
 images/platforms/img_account_sync_facebook_light_and_dark@2x.png
 images/platforms/img_account_sync_facebook_white@2x.png
