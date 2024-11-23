@@ -751,6 +751,8 @@ images/platforms/img_account_sync_instagram_light_and_dark@2x.png
 images/platforms/img_account_sync_instagram_white@2x.png
 images/platforms/img_account_sync_league_of_legends_light_and_dark@2x.png
 images/platforms/img_account_sync_league_of_legends_white@2x.png
+images/platforms/img_account_sync_mastodon_light_and_dark@2x.png
+images/platforms/img_account_sync_mastodon_white@2x.png
 images/platforms/img_account_sync_paypal_light_and_dark@2x.png
 images/platforms/img_account_sync_paypal_white@2x.png
 images/platforms/img_account_sync_playstation_light@2x.png

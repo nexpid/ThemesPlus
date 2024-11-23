@@ -14,6 +14,10 @@ _/external/ColorfulChannels/voice/both.png
 _/external/ColorfulChannels/warning.png
 _/external/ColorfulChannels/warningBottom.png
 _/external/MiniMod/NerdEmoji.png
+_/external/PluginBrowser/SortDateNewestIcon.png
+_/external/PluginBrowser/SortDateOldestIcon.png
+_/external/PluginBrowser/SortNameAZIcon.png
+_/external/PluginBrowser/SortNameZAIcon.png
 _/external/SpotifyListenAlong/UserPlayIcon.png
 _/revenge.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
@@ -75,12 +79,14 @@ design/components/Icon/native/redesign/generated/images/CheckmarkSmallBoldIcon.p
 design/components/Icon/native/redesign/generated/images/CheckmarkSmallIcon.png
 design/components/Icon/native/redesign/generated/images/ChevronLargeDownIcon.png
 design/components/Icon/native/redesign/generated/images/ChevronLargeLeftIcon.png
+design/components/Icon/native/redesign/generated/images/ChevronLargeRightIcon.png
 design/components/Icon/native/redesign/generated/images/ChevronSmallDownIcon.png
 design/components/Icon/native/redesign/generated/images/ChevronSmallLeftIcon.png
 design/components/Icon/native/redesign/generated/images/ChevronSmallRightIcon.png
 design/components/Icon/native/redesign/generated/images/ChevronSmallUpIcon.png
 design/components/Icon/native/redesign/generated/images/CircleCheckIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleCheckIcon-secondary.png
+design/components/Icon/native/redesign/generated/images/CircleCheckIcon.png
 design/components/Icon/native/redesign/generated/images/CircleExclamationPointIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleExclamationPointIcon-secondary.png
 design/components/Icon/native/redesign/generated/images/CircleExclamationPointIcon.png
@@ -126,6 +132,7 @@ design/components/Icon/native/redesign/generated/images/DragIcon.png
 design/components/Icon/native/redesign/generated/images/EducationIcon.png
 design/components/Icon/native/redesign/generated/images/EmbedIcon.png
 design/components/Icon/native/redesign/generated/images/EnvelopeIcon.png
+design/components/Icon/native/redesign/generated/images/ExperimentalImageBrokenIcon.png
 design/components/Icon/native/redesign/generated/images/EyeDropperIcon.png
 design/components/Icon/native/redesign/generated/images/EyeIcon.png
 design/components/Icon/native/redesign/generated/images/EyeSlashIcon.png
@@ -245,6 +252,7 @@ design/components/Icon/native/redesign/generated/images/ShopIcon.png
 design/components/Icon/native/redesign/generated/images/ShopSparkleIcon.png
 design/components/Icon/native/redesign/generated/images/SignPostIcon.png
 design/components/Icon/native/redesign/generated/images/SlashBoxIcon.png
+design/components/Icon/native/redesign/generated/images/SlashIcon.png
 design/components/Icon/native/redesign/generated/images/SoundboardIcon.png
 design/components/Icon/native/redesign/generated/images/SoundboardSlashIcon.png
 design/components/Icon/native/redesign/generated/images/SparklesIcon.png
