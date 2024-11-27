@@ -68,6 +68,7 @@ design/components/Icon/native/redesign/generated/images/ChannelsFollowedIcon.png
 design/components/Icon/native/redesign/generated/images/ChatAlertIcon.png
 design/components/Icon/native/redesign/generated/images/ChatArrowRightIcon.png
 design/components/Icon/native/redesign/generated/images/ChatCheckIcon.png
+design/components/Icon/native/redesign/generated/images/ChatDotsIcon.png
 design/components/Icon/native/redesign/generated/images/ChatIcon.png
 design/components/Icon/native/redesign/generated/images/ChatMarkUnreadIcon.png
 design/components/Icon/native/redesign/generated/images/ChatPlusIcon.png
@@ -142,6 +143,7 @@ design/components/Icon/native/redesign/generated/images/FacebookIcon.png
 design/components/Icon/native/redesign/generated/images/FacebookNeutralIcon.png
 design/components/Icon/native/redesign/generated/images/FileIcon.png
 design/components/Icon/native/redesign/generated/images/FileUpIcon.png
+design/components/Icon/native/redesign/generated/images/FileWarningIcon.png
 design/components/Icon/native/redesign/generated/images/FiltersHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/FireIcon.png
 design/components/Icon/native/redesign/generated/images/FlagIcon.png
@@ -156,6 +158,7 @@ design/components/Icon/native/redesign/generated/images/GameControllerIcon.png
 design/components/Icon/native/redesign/generated/images/GifIcon.png
 design/components/Icon/native/redesign/generated/images/GiftIcon.png
 design/components/Icon/native/redesign/generated/images/GlobeEarthIcon.png
+design/components/Icon/native/redesign/generated/images/GridHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/GroupArrowDownIcon.png
 design/components/Icon/native/redesign/generated/images/GroupIcon.png
 design/components/Icon/native/redesign/generated/images/GroupPlusIcon.png
@@ -198,6 +201,7 @@ design/components/Icon/native/redesign/generated/images/MicrophoneDenyIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneSlashIcon.png
 design/components/Icon/native/redesign/generated/images/MobilePhoneIcon.png
+design/components/Icon/native/redesign/generated/images/MobilePhoneSettingsIcon.png
 design/components/Icon/native/redesign/generated/images/MobilePhoneShareIcon.png
 design/components/Icon/native/redesign/generated/images/ModerationIcon.png
 design/components/Icon/native/redesign/generated/images/MoreHorizontalIcon.png
@@ -227,6 +231,7 @@ design/components/Icon/native/redesign/generated/images/PlusLargeIcon.png
 design/components/Icon/native/redesign/generated/images/PlusMediumIcon.png
 design/components/Icon/native/redesign/generated/images/PlusSmallIcon.png
 design/components/Icon/native/redesign/generated/images/PollsIcon.png
+design/components/Icon/native/redesign/generated/images/PrivacyAndSafetyIcon.png
 design/components/Icon/native/redesign/generated/images/PuzzlePieceIcon.png
 design/components/Icon/native/redesign/generated/images/QrCodeCameraIcon.png
 design/components/Icon/native/redesign/generated/images/QrCodeIcon.png
