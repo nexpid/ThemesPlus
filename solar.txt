@@ -253,6 +253,7 @@ design/components/Icon/native/redesign/generated/images/ThreadIcon.png
 design/components/Icon/native/redesign/generated/images/ThreadPlusIcon.png
 design/components/Icon/native/redesign/generated/images/TicketIcon.png
 design/components/Icon/native/redesign/generated/images/TikTokIcon.png
+design/components/Icon/native/redesign/generated/images/TimerIcon.png
 design/components/Icon/native/redesign/generated/images/TopicsIcon.png
 design/components/Icon/native/redesign/generated/images/TrashIcon.png
 design/components/Icon/native/redesign/generated/images/TreehouseIcon.png
@@ -1040,6 +1041,7 @@ design/components/Icon/native/redesign/generated/images/EyeSlashIcon.png
 design/components/Icon/native/redesign/generated/images/FacebookIcon.png
 design/components/Icon/native/redesign/generated/images/FileIcon.png
 design/components/Icon/native/redesign/generated/images/FileUpIcon.png
+design/components/Icon/native/redesign/generated/images/FileWarningIcon.png
 design/components/Icon/native/redesign/generated/images/FiltersHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/FlagIcon.png
 design/components/Icon/native/redesign/generated/images/FlashIcon.png
@@ -1168,6 +1170,7 @@ design/components/Icon/native/redesign/generated/images/ThreadIcon.png
 design/components/Icon/native/redesign/generated/images/ThreadPlusIcon.png
 design/components/Icon/native/redesign/generated/images/TicketIcon.png
 design/components/Icon/native/redesign/generated/images/TikTokIcon.png
+design/components/Icon/native/redesign/generated/images/TimerIcon.png
 design/components/Icon/native/redesign/generated/images/TopicsIcon.png
 design/components/Icon/native/redesign/generated/images/TrashIcon.png
 design/components/Icon/native/redesign/generated/images/TreehouseIcon.png
@@ -2048,6 +2051,7 @@ design/components/Icon/native/redesign/generated/images/ThreadIcon.png
 design/components/Icon/native/redesign/generated/images/ThreadPlusIcon.png
 design/components/Icon/native/redesign/generated/images/TicketIcon.png
 design/components/Icon/native/redesign/generated/images/TikTokIcon.png
+design/components/Icon/native/redesign/generated/images/TimerIcon.png
 design/components/Icon/native/redesign/generated/images/TopicsIcon.png
 design/components/Icon/native/redesign/generated/images/TrashIcon.png
 design/components/Icon/native/redesign/generated/images/TreehouseIcon.png

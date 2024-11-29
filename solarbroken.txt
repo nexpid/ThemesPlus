@@ -253,6 +253,7 @@ design/components/Icon/native/redesign/generated/images/ThreadIcon.png
 design/components/Icon/native/redesign/generated/images/ThreadPlusIcon.png
 design/components/Icon/native/redesign/generated/images/TicketIcon.png
 design/components/Icon/native/redesign/generated/images/TikTokIcon.png
+design/components/Icon/native/redesign/generated/images/TimerIcon.png
 design/components/Icon/native/redesign/generated/images/TopicsIcon.png
 design/components/Icon/native/redesign/generated/images/TrashIcon.png
 design/components/Icon/native/redesign/generated/images/TreehouseIcon.png
