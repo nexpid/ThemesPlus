@@ -459,6 +459,7 @@ images/native/icons/ic_file_upload_24px@2x.png
 images/native/icons/ic_filter_24px@2x.png
 images/native/icons/ic_flag_24px@2x.png
 images/native/icons/ic_folder_add_24px@2x.png
+images/native/icons/ic_forum_channel_sort_order_24px@2x.png
 images/native/icons/ic_friend_request_accepted@2x.png
 images/native/icons/ic_friend_wave_24px@2x.png
 images/native/icons/ic_friends_list_24px@2x.png
