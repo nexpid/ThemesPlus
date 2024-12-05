@@ -22,26 +22,27 @@ const hashes: Record<
 
 for (const ic of list) {
 	const start = performance.now();
-	const [user, repo, branch, ...rawPath] = (ic.load as string)
-		.split("/")
-		.slice(3);
-	const path = rawPath.join("/");
+	const [user, repo, branch, ...path] = (ic.load as string).split("/").slice(3);
 
 	const raw = await fetch(
 		`https://api.github.com/repos/${user}/${repo}/git/trees/${branch}?recursive=1`,
 	).then((x) => x.json());
+
 	const files = (raw.tree as any[])
 		.filter((x) => x.type === "blob")
 		.filter(
 			(x) =>
-				x.path.startsWith(path) &&
+				x.path.startsWith(path.join("/")) &&
 				["png", "jpg", "webm", "lottie"].some((ext) =>
 					x.path.endsWith(`${ic.suffix}.${ext}`),
 				),
 		)
 		.map((x) => ({
 			size: x.size,
-			path: x.path.split("/").slice(path.length).join("/"),
+			path: x.path
+				.split("/")
+				.slice(path.length - 1)
+				.join("/"),
 		}))
 		.filter((x) => x.path.length > 0);
 
@@ -55,7 +56,7 @@ for (const ic of list) {
 	);
 
 	console.log(
-		`Parsed "${ic.id}" [${(performance.now() - start).toFixed(1)}ms]`,
+		`Parsed "${ic.id}" — ${files.length} file(s) [${(performance.now() - start).toFixed(1)}ms]`,
 	);
 }
 
