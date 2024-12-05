@@ -55,13 +55,6 @@
                   }
                 }
               },
-              "source": {
-                "description": "The original source of the iconpack",
-                "default": "https://example.com",
-                "type": "string",
-                "format": "uri",
-                "deprecated": true
-              },
               "sources": {
                 "description": "The original source(s) of the iconpack",
                 "default": ["https://example.com"],
