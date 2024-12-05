@@ -1,8 +1,18 @@
 {
-  "name": "scripts",
-  "private": true,
-  "dependencies": {
-    "prettier": "^3.0.1"
+  "private": "true",
+  "scripts": {
+    "treewriter": "bun run .github/scripts/iconpack_tree_writer/index.ts",
+    "listiconpacks": "bun run .github/scripts/list_iconpacks/index.ts"
   },
-  "packageManager": "pnpm@9.0.6"
+  "type": "module",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/bun": "latest"
+  },
+  "trustedDependencies": [
+    "@biomejs/biome"
+  ],
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
 }
