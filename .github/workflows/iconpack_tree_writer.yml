@@ -1,4 +1,4 @@
-name: Iconpack Tree Writer
+name: write iconpack trees (half-hourly)
 
 on:
   push:
@@ -6,19 +6,18 @@ on:
       - main
     paths:
       - "iconpacks/list.json"
-      - ".github/scripts/iconpack_tree_writer/**/*.*"
-      - ".github/workflows/iconpack_tree_writer.yml"
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
 concurrency:
   group: ${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   write:
     runs-on: ubuntu-latest
-    name: Write files
+    name: write files
     permissions:
       contents: write
     steps:
@@ -30,20 +29,18 @@ jobs:
           ref: iconpack-trees
           path: trees
 
-      - uses: actions/setup-node@v4
+      - uses: oven-sh/setup-bun@v2
         with:
-          node-version: 18.x
-      - uses: pnpm/action-setup@v3
-        with:
-          package_json_file: main/package.json
+          bun-version: latest
+
       - working-directory: main
-        run: pnpm i
+        run: bun i
 
-      - name: Write trees
+      - name: write trees
         working-directory: main
-        run: node .github/scripts/iconpack_tree_writer/index.mjs
+        run: bun run treewriter
 
-      - name: Commit changes
+      - name: commit changes
         working-directory: trees
         run: |
           git config --global user.name "github-actions[bot]"
@@ -57,5 +54,5 @@ jobs:
             git commit -m "chore: update iconpacks trees" | true
           fi
 
-          git pull
+          git pull --ff-only
           git push
