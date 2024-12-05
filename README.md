@@ -28,6 +28,5 @@ Read the documentation [here](https://github.com/nexpid/ThemesPlus/tree/main/doc
 ## Links
 
 - [Plugin link](https://bunny.nexpid.xyz/themes-plus)
-    - [Dev build](https://dev.bunny.nexpid.xyz/themes-plus)
 - [Docs](https://github.com/nexpid/ThemesPlus/tree/main/docs)
 - [Bunny](https://github.com/Pyoncord/Bunny)
