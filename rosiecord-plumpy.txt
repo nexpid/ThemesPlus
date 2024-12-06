@@ -153,6 +153,7 @@ design/components/Icon/native/redesign/generated/images/FacebookIcon.png
 design/components/Icon/native/redesign/generated/images/FacebookNeutralIcon.png
 design/components/Icon/native/redesign/generated/images/FileIcon.png
 design/components/Icon/native/redesign/generated/images/FileUpIcon.png
+design/components/Icon/native/redesign/generated/images/FileWarningIcon.png
 design/components/Icon/native/redesign/generated/images/FiltersHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/FireIcon.png
 design/components/Icon/native/redesign/generated/images/FlagIcon.png
@@ -211,6 +212,7 @@ design/components/Icon/native/redesign/generated/images/MicrophoneDenyIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneSlashIcon.png
 design/components/Icon/native/redesign/generated/images/MobilePhoneIcon.png
+design/components/Icon/native/redesign/generated/images/MobilePhoneSettingsIcon.png
 design/components/Icon/native/redesign/generated/images/ModerationIcon.png
 design/components/Icon/native/redesign/generated/images/MoreHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/MusicIcon.png
