@@ -145,6 +145,7 @@ design/components/Icon/native/redesign/generated/images/DragIcon.png
 design/components/Icon/native/redesign/generated/images/EducationIcon.png
 design/components/Icon/native/redesign/generated/images/EmbedIcon.png
 design/components/Icon/native/redesign/generated/images/EnvelopeIcon.png
+design/components/Icon/native/redesign/generated/images/ExperimentalImageBrokenIcon.png
 design/components/Icon/native/redesign/generated/images/EyeDropperIcon.png
 design/components/Icon/native/redesign/generated/images/EyeIcon.png
 design/components/Icon/native/redesign/generated/images/EyeSlashIcon.png
@@ -175,6 +176,7 @@ design/components/Icon/native/redesign/generated/images/GroupPlusIcon.png
 design/components/Icon/native/redesign/generated/images/HammerIcon.png
 design/components/Icon/native/redesign/generated/images/HandRequestSpeakIcon.png
 design/components/Icon/native/redesign/generated/images/HandRequestSpeakListIcon.png
+design/components/Icon/native/redesign/generated/images/HashmarkIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesDenyIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesSlashIcon.png
@@ -273,6 +275,7 @@ design/components/Icon/native/redesign/generated/images/ShopIcon.png
 design/components/Icon/native/redesign/generated/images/ShopSparkleIcon.png
 design/components/Icon/native/redesign/generated/images/SignPostIcon.png
 design/components/Icon/native/redesign/generated/images/SlashBoxIcon.png
+design/components/Icon/native/redesign/generated/images/SlashIcon.png
 design/components/Icon/native/redesign/generated/images/SmileIcon.png
 design/components/Icon/native/redesign/generated/images/SmileOpen.png
 design/components/Icon/native/redesign/generated/images/SmilePlusIcon.png
@@ -290,6 +293,7 @@ design/components/Icon/native/redesign/generated/images/StickerIcon.png
 design/components/Icon/native/redesign/generated/images/StickerWink2Icon.png
 design/components/Icon/native/redesign/generated/images/StickerWinkIcon.png
 design/components/Icon/native/redesign/generated/images/SuperReactionIcon.png
+design/components/Icon/native/redesign/generated/images/TagIcon.png
 design/components/Icon/native/redesign/generated/images/TextIcon.png
 design/components/Icon/native/redesign/generated/images/TextLockIcon.png
 design/components/Icon/native/redesign/generated/images/TextWarningIcon.png
