@@ -75,7 +75,7 @@
         ],
         "sources": ["https://icons8.com/icons/deco"]
       },
-      "suffix": "@2x",
+      "suffix": "",
       "config": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Deco/config.json",
       "load": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Deco/"
     },
