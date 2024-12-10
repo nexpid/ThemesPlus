@@ -7,7 +7,7 @@ If you want to create your own iconpack, check out my [Themelings](https://githu
 
 ## List of iconpacks
 
-### Rosiecord Plumpy <img src="https://raw.githubusercontent.com/Rairof/discord-iconpacks/master/Packs/Plumpy/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Rosiecord Plumpy" width=24 height=24 />
+### Rosiecord Plumpy <img src="https://raw.githubusercontent.com/Rairof/discord-iconpacks/main/Packs/Plumpy/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Rosiecord Plumpy" width=24 height=24 />
 
 Probably the most liked Rosiecord iconpack, constantly updated with new icons by another Rosie :3  
 Created by: [@Rosie](https://discord.com/users/581573474296791211), [@samara](https://discord.com/users/1236648613145346203) and [@Rairof](https://discord.com/users/923212189123346483)  
@@ -25,7 +25,7 @@ Material Icons iconpack for Pyoncord
 Created by: [@panniku](https://discord.com/users/703634705152606318)  
 Assets from: [https://fonts.google.com/icons/](https://fonts.google.com/icons/)  
 
-### Deco <img src="https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Deco/design/components/Icon/native/redesign/generated/images/BellIcon@2x.png" alt="Preview for Deco" width=24 height=24 />
+### Deco <img src="https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Deco/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Deco" width=24 height=24 />
 
 An iconpack based on the Icons8 Deco collection  
 Created by: [@doraa](https://discord.com/users/455513497288310785)  
