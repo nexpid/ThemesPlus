@@ -89,6 +89,7 @@ design/components/Icon/native/redesign/generated/images/ChevronSmallRightIcon.pn
 design/components/Icon/native/redesign/generated/images/ChevronSmallUpIcon.png
 design/components/Icon/native/redesign/generated/images/CircleCheckIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleCheckIcon-secondary.png
+design/components/Icon/native/redesign/generated/images/CircleCheckIcon.png
 design/components/Icon/native/redesign/generated/images/CircleExclamationPointIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleExclamationPointIcon.png
 design/components/Icon/native/redesign/generated/images/CircleInformationIcon-primary.png
@@ -133,6 +134,7 @@ design/components/Icon/native/redesign/generated/images/DragIcon.png
 design/components/Icon/native/redesign/generated/images/EducationIcon.png
 design/components/Icon/native/redesign/generated/images/EmbedIcon.png
 design/components/Icon/native/redesign/generated/images/EnvelopeIcon.png
+design/components/Icon/native/redesign/generated/images/ExperimentalImageBrokenIcon.png
 design/components/Icon/native/redesign/generated/images/EyeDropperIcon.png
 design/components/Icon/native/redesign/generated/images/EyeIcon.png
 design/components/Icon/native/redesign/generated/images/EyeSlashIcon.png
@@ -140,6 +142,7 @@ design/components/Icon/native/redesign/generated/images/FacebookIcon.png
 design/components/Icon/native/redesign/generated/images/FacebookNeutralIcon.png
 design/components/Icon/native/redesign/generated/images/FileIcon.png
 design/components/Icon/native/redesign/generated/images/FileUpIcon.png
+design/components/Icon/native/redesign/generated/images/FileWarningIcon.png
 design/components/Icon/native/redesign/generated/images/FiltersHorizontalIcon.png
 design/components/Icon/native/redesign/generated/images/FireIcon.png
 design/components/Icon/native/redesign/generated/images/FlagIcon.png
@@ -160,6 +163,7 @@ design/components/Icon/native/redesign/generated/images/GroupPlusIcon.png
 design/components/Icon/native/redesign/generated/images/HammerIcon.png
 design/components/Icon/native/redesign/generated/images/HandRequestSpeakIcon.png
 design/components/Icon/native/redesign/generated/images/HandRequestSpeakListIcon.png
+design/components/Icon/native/redesign/generated/images/HashmarkIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesDenyIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesSlashIcon.png
@@ -190,11 +194,13 @@ design/components/Icon/native/redesign/generated/images/LockIcon.png
 design/components/Icon/native/redesign/generated/images/LockUnlockedIcon.png
 design/components/Icon/native/redesign/generated/images/MagicWandIcon.png
 design/components/Icon/native/redesign/generated/images/MagnifyingGlassIcon.png
+design/components/Icon/native/redesign/generated/images/MedalIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneArrowRightIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneDenyIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneIcon.png
 design/components/Icon/native/redesign/generated/images/MicrophoneSlashIcon.png
 design/components/Icon/native/redesign/generated/images/MobilePhoneIcon.png
+design/components/Icon/native/redesign/generated/images/MobilePhoneSettingsIcon.png
 design/components/Icon/native/redesign/generated/images/MobilePhoneShareIcon.png
 design/components/Icon/native/redesign/generated/images/ModerationIcon.png
 design/components/Icon/native/redesign/generated/images/MoreHorizontalIcon.png
@@ -207,12 +213,15 @@ design/components/Icon/native/redesign/generated/images/NintendoSwitchNeutralIco
 design/components/Icon/native/redesign/generated/images/NitroWheelIcon.png
 design/components/Icon/native/redesign/generated/images/ObjectIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
+design/components/Icon/native/redesign/generated/images/PaintbrushThinIcon.png
 design/components/Icon/native/redesign/generated/images/PaperIcon.png
+design/components/Icon/native/redesign/generated/images/PaperPlusIcon.png
 design/components/Icon/native/redesign/generated/images/PauseIcon.png
 design/components/Icon/native/redesign/generated/images/PencilIcon.png
 design/components/Icon/native/redesign/generated/images/PencilSparkleIcon.png
 design/components/Icon/native/redesign/generated/images/PhoneCallIcon.png
 design/components/Icon/native/redesign/generated/images/PhoneHangUpIcon.png
+design/components/Icon/native/redesign/generated/images/PiggyBankIcon.png
 design/components/Icon/native/redesign/generated/images/PinIcon.png
 design/components/Icon/native/redesign/generated/images/PlayIcon.png
 design/components/Icon/native/redesign/generated/images/PlaystationIcon.png
@@ -248,6 +257,7 @@ design/components/Icon/native/redesign/generated/images/ShopIcon.png
 design/components/Icon/native/redesign/generated/images/ShopSparkleIcon.png
 design/components/Icon/native/redesign/generated/images/SignPostIcon.png
 design/components/Icon/native/redesign/generated/images/SlashBoxIcon.png
+design/components/Icon/native/redesign/generated/images/SlashIcon.png
 design/components/Icon/native/redesign/generated/images/SoundboardIcon.png
 design/components/Icon/native/redesign/generated/images/SoundboardSlashIcon.png
 design/components/Icon/native/redesign/generated/images/SparklesIcon.png
@@ -262,6 +272,7 @@ design/components/Icon/native/redesign/generated/images/StickerIcon.png
 design/components/Icon/native/redesign/generated/images/StickerWink2Icon.png
 design/components/Icon/native/redesign/generated/images/StickerWinkIcon.png
 design/components/Icon/native/redesign/generated/images/SuperReactionIcon.png
+design/components/Icon/native/redesign/generated/images/TagIcon.png
 design/components/Icon/native/redesign/generated/images/TextIcon.png
 design/components/Icon/native/redesign/generated/images/TextLockIcon.png
 design/components/Icon/native/redesign/generated/images/TextWarningIcon.png
