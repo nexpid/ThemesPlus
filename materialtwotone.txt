@@ -159,6 +159,7 @@ design/components/Icon/native/redesign/generated/images/GifIcon.png
 design/components/Icon/native/redesign/generated/images/GiftIcon.png
 design/components/Icon/native/redesign/generated/images/GlobeEarthIcon.png
 design/components/Icon/native/redesign/generated/images/GridHorizontalIcon.png
+design/components/Icon/native/redesign/generated/images/GridSquareIcon.png
 design/components/Icon/native/redesign/generated/images/GroupArrowDownIcon.png
 design/components/Icon/native/redesign/generated/images/GroupIcon.png
 design/components/Icon/native/redesign/generated/images/GroupPlusIcon.png
