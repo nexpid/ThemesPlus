@@ -786,7 +786,6 @@ modules/hub/native/images/hub-discovery.png
 modules/hub/native/images/hub-icon.png
 modules/hub/native/images/hub-invite.png
 modules/hub/native/images/hub_events.png
-modules/hub/native/images/search.png
 modules/hub/native/images/search_empty_state.png
 modules/instant_invite/native/images/copy.png
 modules/instant_invite/native/images/gmail.png
