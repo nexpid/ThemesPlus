@@ -14,7 +14,8 @@ _/external/ColorfulChannels/voice/lock.png
 _/external/ColorfulChannels/voice/warning.png
 _/external/ColorfulChannels/warning.png
 _/external/ColorfulChannels/warningBottom.png
-_/external/MiniMod/NerdEmoji.png
+_/external/Minimod/NerdEmoji.png
+_/external/MonetTheme/RepainterIcon.png
 _/external/PluginBrowser/SortDateNewestIcon.png
 _/external/PluginBrowser/SortDateOldestIcon.png
 _/external/PluginBrowser/SortNameAZIcon.png
