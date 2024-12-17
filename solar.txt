@@ -214,6 +214,7 @@ design/components/Icon/native/redesign/generated/images/SettingsIcon.png
 design/components/Icon/native/redesign/generated/images/SettingsInfoIcon.png
 design/components/Icon/native/redesign/generated/images/ShareIcon.png
 design/components/Icon/native/redesign/generated/images/ShieldIcon.png
+design/components/Icon/native/redesign/generated/images/ShieldLockIcon.png
 design/components/Icon/native/redesign/generated/images/ShieldUserIcon.png
 design/components/Icon/native/redesign/generated/images/ShopIcon.png
 design/components/Icon/native/redesign/generated/images/ShopSparkleIcon.png

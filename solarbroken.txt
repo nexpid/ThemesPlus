@@ -224,6 +224,7 @@ design/components/Icon/native/redesign/generated/images/SettingsIcon.png
 design/components/Icon/native/redesign/generated/images/SettingsInfoIcon.png
 design/components/Icon/native/redesign/generated/images/ShareIcon.png
 design/components/Icon/native/redesign/generated/images/ShieldIcon.png
+design/components/Icon/native/redesign/generated/images/ShieldLockIcon.png
 design/components/Icon/native/redesign/generated/images/ShieldUserIcon.png
 design/components/Icon/native/redesign/generated/images/ShopIcon.png
 design/components/Icon/native/redesign/generated/images/ShopSparkleIcon.png
@@ -789,16 +790,7 @@ modules/hub/native/images/hub_events.png
 modules/hub/native/images/search.png
 modules/hub/native/images/search_empty_state.png
 modules/instant_invite/native/images/copy.png
-modules/instant_invite/native/images/gmail.png
-modules/instant_invite/native/images/line.png
-modules/instant_invite/native/images/mail.png
-modules/instant_invite/native/images/messages.png
-modules/instant_invite/native/images/messenger.png
-modules/instant_invite/native/images/server-invite-envelope.png
 modules/instant_invite/native/images/share-android.png
-modules/instant_invite/native/images/telegram.png
-modules/instant_invite/native/images/twitter.png
-modules/instant_invite/native/images/whatsapp.png
 modules/main_tabs_v2/native/channel/header/images/icon-search.png
 modules/main_tabs_v2/native/images/arrow-right.png
 modules/main_tabs_v2/native/images/arrow-sm-down.png
