@@ -34,6 +34,7 @@ design/components/Icon/native/redesign/generated/images/ArrowLargeDownIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeLeftIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeRightIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallDownIcon.png
+design/components/Icon/native/redesign/generated/images/ArrowSmallLeftIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallUpIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowsUpDownIcon.png
 design/components/Icon/native/redesign/generated/images/AtIcon.png
@@ -54,7 +55,6 @@ design/components/Icon/native/redesign/generated/images/BugIcon.png
 design/components/Icon/native/redesign/generated/images/CalendarIcon.png
 design/components/Icon/native/redesign/generated/images/CalendarMinusIcon.png
 design/components/Icon/native/redesign/generated/images/CalendarPlusIcon.png
-design/components/Icon/native/redesign/generated/images/CalendarXIcon.png
 design/components/Icon/native/redesign/generated/images/CameraIcon.png
 design/components/Icon/native/redesign/generated/images/CameraSwapIcon.png
 design/components/Icon/native/redesign/generated/images/ChannelListIcon.png
@@ -87,6 +87,7 @@ design/components/Icon/native/redesign/generated/images/CircleExclamationPointIc
 design/components/Icon/native/redesign/generated/images/CircleInformationIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleInformationIcon.png
 design/components/Icon/native/redesign/generated/images/CircleMinusIcon-primary.png
+design/components/Icon/native/redesign/generated/images/CirclePlayIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CirclePlusIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleQuestionIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleQuestionIcon.png
@@ -143,6 +144,7 @@ design/components/Icon/native/redesign/generated/images/GroupPlusIcon.png
 design/components/Icon/native/redesign/generated/images/HammerIcon.png
 design/components/Icon/native/redesign/generated/images/HandRequestSpeakIcon.png
 design/components/Icon/native/redesign/generated/images/HandRequestSpeakListIcon.png
+design/components/Icon/native/redesign/generated/images/HashmarkIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesDenyIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesSlashIcon.png
@@ -244,6 +246,7 @@ design/components/Icon/native/redesign/generated/images/StickerIcon.png
 design/components/Icon/native/redesign/generated/images/StickerWink2Icon.png
 design/components/Icon/native/redesign/generated/images/StickerWinkIcon.png
 design/components/Icon/native/redesign/generated/images/SuperReactionIcon.png
+design/components/Icon/native/redesign/generated/images/TagIcon.png
 design/components/Icon/native/redesign/generated/images/TextIcon.png
 design/components/Icon/native/redesign/generated/images/TextLockIcon.png
 design/components/Icon/native/redesign/generated/images/TextWarningIcon.png
