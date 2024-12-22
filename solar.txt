@@ -20,6 +20,7 @@ _/external/PluginBrowser/SortDateNewestIcon.png
 _/external/PluginBrowser/SortDateOldestIcon.png
 _/external/PluginBrowser/SortNameAZIcon.png
 _/external/PluginBrowser/SortNameZAIcon.png
+_/external/SongSpotlight/services/AMIco.png
 _/external/SpotifyListenAlong/UserPlayIcon.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
 design/components/Icon/native/redesign/generated/images/ActivitiesIcon.png
