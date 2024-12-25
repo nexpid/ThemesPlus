@@ -20,8 +20,11 @@ _/external/PluginBrowser/SortDateNewestIcon.png
 _/external/PluginBrowser/SortDateOldestIcon.png
 _/external/PluginBrowser/SortNameAZIcon.png
 _/external/PluginBrowser/SortNameZAIcon.png
-_/external/SongSpotlight/AppleMusicIcon.png
-_/external/SongSpotlight/SoundcloudIcon.png
+_/external/SongSpotlight/player/FastForwardIcon.png
+_/external/SongSpotlight/player/FastForwardShuffleIcon.png
+_/external/SongSpotlight/player/PlayShuffleIcon.png
+_/external/SongSpotlight/services/AppleMusicIcon.png
+_/external/SongSpotlight/services/SoundcloudIcon.png
 _/external/SpotifyListenAlong/UserPlayIcon.png
 _/revenge.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
