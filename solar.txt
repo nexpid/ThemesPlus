@@ -144,6 +144,7 @@ design/components/Icon/native/redesign/generated/images/HeadphonesIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesSlashIcon.png
 design/components/Icon/native/redesign/generated/images/HeartIcon.png
 design/components/Icon/native/redesign/generated/images/HomeIcon.png
+design/components/Icon/native/redesign/generated/images/HourglassIcon.png
 design/components/Icon/native/redesign/generated/images/HubIcon.png
 design/components/Icon/native/redesign/generated/images/IdIcon.png
 design/components/Icon/native/redesign/generated/images/ImageFileIcon.png
