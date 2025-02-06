@@ -16,10 +16,10 @@ _/external/ColorfulChannels/warning.png
 _/external/ColorfulChannels/warningBottom.png
 _/external/Minimod/NerdEmoji.png
 _/external/MonetTheme/RepainterIcon.png
-_/external/PlatformIndicator/Console.png
-_/external/PlatformIndicator/Desktop.png
-_/external/PlatformIndicator/Mobile.png
-_/external/PlatformIndicator/Web.png
+_/external/PlatformIndicators/Console.png
+_/external/PlatformIndicators/Desktop.png
+_/external/PlatformIndicators/Mobile.png
+_/external/PlatformIndicators/Web.png
 _/external/PluginBrowser/SortDateNewestIcon.png
 _/external/PluginBrowser/SortDateOldestIcon.png
 _/external/PluginBrowser/SortNameAZIcon.png
