@@ -89,6 +89,7 @@ design/components/Icon/native/redesign/generated/images/ChatMarkUnreadIcon.png
 design/components/Icon/native/redesign/generated/images/ChatPlusIcon.png
 design/components/Icon/native/redesign/generated/images/ChatSmileIcon.png
 design/components/Icon/native/redesign/generated/images/ChatWarningIcon.png
+design/components/Icon/native/redesign/generated/images/ChatXIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkLargeBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkLargeIcon.png
 design/components/Icon/native/redesign/generated/images/CheckmarkSmallBoldIcon.png
@@ -187,6 +188,7 @@ design/components/Icon/native/redesign/generated/images/HeadphonesIcon.png
 design/components/Icon/native/redesign/generated/images/HeadphonesSlashIcon.png
 design/components/Icon/native/redesign/generated/images/HeartIcon.png
 design/components/Icon/native/redesign/generated/images/HomeIcon.png
+design/components/Icon/native/redesign/generated/images/HourglassIcon.png
 design/components/Icon/native/redesign/generated/images/HubIcon.png
 design/components/Icon/native/redesign/generated/images/IdIcon.png
 design/components/Icon/native/redesign/generated/images/ImageFileIcon.png
@@ -202,6 +204,7 @@ design/components/Icon/native/redesign/generated/images/KeyIcon.png
 design/components/Icon/native/redesign/generated/images/KeyboardIcon.png
 design/components/Icon/native/redesign/generated/images/LanguageIcon.png
 design/components/Icon/native/redesign/generated/images/LaptopPhoneIcon.png
+design/components/Icon/native/redesign/generated/images/LettersIcon.png
 design/components/Icon/native/redesign/generated/images/LightbulbIcon.png
 design/components/Icon/native/redesign/generated/images/LinkExternalMediumIcon.png
 design/components/Icon/native/redesign/generated/images/LinkExternalSmallIcon.png
@@ -299,6 +302,7 @@ design/components/Icon/native/redesign/generated/images/StickerWink2Icon.png
 design/components/Icon/native/redesign/generated/images/StickerWinkIcon.png
 design/components/Icon/native/redesign/generated/images/SuperReactionIcon.png
 design/components/Icon/native/redesign/generated/images/TagIcon.png
+design/components/Icon/native/redesign/generated/images/TextControllerIcon.png
 design/components/Icon/native/redesign/generated/images/TextIcon.png
 design/components/Icon/native/redesign/generated/images/TextLockIcon.png
 design/components/Icon/native/redesign/generated/images/TextWarningIcon.png
@@ -329,6 +333,7 @@ design/components/Icon/native/redesign/generated/images/UserCircleIcon.png
 design/components/Icon/native/redesign/generated/images/UserCircleNewIcon.png
 design/components/Icon/native/redesign/generated/images/UserIcon.png
 design/components/Icon/native/redesign/generated/images/UserMinusIcon.png
+design/components/Icon/native/redesign/generated/images/UserPlatformIcon.png
 design/components/Icon/native/redesign/generated/images/UserPlusIcon.png
 design/components/Icon/native/redesign/generated/images/UserSquareIcon.png
 design/components/Icon/native/redesign/generated/images/UserStatusIcon.png
