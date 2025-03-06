@@ -244,6 +244,7 @@ design/components/Icon/native/redesign/generated/images/StickerWink2Icon.png
 design/components/Icon/native/redesign/generated/images/StickerWinkIcon.png
 design/components/Icon/native/redesign/generated/images/SuperReactionIcon.png
 design/components/Icon/native/redesign/generated/images/TagIcon.png
+design/components/Icon/native/redesign/generated/images/TextControllerIcon.png
 design/components/Icon/native/redesign/generated/images/TextIcon.png
 design/components/Icon/native/redesign/generated/images/TextLockIcon.png
 design/components/Icon/native/redesign/generated/images/TextWarningIcon.png
@@ -657,7 +658,6 @@ images/native/main_tabs/Discord.png
 images/native/main_tabs/Friends.png
 images/native/main_tabs/Messages.png
 images/native/main_tabs/NotificationCenter.png
-images/native/main_tabs/Search.png
 images/native/main_tabs/UserIcon.png
 images/native/platforms/img_account_sync_facebook_white.png
 images/native/platforms/img_account_sync_twitter_white.png

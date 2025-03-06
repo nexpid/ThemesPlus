@@ -244,6 +244,7 @@ design/components/Icon/native/redesign/generated/images/StickerWink2Icon.png
 design/components/Icon/native/redesign/generated/images/StickerWinkIcon.png
 design/components/Icon/native/redesign/generated/images/SuperReactionIcon.png
 design/components/Icon/native/redesign/generated/images/TagIcon.png
+design/components/Icon/native/redesign/generated/images/TextControllerIcon.png
 design/components/Icon/native/redesign/generated/images/TextIcon.png
 design/components/Icon/native/redesign/generated/images/TextLockIcon.png
 design/components/Icon/native/redesign/generated/images/TextWarningIcon.png
