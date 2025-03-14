@@ -39,6 +39,7 @@ design/components/Icon/native/redesign/generated/images/ArrowLargeDownIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowLargeLeftIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallDownIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallLeftIcon.png
+design/components/Icon/native/redesign/generated/images/ArrowSmallRightIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowSmallUpIcon.png
 design/components/Icon/native/redesign/generated/images/ArrowsUpDownIcon.png
 design/components/Icon/native/redesign/generated/images/AtIcon.png
