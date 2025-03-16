@@ -370,6 +370,7 @@ images/native/ic_reaction_smile.png
 images/native/ic_reply_24px.png
 images/native/ic_report_message.png
 images/native/ic_selection_checked_24px.png
+images/native/ic_selection_none_24px.png
 images/native/ic_spotify_white_16px.png
 images/native/ic_table_arrow_down.png
 images/native/ic_table_arrow_right.png
