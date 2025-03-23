@@ -150,6 +150,7 @@ design/components/Icon/native/redesign/generated/images/CreativeIcon.png
 design/components/Icon/native/redesign/generated/images/CrunchyrollNeutralIcon.png
 design/components/Icon/native/redesign/generated/images/DenyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
+design/components/Icon/native/redesign/generated/images/DoubleCheckmarkIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
 design/components/Icon/native/redesign/generated/images/DragIcon.png
 design/components/Icon/native/redesign/generated/images/EducationIcon.png
@@ -214,6 +215,7 @@ design/components/Icon/native/redesign/generated/images/LinkExternalMediumIcon.p
 design/components/Icon/native/redesign/generated/images/LinkExternalSmallIcon.png
 design/components/Icon/native/redesign/generated/images/LinkIcon.png
 design/components/Icon/native/redesign/generated/images/ListBulletsIcon.png
+design/components/Icon/native/redesign/generated/images/ListViewIcon.png
 design/components/Icon/native/redesign/generated/images/LocationIcon.png
 design/components/Icon/native/redesign/generated/images/LockIcon.png
 design/components/Icon/native/redesign/generated/images/LockUnlockedIcon.png
