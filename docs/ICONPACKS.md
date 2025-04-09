@@ -13,7 +13,7 @@ Probably the most liked Rosiecord iconpack, constantly updated with new icons by
 Created by: [@Rosie](https://discord.com/users/581573474296791211), [@samara](https://discord.com/users/1236648613145346203) and [@Rairof](https://discord.com/users/923212189123346483)  
 Assets from: [https://icons8.com/icons/plumpy](https://icons8.com/icons/plumpy)  
 
-### Rosiecord Iconsax <img src="https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Iconsax/design/components/Icon/native/redesign/generated/images/BellIcon@2x.png" alt="Preview for Rosiecord Iconsax" width=24 height=24 />
+### Rosiecord Iconsax <img src="https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/iconsax/design/components/Icon/native/redesign/generated/images/BellIcon@2x.png" alt="Preview for Rosiecord Iconsax" width=24 height=24 />
 
 Uses some icons from Rosiecord Plumpy, given by Flower :3, includes quite modern icons  
 Created by: [@Rosie](https://discord.com/users/581573474296791211) and **Flower :3**  
@@ -31,21 +31,21 @@ An iconpack based on the Icons8 Deco collection
 Created by: [@doraa](https://discord.com/users/455513497288310785)  
 Assets from: [https://icons8.com/icons/deco](https://icons8.com/icons/deco)  
 
-### Solar <img src="https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Solar" width=24 height=24 />
+### Solar <img src="https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/solar/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Solar" width=24 height=24 />
 
 A giant iconpack, as big as the solar system!  
 Created by: [@Moodle](https://discord.com/users/807170846497570848)  
 Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)  
 
-### Solar (Duotone) <img src="https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-Duotone/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Solar (Duotone)" width=24 height=24 />
+### Solar (Duotone) <img src="https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/solar-duotone/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Solar (Duotone)" width=24 height=24 />
 
-A giant iconpack, as big as the solar system! Now with more colors.  
+A giant iconpack, as big as the solar system, now with more colors.  
 Created by: [@Moodle](https://discord.com/users/807170846497570848)  
 Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)  
 
-### Solar (Broken) <img src="https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-Broken/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Solar (Broken)" width=24 height=24 />
+### Solar (Dashed) <img src="https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/solar-broken/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Solar (Dashed)" width=24 height=24 />
 
-A giant iconpack, as big as the solar system, now broken 💔  
+A giant iconpack, as big as the solar system, now with dashed lines.  
 Created by: [@Moodle](https://discord.com/users/807170846497570848)  
 Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)  
 
