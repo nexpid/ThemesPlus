@@ -1,6 +1,7 @@
 _/bunny.png
 _/external/ColorfulChannels/announcement/lock.png
 _/external/ColorfulChannels/announcement/warning.png
+_/external/ColorfulChannels/controller.png
 _/external/ColorfulChannels/forum/lock.png
 _/external/ColorfulChannels/forum/warning.png
 _/external/ColorfulChannels/image/lock.png
@@ -8,6 +9,7 @@ _/external/ColorfulChannels/image/warning.png
 _/external/ColorfulChannels/lock.png
 _/external/ColorfulChannels/lockBottom.png
 _/external/ColorfulChannels/stage/lock.png
+_/external/ColorfulChannels/text/controller.png
 _/external/ColorfulChannels/text/lock.png
 _/external/ColorfulChannels/text/warning.png
 _/external/ColorfulChannels/voice/lock.png
@@ -24,6 +26,11 @@ _/external/PluginBrowser/SortDateNewestIcon.png
 _/external/PluginBrowser/SortDateOldestIcon.png
 _/external/PluginBrowser/SortNameAZIcon.png
 _/external/PluginBrowser/SortNameZAIcon.png
+_/external/PluginList/PluginsListIcon2.png
+_/external/PluginList/SortDateNewestIcon.png
+_/external/PluginList/SortDateOldestIcon.png
+_/external/PluginList/SortNameAZIcon.png
+_/external/PluginList/SortNameZAIcon.png
 _/external/SongSpotlight/player/FastForwardIcon.png
 _/external/SpotifyListenAlong/UserPlayIcon.png
 design/components/Icon/native/redesign/generated/images/AccessibilityIcon.png
