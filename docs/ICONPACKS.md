@@ -34,19 +34,19 @@ Assets from: [https://icons8.com/icons/deco](https://icons8.com/icons/deco)
 ### Solar <img src="https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/solar/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Solar" width=24 height=24 />
 
 A giant iconpack, as big as the solar system!  
-Created by: [@Moodle](https://discord.com/users/807170846497570848)  
+Created by: [@mudrhiod](https://discord.com/users/807170846497570848)  
 Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)  
 
 ### Solar (Duotone) <img src="https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/solar-duotone/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Solar (Duotone)" width=24 height=24 />
 
 A giant iconpack, as big as the solar system, now with more colors.  
-Created by: [@Moodle](https://discord.com/users/807170846497570848)  
+Created by: [@mudrhiod](https://discord.com/users/807170846497570848)  
 Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)  
 
 ### Solar (Dashed) <img src="https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/solar-broken/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Solar (Dashed)" width=24 height=24 />
 
 A giant iconpack, as big as the solar system, now with dashed lines.  
-Created by: [@Moodle](https://discord.com/users/807170846497570848)  
+Created by: [@mudrhiod](https://discord.com/users/807170846497570848)  
 Assets from: [https://www.figma.com/community/file/1166831539721848736/](https://www.figma.com/community/file/1166831539721848736/)  
 
 ### Material Two Tone <img src="https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/MaterialTwoTone/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for Material Two Tone" width=24 height=24 />
