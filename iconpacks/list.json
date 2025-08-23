@@ -43,7 +43,7 @@
         "sources": ["https://iconsax.io/"]
       },
       "suffix": "@2x",
-      "load": "https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/iconsax/"
+      "load": "https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/iconsax/"
     },
     {
       "id": "md3",
@@ -86,15 +86,15 @@
       "credits": {
         "authors": [
           {
-            "name": "Moodle",
+            "name": "mudrhiod",
             "id": "807170846497570848"
           }
         ],
         "sources": ["https://www.figma.com/community/file/1166831539721848736/"]
       },
       "suffix": "",
-      "config": "https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/solar/config.json",
-      "load": "https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/solar/"
+      "config": "https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/solar/config.json",
+      "load": "https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/solar/"
     },
     {
       "id": "solarduotone",
@@ -103,15 +103,15 @@
       "credits": {
         "authors": [
           {
-            "name": "Moodle",
+            "name": "mudrhiod",
             "id": "807170846497570848"
           }
         ],
         "sources": ["https://www.figma.com/community/file/1166831539721848736/"]
       },
       "suffix": "",
-      "config": "https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/solar-duotone/config.json",
-      "load": "https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/solar-duotone/"
+      "config": "https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/solar-duotone/config.json",
+      "load": "https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/solar-duotone/"
     },
     {
       "id": "solarbroken",
@@ -120,15 +120,15 @@
       "credits": {
         "authors": [
           {
-            "name": "Moodle",
+            "name": "mudrhiod",
             "id": "807170846497570848"
           }
         ],
         "sources": ["https://www.figma.com/community/file/1166831539721848736/"]
       },
       "suffix": "",
-      "config": "https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/solar-broken/config.json",
-      "load": "https://raw.githubusercontent.com/mudaranrhiod/discord-iconpacks/master/plus/solar-broken/"
+      "config": "https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/solar-broken/config.json",
+      "load": "https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/solar-broken/"
     },
     {
       "id": "materialtwotone",
