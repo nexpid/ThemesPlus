@@ -14,5 +14,8 @@
   ],
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "octokit": "^5.0.3"
   }
 }
