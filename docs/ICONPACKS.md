@@ -19,7 +19,7 @@ Uses some icons from Rosiecord Plumpy, given by Flower :3, includes quite modern
 Created by: [@Rosie](https://discord.com/users/581573474296791211) and **Flower :3**  
 Assets from: [https://iconsax.io/](https://iconsax.io/)  
 
-### MD3 <img src="https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for MD3" width=24 height=24 />
+### MD3 <img src="https://codeberg.org/panbread/vd-iconpacks/raw/branch/master/Packs/MaterialDesign3/design/components/Icon/native/redesign/generated/images/BellIcon.png" alt="Preview for MD3" width=24 height=24 />
 
 Material Icons iconpack for Pyoncord  
 Created by: [@panniku](https://discord.com/users/703634705152606318)  
