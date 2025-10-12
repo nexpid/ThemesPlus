@@ -59,8 +59,8 @@
         "sources": ["https://fonts.google.com/icons/"]
       },
       "suffix": "",
-      "config": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3/config.json",
-      "load": "https://raw.githubusercontent.com/Panniku/vd-iconpacks/master/Packs/MaterialDesign3/"
+      "config": "https://codeberg.org/panbread/vd-iconpacks/raw/branch/master/Packs/MaterialDesign3/config.json",
+      "load": "https://codeberg.org/panbread/vd-iconpacks/raw/branch/master/Packs/MaterialDesign3/"
     },
     {
       "id": "deco",
