@@ -46,9 +46,9 @@
       "load": "https://raw.githubusercontent.com/mudrhiod/discord-iconpacks/master/plus/iconsax/"
     },
     {
-      "id": "md3",
-      "name": "MD3",
-      "description": "Material Icons iconpack for Pyoncord",
+      "id": "md3legacy",
+      "name": "MD3 (Legacy)",
+      "description": "Material Icons 3 (Legacy) iconpack for Pyoncord",
       "credits": {
         "authors": [
           {
@@ -59,8 +59,25 @@
         "sources": ["https://fonts.google.com/icons/"]
       },
       "suffix": "",
-      "config": "https://codeberg.org/panbread/vd-iconpacks/raw/branch/master/Packs/MaterialDesign3/config.json",
-      "load": "https://codeberg.org/panbread/vd-iconpacks/raw/branch/master/Packs/MaterialDesign3/"
+      "config": "https://codeberg.org/panbread/iconpackrepo/raw/branch/main/packs/MaterialDesign3Legacy/config.json",
+      "load": "https://codeberg.org/panbread/iconpackrepo/raw/branch/main/packs/MaterialDesign3Legacy/"
+    },
+    {
+      "id": "md3",
+      "name": "MD3 (Rounded) ",
+      "description": "Material Icons 3 (New, Rounded) iconpack for Pyoncord",
+      "credits": {
+        "authors": [
+          {
+            "name": "panniku",
+            "id": "703634705152606318"
+          }
+        ],
+        "sources": ["https://fonts.google.com/icons/"]
+      },
+      "suffix": "",
+      "config": "https://codeberg.org/panbread/iconpackrepo/raw/branch/main/packs/MaterialDesign3/config.json",
+      "load": "https://codeberg.org/panbread/iconpackrepo/raw/branch/main/packs/MaterialDesign3/"
     },
     {
       "id": "deco",
