@@ -1,10 +1,6 @@
 import { Octokit } from "octokit";
 import type { components } from "@octokit/openapi-types";
 
-function clean(path: string[]) {
-	return path.filter((x) => x.length > 0).join("/");
-}
-
 const exts = ["png", "jpg", "webm", "lottie"];
 
 interface GitFile {
@@ -48,10 +44,11 @@ async function fetchTreesCompatible(
         if ("total_count" in data && typeof data.total_count === "number" && data.total_count <= tree.length) break;
     }
 
+    const chunks = path.split("/").length
 	const files = tree.filter(
 		(x) =>
 			x.type === "blob" &&
-			x.path.startsWith(path) &&
+			x.path.split("/").slice(0, chunks).join("/") === path &&
 			exts.some((ext) => x.path.endsWith(`${suffix}.${ext}`)),
 	);
 
@@ -63,7 +60,7 @@ async function fetchTreesCompatible(
 }
 
 export async function fetchRepoContents(url: string, iconpack: IconpackInfo) {
-	const { hostname, pathname } = new URL(url);
+	const { hostname, pathname } = new URL(url.replace(/\/$/, ""));
 	const path = pathname.split("/").slice(1);
 
 	let files: GitFile[] = [];
@@ -74,7 +71,7 @@ export async function fetchRepoContents(url: string, iconpack: IconpackInfo) {
 				owner: path[0],
 				repo: path[1],
 				branch: path[branchI],
-				path: clean(path.slice(branchI + 1)),
+				path: path.slice(branchI + 1).join("/"),
 			},
 			iconpack,
 		);
@@ -84,7 +81,7 @@ export async function fetchRepoContents(url: string, iconpack: IconpackInfo) {
 				owner: path[0],
 				repo: path[1],
 				branch: path[4],
-				path: clean(path.slice(5)),
+				path: path.slice(5).join("/"),
 			},
 			iconpack,
 			"https://codeberg.org/api/v1",

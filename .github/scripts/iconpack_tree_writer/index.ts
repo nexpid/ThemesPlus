@@ -18,7 +18,6 @@ interface Iconpacks {
 const hashes: Record<string, { hash: string; size: number; }> = {};
 const { list } = (await Bun.file(join("iconpacks", "list.json")).json()) as Iconpacks;
 
-
 await Promise.allSettled(list.map((async ({ id, load, suffix }) => {
     try {
         const start = performance.now();
