@@ -1,4 +1,5 @@
 import { Octokit } from "octokit";
+import type { components } from "@octokit/openapi-types";
 
 function clean(path: string[]) {
 	return path.filter((x) => x.length > 0).join("/");
@@ -26,17 +27,28 @@ async function fetchTreesCompatible(
 	{ suffix }: IconpackInfo,
 	baseUrl?: string,
 ): Promise<GitFile[]> {
-	const data = await new Octokit({
-		baseUrl,
-	})
-		.request("GET /repos/{owner}/{repo}/git/trees/{tree_sha}", {
-			owner,
-			repo,
-			tree_sha: branch,
-			recursive: "true",
-		})
-		.then((x) => x.data);
-	const files = data.tree.filter(
+    const tree: components["schemas"]["git-tree"]["tree"] = [];
+
+    let page = 1;
+    while (page < 10) {
+        const data = await new Octokit({
+            baseUrl,
+        })
+            .request("GET /repos/{owner}/{repo}/git/trees/{tree_sha}", {
+                owner,
+                repo,
+                tree_sha: branch,
+                recursive: "true",
+                page: page++,
+            })
+            .then((x) => x.data);
+        for (const f of data.tree) tree.push(f);
+
+        if (!data.truncated) break;
+        if ("total_count" in data && typeof data.total_count === "number" && data.total_count <= tree.length) break;
+    }
+
+	const files = tree.filter(
 		(x) =>
 			x.type === "blob" &&
 			x.path.startsWith(path) &&
