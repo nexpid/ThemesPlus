@@ -48,6 +48,6 @@ for (const file of await readdir(base, { withFileTypes: true })) {
         await rm(join(base, file.name));
     }
 }
-await Bun.write(join(base, "_hashes.txt"), JSON.stringify(hashes));
+await Bun.write(join(base, "_hashes.txt"), JSON.stringify(Object.fromEntries(Object.entries(hashes).toSorted())));
 
 console.log(`\nDone [${(performance.now() - processStart).toFixed(1)}ms]`);
