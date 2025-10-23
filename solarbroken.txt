@@ -61,6 +61,7 @@ design/components/Icon/native/redesign/generated/images/BicycleIcon.png
 design/components/Icon/native/redesign/generated/images/BookCheckIcon.png
 design/components/Icon/native/redesign/generated/images/BookmarkIcon.png
 design/components/Icon/native/redesign/generated/images/BookmarkOutlineIcon.png
+design/components/Icon/native/redesign/generated/images/BoostGemIcon.png
 design/components/Icon/native/redesign/generated/images/BoostTier2Icon.png
 design/components/Icon/native/redesign/generated/images/BoostTier3Icon.png
 design/components/Icon/native/redesign/generated/images/BugIcon.png
@@ -123,6 +124,7 @@ design/components/Icon/native/redesign/generated/images/ConnectionBadIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionFineIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionUnknownIcon.png
 design/components/Icon/native/redesign/generated/images/CopyIcon.png
+design/components/Icon/native/redesign/generated/images/CrownIcon.png
 design/components/Icon/native/redesign/generated/images/DenyIcon.png
 design/components/Icon/native/redesign/generated/images/DoorExitIcon.png
 design/components/Icon/native/redesign/generated/images/DownloadIcon.png
@@ -141,6 +143,7 @@ design/components/Icon/native/redesign/generated/images/FiltersHorizontalIcon.pn
 design/components/Icon/native/redesign/generated/images/FlagIcon.png
 design/components/Icon/native/redesign/generated/images/FlashIcon.png
 design/components/Icon/native/redesign/generated/images/FolderIcon.png
+design/components/Icon/native/redesign/generated/images/FolderPlusIcon.png
 design/components/Icon/native/redesign/generated/images/FoodIcon.png
 design/components/Icon/native/redesign/generated/images/ForumIcon.png
 design/components/Icon/native/redesign/generated/images/ForumLockIcon.png
@@ -195,12 +198,14 @@ design/components/Icon/native/redesign/generated/images/MobilePhoneSettingsIcon.
 design/components/Icon/native/redesign/generated/images/MobilePhoneShareIcon.png
 design/components/Icon/native/redesign/generated/images/ModerationIcon.png
 design/components/Icon/native/redesign/generated/images/MoreHorizontalIcon.png
+design/components/Icon/native/redesign/generated/images/MoreVerticalIcon.png
 design/components/Icon/native/redesign/generated/images/MusicIcon.png
 design/components/Icon/native/redesign/generated/images/MusicSlashIcon.png
 design/components/Icon/native/redesign/generated/images/NatureIcon.png
 design/components/Icon/native/redesign/generated/images/NewUserIcon.png
 design/components/Icon/native/redesign/generated/images/NitroWheelIcon.png
 design/components/Icon/native/redesign/generated/images/ObjectIcon.png
+design/components/Icon/native/redesign/generated/images/OrbsIcon.png
 design/components/Icon/native/redesign/generated/images/PaintPaletteIcon.png
 design/components/Icon/native/redesign/generated/images/PaintbrushThinIcon.png
 design/components/Icon/native/redesign/generated/images/PaperIcon.png
